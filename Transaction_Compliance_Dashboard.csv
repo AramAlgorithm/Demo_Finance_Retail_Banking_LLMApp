@@ -1,0 +1,1001 @@
+Transaction ID,Date,Amount,Currency,Type,Status,Compliance Flag,Audit ID,Audit Date,Reviewer ID,Decision,Notes,Incident ID,Incident Date,Risk Level,Action Taken,Regulation,Compliance Status
+1,2023-01-01,5533.25,EUR,Mobile Payment,Pending,True,1001,2023-01-01,1015,Approved,All good,2001,2023-01-01,Medium,No Action,PSD2,Compliant
+2,2023-01-01,7180.37,EUR,ACH,Flagged,False,1002,2023-01-01,1008,Rejected,Check details,2002,2023-01-01,High,Escalation,PSD2,Non-Compliant
+3,2023-01-01,6067.36,GBP,ACH,Completed,True,1003,2023-01-01,1003,Escalated,All good,2003,2023-01-01,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+4,2023-01-01,5494.34,USD,ACH,Pending,False,1004,2023-01-01,1003,Rejected,High amount,2004,2023-01-01,Low,No Action,Dodd-Frank Act,Non-Compliant
+5,2023-01-01,4294.18,GBP,ACH,Flagged,True,1005,2023-01-01,1017,Escalated,All good,2005,2023-01-01,High,No Action,BSA,Non-Compliant
+6,2023-01-01,6494.35,EUR,Wire Transfer,Pending,False,1006,2023-01-01,1014,Rejected,High amount,2006,2023-01-01,High,Review Requested,Dodd-Frank Act,Non-Compliant
+7,2023-01-01,4432.11,USD,ACH,Flagged,False,1007,2023-01-01,1014,Rejected,All good,2007,2023-01-01,High,Escalation,BSA,Non-Compliant
+8,2023-01-01,8928.55,USD,ACH,Completed,False,1008,2023-01-01,1002,Approved,High amount,2008,2023-01-01,Medium,Review Requested,PSD2,Compliant
+9,2023-01-01,9640.26,USD,ACH,Completed,True,1009,2023-01-01,1014,Approved,Check details,2009,2023-01-01,Low,Escalation,PSD2,Non-Compliant
+10,2023-01-01,3896.07,GBP,ACH,Pending,False,1010,2023-01-01,1011,Approved,High amount,2010,2023-01-01,Low,Escalation,Dodd-Frank Act,Non-Compliant
+11,2023-01-01,7938.08,GBP,Wire Transfer,Completed,False,1011,2023-01-01,1014,Approved,High amount,2011,2023-01-01,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+12,2023-01-01,5336.06,GBP,Wire Transfer,Pending,True,1012,2023-01-01,1007,Rejected,All good,2012,2023-01-01,High,Escalation,PSD2,Non-Compliant
+13,2023-01-01,5723.64,EUR,Mobile Payment,Pending,False,1013,2023-01-01,1019,Approved,Check details,2013,2023-01-01,Low,No Action,PSD2,Non-Compliant
+14,2023-01-01,9263.41,GBP,ACH,Completed,False,1014,2023-01-01,1008,Rejected,All good,2014,2023-01-01,Low,No Action,PSD2,Compliant
+15,2023-01-01,803.26,GBP,ACH,Pending,True,1015,2023-01-01,1014,Rejected,Check details,2015,2023-01-01,Medium,No Action,PSD2,Non-Compliant
+16,2023-01-01,962.58,GBP,Mobile Payment,Pending,False,1016,2023-01-01,1004,Escalated,Check details,2016,2023-01-01,High,No Action,Dodd-Frank Act,Compliant
+17,2023-01-01,300.16,USD,Wire Transfer,Completed,True,1017,2023-01-01,1011,Rejected,High amount,2017,2023-01-01,High,No Action,PSD2,Compliant
+18,2023-01-01,8342.94,USD,Mobile Payment,Flagged,False,1018,2023-01-01,1004,Approved,High amount,2018,2023-01-01,Low,No Action,Dodd-Frank Act,Compliant
+19,2023-01-01,7803.75,EUR,Wire Transfer,Pending,True,1019,2023-01-01,1006,Escalated,High amount,2019,2023-01-01,High,No Action,BSA,Compliant
+20,2023-01-01,8713.12,USD,Mobile Payment,Pending,False,1020,2023-01-01,1006,Escalated,All good,2020,2023-01-01,Medium,No Action,PSD2,Non-Compliant
+21,2023-01-01,9788.32,EUR,Mobile Payment,Pending,True,1021,2023-01-01,1002,Escalated,All good,2021,2023-01-01,Medium,Escalation,PSD2,Compliant
+22,2023-01-01,8011.67,USD,ACH,Completed,False,1022,2023-01-01,1019,Rejected,Check details,2022,2023-01-01,Low,No Action,BSA,Non-Compliant
+23,2023-01-01,4668.65,EUR,Mobile Payment,Flagged,False,1023,2023-01-01,1001,Approved,All good,2023,2023-01-01,Medium,No Action,Dodd-Frank Act,Non-Compliant
+24,2023-01-01,7827.24,EUR,Wire Transfer,Completed,False,1024,2023-01-01,1013,Escalated,High amount,2024,2023-01-01,Low,Escalation,BSA,Non-Compliant
+25,2023-01-02,1270.92,USD,Wire Transfer,Completed,True,1025,2023-01-02,1014,Rejected,All good,2025,2023-01-02,High,Escalation,BSA,Non-Compliant
+26,2023-01-02,6435.22,USD,Mobile Payment,Completed,False,1026,2023-01-02,1003,Rejected,All good,2026,2023-01-02,Low,Escalation,PSD2,Non-Compliant
+27,2023-01-02,1519.2,GBP,Wire Transfer,Flagged,True,1027,2023-01-02,1019,Escalated,Check details,2027,2023-01-02,Medium,Escalation,Dodd-Frank Act,Compliant
+28,2023-01-02,9452.22,GBP,Mobile Payment,Completed,True,1028,2023-01-02,1017,Approved,High amount,2028,2023-01-02,Low,Escalation,PSD2,Compliant
+29,2023-01-02,5266.3,EUR,ACH,Completed,True,1029,2023-01-02,1004,Rejected,All good,2029,2023-01-02,High,Escalation,PSD2,Compliant
+30,2023-01-02,4205.15,EUR,ACH,Completed,False,1030,2023-01-02,1013,Escalated,All good,2030,2023-01-02,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+31,2023-01-02,2719.1,EUR,ACH,Flagged,False,1031,2023-01-02,1009,Rejected,Check details,2031,2023-01-02,High,Review Requested,PSD2,Non-Compliant
+32,2023-01-02,7764.91,USD,ACH,Flagged,False,1032,2023-01-02,1004,Approved,Check details,2032,2023-01-02,Low,Escalation,PSD2,Non-Compliant
+33,2023-01-02,4615.89,USD,Mobile Payment,Flagged,True,1033,2023-01-02,1010,Approved,Check details,2033,2023-01-02,Low,Escalation,PSD2,Non-Compliant
+34,2023-01-02,5727.5,GBP,Wire Transfer,Flagged,False,1034,2023-01-02,1013,Approved,High amount,2034,2023-01-02,Medium,No Action,BSA,Non-Compliant
+35,2023-01-02,286.02,USD,Mobile Payment,Completed,True,1035,2023-01-02,1018,Approved,Check details,2035,2023-01-02,High,No Action,Dodd-Frank Act,Non-Compliant
+36,2023-01-02,6214.59,EUR,Wire Transfer,Flagged,True,1036,2023-01-02,1012,Rejected,All good,2036,2023-01-02,High,Escalation,Dodd-Frank Act,Non-Compliant
+37,2023-01-02,6159.75,GBP,Mobile Payment,Pending,False,1037,2023-01-02,1016,Approved,All good,2037,2023-01-02,Low,No Action,Dodd-Frank Act,Non-Compliant
+38,2023-01-02,6207.65,USD,Wire Transfer,Completed,True,1038,2023-01-02,1001,Escalated,High amount,2038,2023-01-02,Medium,No Action,PSD2,Non-Compliant
+39,2023-01-02,9443.11,EUR,Wire Transfer,Pending,True,1039,2023-01-02,1014,Approved,Check details,2039,2023-01-02,High,Escalation,PSD2,Non-Compliant
+40,2023-01-02,6850.02,USD,Mobile Payment,Flagged,True,1040,2023-01-02,1007,Approved,High amount,2040,2023-01-02,Low,No Action,Dodd-Frank Act,Compliant
+41,2023-01-02,3659.13,USD,ACH,Pending,False,1041,2023-01-02,1005,Escalated,High amount,2041,2023-01-02,Low,Review Requested,BSA,Non-Compliant
+42,2023-01-02,4426.62,USD,Mobile Payment,Completed,True,1042,2023-01-02,1002,Approved,High amount,2042,2023-01-02,Low,Review Requested,Dodd-Frank Act,Compliant
+43,2023-01-02,7006.55,EUR,ACH,Completed,False,1043,2023-01-02,1004,Approved,High amount,2043,2023-01-02,High,No Action,Dodd-Frank Act,Compliant
+44,2023-01-02,696.23,EUR,Mobile Payment,Completed,True,1044,2023-01-02,1010,Escalated,Check details,2044,2023-01-02,High,Review Requested,PSD2,Compliant
+45,2023-01-02,6700.99,USD,Wire Transfer,Pending,True,1045,2023-01-02,1015,Approved,High amount,2045,2023-01-02,Low,Escalation,PSD2,Compliant
+46,2023-01-02,6739.31,EUR,ACH,Completed,False,1046,2023-01-02,1019,Rejected,High amount,2046,2023-01-02,Low,Escalation,PSD2,Non-Compliant
+47,2023-01-02,2182.79,USD,Wire Transfer,Completed,True,1047,2023-01-02,1015,Rejected,High amount,2047,2023-01-02,High,Escalation,BSA,Compliant
+48,2023-01-02,1376.37,GBP,Wire Transfer,Pending,True,1048,2023-01-02,1019,Approved,All good,2048,2023-01-02,Medium,Escalation,PSD2,Non-Compliant
+49,2023-01-03,3222.74,EUR,Wire Transfer,Flagged,False,1049,2023-01-03,1010,Rejected,Check details,2049,2023-01-03,Medium,Review Requested,BSA,Compliant
+50,2023-01-03,3700.74,USD,Mobile Payment,Completed,False,1050,2023-01-03,1003,Escalated,High amount,2050,2023-01-03,High,Escalation,Dodd-Frank Act,Non-Compliant
+51,2023-01-03,5744.95,USD,Wire Transfer,Flagged,True,1051,2023-01-03,1011,Rejected,All good,2051,2023-01-03,High,No Action,PSD2,Compliant
+52,2023-01-03,4442.15,USD,Mobile Payment,Flagged,True,1052,2023-01-03,1018,Approved,Check details,2052,2023-01-03,Low,Escalation,Dodd-Frank Act,Compliant
+53,2023-01-03,9884.9,GBP,ACH,Completed,True,1053,2023-01-03,1002,Approved,High amount,2053,2023-01-03,Medium,Review Requested,PSD2,Non-Compliant
+54,2023-01-03,1110.24,EUR,Wire Transfer,Pending,True,1054,2023-01-03,1018,Approved,Check details,2054,2023-01-03,Low,No Action,Dodd-Frank Act,Non-Compliant
+55,2023-01-03,2167.88,USD,ACH,Flagged,True,1055,2023-01-03,1015,Approved,Check details,2055,2023-01-03,High,No Action,BSA,Compliant
+56,2023-01-03,1696.96,USD,ACH,Pending,True,1056,2023-01-03,1016,Escalated,Check details,2056,2023-01-03,Low,No Action,Dodd-Frank Act,Compliant
+57,2023-01-03,6565.77,USD,Mobile Payment,Completed,False,1057,2023-01-03,1019,Approved,High amount,2057,2023-01-03,Medium,Review Requested,PSD2,Non-Compliant
+58,2023-01-03,2607.59,EUR,ACH,Completed,True,1058,2023-01-03,1019,Escalated,High amount,2058,2023-01-03,Low,No Action,Dodd-Frank Act,Non-Compliant
+59,2023-01-03,4716.48,GBP,Mobile Payment,Completed,False,1059,2023-01-03,1012,Escalated,Check details,2059,2023-01-03,Low,Escalation,BSA,Non-Compliant
+60,2023-01-03,2519.81,GBP,Mobile Payment,Completed,False,1060,2023-01-03,1006,Approved,All good,2060,2023-01-03,Low,Escalation,PSD2,Non-Compliant
+61,2023-01-03,1673.8,USD,ACH,Completed,True,1061,2023-01-03,1012,Rejected,Check details,2061,2023-01-03,High,Review Requested,Dodd-Frank Act,Non-Compliant
+62,2023-01-03,1192.71,USD,ACH,Completed,False,1062,2023-01-03,1007,Rejected,High amount,2062,2023-01-03,Medium,Review Requested,PSD2,Non-Compliant
+63,2023-01-03,6597.66,EUR,ACH,Pending,True,1063,2023-01-03,1010,Rejected,High amount,2063,2023-01-03,Medium,Escalation,BSA,Non-Compliant
+64,2023-01-03,1468.01,USD,Mobile Payment,Completed,False,1064,2023-01-03,1012,Approved,High amount,2064,2023-01-03,Low,Escalation,PSD2,Non-Compliant
+65,2023-01-03,2046.17,GBP,Mobile Payment,Flagged,True,1065,2023-01-03,1016,Rejected,High amount,2065,2023-01-03,Medium,No Action,Dodd-Frank Act,Non-Compliant
+66,2023-01-03,3750.38,EUR,ACH,Flagged,True,1066,2023-01-03,1013,Escalated,Check details,2066,2023-01-03,High,Escalation,PSD2,Compliant
+67,2023-01-03,8227.83,EUR,Mobile Payment,Completed,False,1067,2023-01-03,1013,Rejected,All good,2067,2023-01-03,Low,Escalation,BSA,Non-Compliant
+68,2023-01-03,1061.3,USD,ACH,Pending,False,1068,2023-01-03,1014,Escalated,Check details,2068,2023-01-03,High,Escalation,BSA,Non-Compliant
+69,2023-01-03,8395.65,GBP,Mobile Payment,Completed,True,1069,2023-01-03,1006,Rejected,High amount,2069,2023-01-03,Low,No Action,Dodd-Frank Act,Compliant
+70,2023-01-03,1051.37,EUR,Mobile Payment,Completed,False,1070,2023-01-03,1019,Escalated,Check details,2070,2023-01-03,Low,No Action,PSD2,Non-Compliant
+71,2023-01-03,9766.95,EUR,Wire Transfer,Completed,True,1071,2023-01-03,1010,Rejected,All good,2071,2023-01-03,High,Review Requested,PSD2,Compliant
+72,2023-01-03,4739.65,USD,Wire Transfer,Completed,True,1072,2023-01-03,1009,Rejected,All good,2072,2023-01-03,Low,No Action,BSA,Compliant
+73,2023-01-04,9769.93,GBP,ACH,Pending,False,1073,2023-01-04,1009,Escalated,Check details,2073,2023-01-04,High,Escalation,BSA,Non-Compliant
+74,2023-01-04,6087.97,GBP,Wire Transfer,Flagged,False,1074,2023-01-04,1009,Rejected,All good,2074,2023-01-04,Low,Review Requested,Dodd-Frank Act,Compliant
+75,2023-01-04,7418.71,EUR,Mobile Payment,Flagged,True,1075,2023-01-04,1001,Rejected,Check details,2075,2023-01-04,High,Escalation,BSA,Compliant
+76,2023-01-04,487.96,GBP,ACH,Flagged,True,1076,2023-01-04,1001,Rejected,Check details,2076,2023-01-04,Medium,Escalation,BSA,Non-Compliant
+77,2023-01-04,2899.79,USD,Wire Transfer,Flagged,True,1077,2023-01-04,1013,Approved,All good,2077,2023-01-04,Medium,Escalation,PSD2,Compliant
+78,2023-01-04,1289.95,USD,ACH,Flagged,True,1078,2023-01-04,1019,Approved,High amount,2078,2023-01-04,Low,Escalation,PSD2,Compliant
+79,2023-01-04,3031.79,EUR,ACH,Flagged,True,1079,2023-01-04,1016,Rejected,Check details,2079,2023-01-04,Medium,Review Requested,Dodd-Frank Act,Compliant
+80,2023-01-04,1275.4,EUR,Mobile Payment,Pending,True,1080,2023-01-04,1013,Rejected,All good,2080,2023-01-04,High,Review Requested,PSD2,Non-Compliant
+81,2023-01-04,3248.03,GBP,Wire Transfer,Completed,True,1081,2023-01-04,1018,Approved,Check details,2081,2023-01-04,High,No Action,Dodd-Frank Act,Non-Compliant
+82,2023-01-04,4201.2,USD,Mobile Payment,Pending,False,1082,2023-01-04,1010,Escalated,All good,2082,2023-01-04,High,No Action,Dodd-Frank Act,Non-Compliant
+83,2023-01-04,735.06,GBP,ACH,Pending,True,1083,2023-01-04,1014,Rejected,All good,2083,2023-01-04,High,Escalation,PSD2,Non-Compliant
+84,2023-01-04,6955.47,GBP,ACH,Pending,True,1084,2023-01-04,1003,Rejected,Check details,2084,2023-01-04,Low,Review Requested,BSA,Compliant
+85,2023-01-04,5709.35,EUR,ACH,Pending,True,1085,2023-01-04,1001,Escalated,Check details,2085,2023-01-04,High,Review Requested,Dodd-Frank Act,Compliant
+86,2023-01-04,2727.36,USD,Wire Transfer,Pending,True,1086,2023-01-04,1010,Escalated,Check details,2086,2023-01-04,Low,Escalation,PSD2,Non-Compliant
+87,2023-01-04,5280.16,USD,Mobile Payment,Pending,False,1087,2023-01-04,1007,Escalated,High amount,2087,2023-01-04,Medium,Escalation,BSA,Compliant
+88,2023-01-04,1030.01,GBP,Mobile Payment,Completed,True,1088,2023-01-04,1004,Rejected,High amount,2088,2023-01-04,Medium,No Action,Dodd-Frank Act,Compliant
+89,2023-01-04,5801.87,USD,Wire Transfer,Pending,False,1089,2023-01-04,1007,Escalated,Check details,2089,2023-01-04,Medium,Escalation,Dodd-Frank Act,Compliant
+90,2023-01-04,9300.03,USD,Mobile Payment,Pending,False,1090,2023-01-04,1002,Escalated,All good,2090,2023-01-04,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+91,2023-01-04,3253.83,GBP,Mobile Payment,Flagged,False,1091,2023-01-04,1002,Approved,Check details,2091,2023-01-04,High,No Action,PSD2,Compliant
+92,2023-01-04,6707.36,EUR,ACH,Flagged,False,1092,2023-01-04,1006,Escalated,All good,2092,2023-01-04,High,No Action,BSA,Compliant
+93,2023-01-04,1404.8,EUR,ACH,Completed,False,1093,2023-01-04,1002,Rejected,All good,2093,2023-01-04,Low,Review Requested,Dodd-Frank Act,Compliant
+94,2023-01-04,7191.64,EUR,ACH,Pending,False,1094,2023-01-04,1002,Rejected,Check details,2094,2023-01-04,High,No Action,BSA,Compliant
+95,2023-01-04,2965.12,GBP,Wire Transfer,Flagged,False,1095,2023-01-04,1004,Approved,Check details,2095,2023-01-04,Medium,No Action,PSD2,Non-Compliant
+96,2023-01-04,1913.59,USD,ACH,Pending,False,1096,2023-01-04,1006,Rejected,Check details,2096,2023-01-04,Low,Review Requested,BSA,Compliant
+97,2023-01-05,5906.48,GBP,Mobile Payment,Flagged,False,1097,2023-01-05,1019,Rejected,Check details,2097,2023-01-05,Medium,No Action,BSA,Compliant
+98,2023-01-05,299.06,GBP,Wire Transfer,Flagged,True,1098,2023-01-05,1002,Approved,High amount,2098,2023-01-05,High,No Action,PSD2,Compliant
+99,2023-01-05,8306.51,EUR,Mobile Payment,Flagged,True,1099,2023-01-05,1004,Escalated,Check details,2099,2023-01-05,Low,Review Requested,PSD2,Compliant
+100,2023-01-05,146.49,USD,Wire Transfer,Flagged,False,1100,2023-01-05,1014,Escalated,Check details,2100,2023-01-05,Low,Escalation,PSD2,Non-Compliant
+101,2023-01-05,6810.38,EUR,Mobile Payment,Pending,False,1101,2023-01-05,1003,Rejected,All good,2101,2023-01-05,High,Review Requested,Dodd-Frank Act,Compliant
+102,2023-01-05,2773.08,USD,Wire Transfer,Completed,False,1102,2023-01-05,1016,Approved,High amount,2102,2023-01-05,Low,No Action,Dodd-Frank Act,Compliant
+103,2023-01-05,7378.42,USD,Mobile Payment,Flagged,True,1103,2023-01-05,1012,Escalated,All good,2103,2023-01-05,Low,No Action,PSD2,Non-Compliant
+104,2023-01-05,9625.67,EUR,ACH,Flagged,True,1104,2023-01-05,1002,Rejected,All good,2104,2023-01-05,Low,Review Requested,PSD2,Compliant
+105,2023-01-05,2562.66,EUR,Wire Transfer,Completed,False,1105,2023-01-05,1010,Escalated,All good,2105,2023-01-05,High,Review Requested,PSD2,Compliant
+106,2023-01-05,5803.96,GBP,Mobile Payment,Pending,False,1106,2023-01-05,1010,Rejected,Check details,2106,2023-01-05,High,Review Requested,BSA,Compliant
+107,2023-01-05,5961.22,USD,Mobile Payment,Flagged,True,1107,2023-01-05,1012,Escalated,High amount,2107,2023-01-05,Medium,Review Requested,BSA,Compliant
+108,2023-01-05,5765.29,USD,Mobile Payment,Completed,False,1108,2023-01-05,1017,Escalated,All good,2108,2023-01-05,Low,Review Requested,PSD2,Compliant
+109,2023-01-05,2308.51,USD,Mobile Payment,Pending,True,1109,2023-01-05,1010,Rejected,All good,2109,2023-01-05,Low,No Action,PSD2,Compliant
+110,2023-01-05,9532.22,USD,ACH,Pending,True,1110,2023-01-05,1001,Escalated,High amount,2110,2023-01-05,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+111,2023-01-05,4526.54,USD,ACH,Pending,False,1111,2023-01-05,1005,Rejected,All good,2111,2023-01-05,Medium,Escalation,BSA,Compliant
+112,2023-01-05,8479.45,GBP,Wire Transfer,Pending,True,1112,2023-01-05,1012,Approved,Check details,2112,2023-01-05,Medium,Review Requested,Dodd-Frank Act,Compliant
+113,2023-01-05,7024.84,USD,Wire Transfer,Pending,True,1113,2023-01-05,1004,Escalated,All good,2113,2023-01-05,Medium,Escalation,PSD2,Non-Compliant
+114,2023-01-05,3044.63,GBP,Mobile Payment,Flagged,True,1114,2023-01-05,1013,Approved,Check details,2114,2023-01-05,Medium,No Action,BSA,Compliant
+115,2023-01-05,8156.6,EUR,Wire Transfer,Flagged,True,1115,2023-01-05,1003,Rejected,High amount,2115,2023-01-05,Medium,Review Requested,BSA,Non-Compliant
+116,2023-01-05,4025.41,GBP,Mobile Payment,Pending,False,1116,2023-01-05,1001,Escalated,Check details,2116,2023-01-05,Low,Review Requested,BSA,Compliant
+117,2023-01-05,8822.92,GBP,Wire Transfer,Completed,True,1117,2023-01-05,1005,Escalated,High amount,2117,2023-01-05,Medium,Escalation,BSA,Non-Compliant
+118,2023-01-05,5854.6,GBP,Wire Transfer,Pending,False,1118,2023-01-05,1011,Escalated,High amount,2118,2023-01-05,Low,Review Requested,PSD2,Non-Compliant
+119,2023-01-05,8829.18,EUR,Mobile Payment,Flagged,True,1119,2023-01-05,1004,Approved,Check details,2119,2023-01-05,Medium,Escalation,Dodd-Frank Act,Compliant
+120,2023-01-05,6956.06,USD,ACH,Completed,False,1120,2023-01-05,1012,Escalated,All good,2120,2023-01-05,Medium,Escalation,BSA,Compliant
+121,2023-01-06,7280.02,GBP,Mobile Payment,Flagged,True,1121,2023-01-06,1010,Escalated,All good,2121,2023-01-06,High,Review Requested,BSA,Non-Compliant
+122,2023-01-06,5063.11,EUR,ACH,Flagged,True,1122,2023-01-06,1006,Rejected,All good,2122,2023-01-06,High,Review Requested,Dodd-Frank Act,Compliant
+123,2023-01-06,9565.23,GBP,Wire Transfer,Completed,True,1123,2023-01-06,1002,Escalated,All good,2123,2023-01-06,Low,Escalation,BSA,Non-Compliant
+124,2023-01-06,6475.5,GBP,ACH,Pending,False,1124,2023-01-06,1004,Escalated,All good,2124,2023-01-06,Low,Review Requested,BSA,Compliant
+125,2023-01-06,4296.16,EUR,Mobile Payment,Pending,False,1125,2023-01-06,1011,Approved,Check details,2125,2023-01-06,High,Escalation,PSD2,Non-Compliant
+126,2023-01-06,6103.29,GBP,Wire Transfer,Flagged,True,1126,2023-01-06,1017,Approved,High amount,2126,2023-01-06,Low,No Action,Dodd-Frank Act,Non-Compliant
+127,2023-01-06,290.01,GBP,ACH,Completed,False,1127,2023-01-06,1002,Escalated,All good,2127,2023-01-06,Low,Escalation,Dodd-Frank Act,Non-Compliant
+128,2023-01-06,3085.59,USD,ACH,Completed,True,1128,2023-01-06,1004,Approved,High amount,2128,2023-01-06,Medium,No Action,Dodd-Frank Act,Non-Compliant
+129,2023-01-06,6635.72,EUR,Mobile Payment,Flagged,True,1129,2023-01-06,1014,Escalated,All good,2129,2023-01-06,High,Escalation,BSA,Compliant
+130,2023-01-06,2971.77,GBP,Wire Transfer,Completed,True,1130,2023-01-06,1005,Escalated,All good,2130,2023-01-06,Medium,No Action,Dodd-Frank Act,Non-Compliant
+131,2023-01-06,6218.35,EUR,Wire Transfer,Flagged,True,1131,2023-01-06,1009,Escalated,All good,2131,2023-01-06,Medium,Escalation,PSD2,Compliant
+132,2023-01-06,4344.81,EUR,ACH,Completed,False,1132,2023-01-06,1006,Escalated,Check details,2132,2023-01-06,High,No Action,PSD2,Non-Compliant
+133,2023-01-06,1441.19,USD,ACH,Pending,True,1133,2023-01-06,1011,Escalated,High amount,2133,2023-01-06,High,Escalation,PSD2,Compliant
+134,2023-01-06,3053.0,USD,ACH,Flagged,False,1134,2023-01-06,1001,Approved,Check details,2134,2023-01-06,Medium,No Action,BSA,Compliant
+135,2023-01-06,5742.65,USD,Wire Transfer,Completed,True,1135,2023-01-06,1004,Rejected,High amount,2135,2023-01-06,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+136,2023-01-06,5949.64,GBP,ACH,Completed,True,1136,2023-01-06,1009,Escalated,All good,2136,2023-01-06,Low,No Action,BSA,Compliant
+137,2023-01-06,5785.82,GBP,ACH,Completed,False,1137,2023-01-06,1014,Escalated,All good,2137,2023-01-06,High,No Action,BSA,Non-Compliant
+138,2023-01-06,6566.69,GBP,Wire Transfer,Flagged,False,1138,2023-01-06,1001,Escalated,All good,2138,2023-01-06,Medium,No Action,Dodd-Frank Act,Non-Compliant
+139,2023-01-06,6555.82,GBP,Wire Transfer,Completed,False,1139,2023-01-06,1011,Escalated,Check details,2139,2023-01-06,High,Escalation,BSA,Non-Compliant
+140,2023-01-06,4371.04,GBP,Mobile Payment,Completed,True,1140,2023-01-06,1006,Approved,High amount,2140,2023-01-06,High,Review Requested,Dodd-Frank Act,Non-Compliant
+141,2023-01-06,8975.81,GBP,Wire Transfer,Completed,True,1141,2023-01-06,1009,Escalated,High amount,2141,2023-01-06,Low,Review Requested,PSD2,Compliant
+142,2023-01-06,3738.86,EUR,Wire Transfer,Flagged,True,1142,2023-01-06,1014,Rejected,High amount,2142,2023-01-06,Medium,Escalation,PSD2,Non-Compliant
+143,2023-01-06,4415.06,EUR,Mobile Payment,Flagged,False,1143,2023-01-06,1003,Rejected,Check details,2143,2023-01-06,Medium,No Action,BSA,Compliant
+144,2023-01-06,8930.04,USD,Wire Transfer,Pending,True,1144,2023-01-06,1001,Escalated,High amount,2144,2023-01-06,Medium,Escalation,PSD2,Compliant
+145,2023-01-07,8081.32,GBP,Mobile Payment,Flagged,False,1145,2023-01-07,1013,Escalated,High amount,2145,2023-01-07,Low,No Action,Dodd-Frank Act,Compliant
+146,2023-01-07,7068.5,EUR,Wire Transfer,Flagged,True,1146,2023-01-07,1008,Escalated,Check details,2146,2023-01-07,Medium,Review Requested,PSD2,Compliant
+147,2023-01-07,1092.25,USD,Mobile Payment,Flagged,False,1147,2023-01-07,1017,Rejected,Check details,2147,2023-01-07,High,Review Requested,Dodd-Frank Act,Compliant
+148,2023-01-07,9202.88,USD,ACH,Pending,True,1148,2023-01-07,1016,Approved,High amount,2148,2023-01-07,Low,Escalation,PSD2,Compliant
+149,2023-01-07,7170.99,USD,ACH,Pending,True,1149,2023-01-07,1018,Approved,High amount,2149,2023-01-07,High,Escalation,PSD2,Compliant
+150,2023-01-07,9988.59,USD,ACH,Completed,False,1150,2023-01-07,1001,Approved,Check details,2150,2023-01-07,High,Escalation,PSD2,Compliant
+151,2023-01-07,1579.54,EUR,Mobile Payment,Flagged,True,1151,2023-01-07,1001,Rejected,Check details,2151,2023-01-07,Medium,Escalation,Dodd-Frank Act,Compliant
+152,2023-01-07,8694.45,EUR,ACH,Completed,True,1152,2023-01-07,1012,Rejected,Check details,2152,2023-01-07,Low,No Action,PSD2,Compliant
+153,2023-01-07,1708.68,EUR,Wire Transfer,Completed,False,1153,2023-01-07,1011,Approved,Check details,2153,2023-01-07,High,Escalation,BSA,Compliant
+154,2023-01-07,6194.04,USD,Mobile Payment,Completed,True,1154,2023-01-07,1007,Escalated,Check details,2154,2023-01-07,Medium,No Action,PSD2,Non-Compliant
+155,2023-01-07,1325.82,USD,Wire Transfer,Flagged,False,1155,2023-01-07,1019,Escalated,Check details,2155,2023-01-07,High,Escalation,BSA,Compliant
+156,2023-01-07,8495.28,GBP,Wire Transfer,Flagged,False,1156,2023-01-07,1002,Approved,All good,2156,2023-01-07,High,No Action,BSA,Compliant
+157,2023-01-07,8092.46,GBP,Wire Transfer,Pending,True,1157,2023-01-07,1006,Approved,High amount,2157,2023-01-07,Medium,No Action,BSA,Compliant
+158,2023-01-07,5734.1,USD,Mobile Payment,Pending,True,1158,2023-01-07,1018,Rejected,High amount,2158,2023-01-07,High,Escalation,PSD2,Compliant
+159,2023-01-07,4131.11,EUR,Wire Transfer,Completed,False,1159,2023-01-07,1011,Rejected,High amount,2159,2023-01-07,Low,Escalation,PSD2,Compliant
+160,2023-01-07,784.75,USD,ACH,Completed,False,1160,2023-01-07,1013,Rejected,Check details,2160,2023-01-07,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+161,2023-01-07,7004.54,GBP,Mobile Payment,Flagged,True,1161,2023-01-07,1010,Approved,All good,2161,2023-01-07,Low,Escalation,Dodd-Frank Act,Non-Compliant
+162,2023-01-07,4590.07,GBP,ACH,Pending,True,1162,2023-01-07,1018,Approved,High amount,2162,2023-01-07,Low,Escalation,BSA,Compliant
+163,2023-01-07,7248.35,EUR,Mobile Payment,Completed,True,1163,2023-01-07,1004,Escalated,All good,2163,2023-01-07,Low,No Action,BSA,Non-Compliant
+164,2023-01-07,8677.19,USD,Wire Transfer,Completed,False,1164,2023-01-07,1009,Rejected,All good,2164,2023-01-07,High,No Action,PSD2,Non-Compliant
+165,2023-01-07,9757.66,GBP,ACH,Pending,False,1165,2023-01-07,1003,Escalated,Check details,2165,2023-01-07,Medium,Escalation,BSA,Non-Compliant
+166,2023-01-07,8572.45,EUR,Mobile Payment,Flagged,False,1166,2023-01-07,1011,Escalated,High amount,2166,2023-01-07,High,No Action,Dodd-Frank Act,Non-Compliant
+167,2023-01-07,215.97,GBP,Wire Transfer,Completed,True,1167,2023-01-07,1007,Escalated,All good,2167,2023-01-07,Low,Review Requested,BSA,Compliant
+168,2023-01-07,3663.78,EUR,Wire Transfer,Flagged,False,1168,2023-01-07,1001,Rejected,Check details,2168,2023-01-07,Medium,No Action,BSA,Compliant
+169,2023-01-08,7326.91,GBP,Mobile Payment,Completed,True,1169,2023-01-08,1005,Approved,High amount,2169,2023-01-08,High,No Action,PSD2,Non-Compliant
+170,2023-01-08,1799.13,GBP,Mobile Payment,Flagged,True,1170,2023-01-08,1005,Rejected,Check details,2170,2023-01-08,High,Review Requested,BSA,Compliant
+171,2023-01-08,5258.26,USD,Mobile Payment,Completed,True,1171,2023-01-08,1013,Rejected,All good,2171,2023-01-08,High,Review Requested,PSD2,Compliant
+172,2023-01-08,637.95,EUR,Mobile Payment,Completed,True,1172,2023-01-08,1001,Rejected,High amount,2172,2023-01-08,High,Review Requested,Dodd-Frank Act,Non-Compliant
+173,2023-01-08,2079.97,EUR,ACH,Completed,False,1173,2023-01-08,1004,Escalated,High amount,2173,2023-01-08,Medium,Escalation,BSA,Compliant
+174,2023-01-08,283.37,GBP,Mobile Payment,Flagged,True,1174,2023-01-08,1008,Escalated,High amount,2174,2023-01-08,Medium,No Action,Dodd-Frank Act,Compliant
+175,2023-01-08,7957.61,USD,Wire Transfer,Pending,False,1175,2023-01-08,1018,Escalated,High amount,2175,2023-01-08,Medium,Review Requested,PSD2,Compliant
+176,2023-01-08,2316.85,GBP,ACH,Flagged,False,1176,2023-01-08,1012,Approved,High amount,2176,2023-01-08,Medium,Escalation,Dodd-Frank Act,Compliant
+177,2023-01-08,3518.98,GBP,Wire Transfer,Flagged,True,1177,2023-01-08,1003,Approved,Check details,2177,2023-01-08,High,Review Requested,BSA,Non-Compliant
+178,2023-01-08,9288.0,GBP,Wire Transfer,Flagged,False,1178,2023-01-08,1013,Approved,High amount,2178,2023-01-08,Low,Review Requested,PSD2,Non-Compliant
+179,2023-01-08,7073.7,EUR,Mobile Payment,Completed,False,1179,2023-01-08,1017,Approved,Check details,2179,2023-01-08,High,Review Requested,BSA,Non-Compliant
+180,2023-01-08,415.21,USD,ACH,Completed,True,1180,2023-01-08,1003,Rejected,High amount,2180,2023-01-08,High,Review Requested,Dodd-Frank Act,Non-Compliant
+181,2023-01-08,1730.47,GBP,Mobile Payment,Flagged,False,1181,2023-01-08,1013,Escalated,All good,2181,2023-01-08,Medium,Escalation,PSD2,Compliant
+182,2023-01-08,6252.64,GBP,Wire Transfer,Flagged,True,1182,2023-01-08,1010,Escalated,Check details,2182,2023-01-08,High,Escalation,BSA,Non-Compliant
+183,2023-01-08,5814.56,GBP,Mobile Payment,Completed,True,1183,2023-01-08,1004,Rejected,All good,2183,2023-01-08,High,Review Requested,Dodd-Frank Act,Compliant
+184,2023-01-08,2455.14,EUR,Mobile Payment,Pending,True,1184,2023-01-08,1001,Rejected,Check details,2184,2023-01-08,High,Review Requested,Dodd-Frank Act,Non-Compliant
+185,2023-01-08,9348.72,GBP,Mobile Payment,Completed,False,1185,2023-01-08,1014,Escalated,High amount,2185,2023-01-08,Medium,Review Requested,PSD2,Non-Compliant
+186,2023-01-08,6178.26,EUR,Mobile Payment,Completed,True,1186,2023-01-08,1006,Escalated,High amount,2186,2023-01-08,Medium,No Action,PSD2,Non-Compliant
+187,2023-01-08,5402.76,EUR,Mobile Payment,Flagged,False,1187,2023-01-08,1019,Approved,Check details,2187,2023-01-08,High,Review Requested,BSA,Non-Compliant
+188,2023-01-08,5940.11,EUR,Mobile Payment,Flagged,False,1188,2023-01-08,1004,Approved,High amount,2188,2023-01-08,Low,Review Requested,BSA,Non-Compliant
+189,2023-01-08,7328.21,EUR,ACH,Completed,False,1189,2023-01-08,1011,Rejected,Check details,2189,2023-01-08,Medium,No Action,PSD2,Compliant
+190,2023-01-08,3188.26,EUR,Mobile Payment,Flagged,False,1190,2023-01-08,1013,Escalated,Check details,2190,2023-01-08,Medium,No Action,PSD2,Non-Compliant
+191,2023-01-08,4042.39,USD,ACH,Completed,True,1191,2023-01-08,1010,Escalated,High amount,2191,2023-01-08,Low,Review Requested,PSD2,Non-Compliant
+192,2023-01-08,2177.45,EUR,Mobile Payment,Pending,True,1192,2023-01-08,1017,Approved,High amount,2192,2023-01-08,Low,No Action,BSA,Non-Compliant
+193,2023-01-09,1943.31,EUR,ACH,Flagged,False,1193,2023-01-09,1007,Approved,High amount,2193,2023-01-09,High,No Action,Dodd-Frank Act,Non-Compliant
+194,2023-01-09,9449.29,GBP,Wire Transfer,Pending,False,1194,2023-01-09,1013,Escalated,Check details,2194,2023-01-09,High,No Action,PSD2,Compliant
+195,2023-01-09,7421.55,USD,ACH,Completed,True,1195,2023-01-09,1016,Rejected,All good,2195,2023-01-09,Medium,Escalation,PSD2,Non-Compliant
+196,2023-01-09,4955.54,USD,ACH,Pending,False,1196,2023-01-09,1007,Approved,Check details,2196,2023-01-09,Low,No Action,PSD2,Non-Compliant
+197,2023-01-09,2351.4,GBP,Wire Transfer,Flagged,True,1197,2023-01-09,1018,Escalated,Check details,2197,2023-01-09,High,Escalation,Dodd-Frank Act,Non-Compliant
+198,2023-01-09,2618.13,EUR,Mobile Payment,Pending,True,1198,2023-01-09,1007,Rejected,High amount,2198,2023-01-09,Low,Escalation,Dodd-Frank Act,Non-Compliant
+199,2023-01-09,674.49,USD,Mobile Payment,Flagged,False,1199,2023-01-09,1006,Escalated,High amount,2199,2023-01-09,Low,Escalation,Dodd-Frank Act,Compliant
+200,2023-01-09,4400.72,EUR,ACH,Pending,False,1200,2023-01-09,1013,Escalated,High amount,2200,2023-01-09,Medium,Escalation,BSA,Compliant
+201,2023-01-09,3186.78,GBP,Mobile Payment,Flagged,True,1201,2023-01-09,1003,Escalated,All good,2201,2023-01-09,High,Escalation,BSA,Non-Compliant
+202,2023-01-09,6993.8,USD,Mobile Payment,Completed,True,1202,2023-01-09,1001,Rejected,All good,2202,2023-01-09,Medium,No Action,Dodd-Frank Act,Compliant
+203,2023-01-09,3839.74,EUR,Wire Transfer,Pending,False,1203,2023-01-09,1018,Rejected,Check details,2203,2023-01-09,Low,No Action,Dodd-Frank Act,Compliant
+204,2023-01-09,1878.08,USD,Mobile Payment,Pending,True,1204,2023-01-09,1011,Escalated,Check details,2204,2023-01-09,Medium,No Action,PSD2,Compliant
+205,2023-01-09,344.32,USD,Mobile Payment,Pending,False,1205,2023-01-09,1001,Escalated,Check details,2205,2023-01-09,Medium,No Action,BSA,Non-Compliant
+206,2023-01-09,765.77,EUR,ACH,Flagged,True,1206,2023-01-09,1005,Rejected,All good,2206,2023-01-09,Low,No Action,PSD2,Non-Compliant
+207,2023-01-09,6825.99,EUR,Mobile Payment,Pending,True,1207,2023-01-09,1009,Escalated,All good,2207,2023-01-09,High,No Action,PSD2,Non-Compliant
+208,2023-01-09,4591.6,USD,Mobile Payment,Pending,False,1208,2023-01-09,1019,Escalated,Check details,2208,2023-01-09,Low,Escalation,PSD2,Non-Compliant
+209,2023-01-09,5412.13,GBP,ACH,Flagged,True,1209,2023-01-09,1014,Rejected,Check details,2209,2023-01-09,Medium,No Action,BSA,Compliant
+210,2023-01-09,8977.05,USD,ACH,Flagged,False,1210,2023-01-09,1008,Approved,High amount,2210,2023-01-09,Medium,No Action,Dodd-Frank Act,Compliant
+211,2023-01-09,9904.36,GBP,ACH,Pending,True,1211,2023-01-09,1009,Rejected,All good,2211,2023-01-09,High,Review Requested,BSA,Non-Compliant
+212,2023-01-09,2247.28,USD,Mobile Payment,Pending,False,1212,2023-01-09,1017,Approved,Check details,2212,2023-01-09,Low,Escalation,Dodd-Frank Act,Compliant
+213,2023-01-09,6664.47,EUR,Mobile Payment,Flagged,False,1213,2023-01-09,1011,Approved,Check details,2213,2023-01-09,Medium,Review Requested,PSD2,Compliant
+214,2023-01-09,2706.89,GBP,Mobile Payment,Pending,False,1214,2023-01-09,1016,Rejected,All good,2214,2023-01-09,Low,Review Requested,BSA,Compliant
+215,2023-01-09,304.44,GBP,Mobile Payment,Pending,False,1215,2023-01-09,1017,Approved,High amount,2215,2023-01-09,High,Escalation,PSD2,Non-Compliant
+216,2023-01-09,7607.95,USD,Mobile Payment,Completed,True,1216,2023-01-09,1002,Escalated,High amount,2216,2023-01-09,Low,Escalation,Dodd-Frank Act,Compliant
+217,2023-01-10,3268.17,USD,Mobile Payment,Completed,True,1217,2023-01-10,1003,Rejected,All good,2217,2023-01-10,Low,Escalation,Dodd-Frank Act,Compliant
+218,2023-01-10,3896.29,GBP,ACH,Pending,True,1218,2023-01-10,1017,Approved,Check details,2218,2023-01-10,Medium,Escalation,PSD2,Compliant
+219,2023-01-10,5924.34,EUR,ACH,Completed,True,1219,2023-01-10,1012,Approved,All good,2219,2023-01-10,Low,Review Requested,PSD2,Compliant
+220,2023-01-10,8327.38,GBP,Mobile Payment,Completed,True,1220,2023-01-10,1016,Rejected,Check details,2220,2023-01-10,High,Review Requested,PSD2,Non-Compliant
+221,2023-01-10,6326.92,GBP,Wire Transfer,Flagged,True,1221,2023-01-10,1016,Rejected,All good,2221,2023-01-10,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+222,2023-01-10,8739.24,EUR,ACH,Pending,True,1222,2023-01-10,1006,Escalated,High amount,2222,2023-01-10,High,Review Requested,Dodd-Frank Act,Compliant
+223,2023-01-10,2808.07,EUR,Mobile Payment,Pending,True,1223,2023-01-10,1003,Approved,Check details,2223,2023-01-10,Low,No Action,Dodd-Frank Act,Compliant
+224,2023-01-10,8000.66,USD,ACH,Completed,True,1224,2023-01-10,1013,Rejected,Check details,2224,2023-01-10,Low,Escalation,PSD2,Compliant
+225,2023-01-10,1937.8,USD,Wire Transfer,Completed,True,1225,2023-01-10,1013,Approved,High amount,2225,2023-01-10,Medium,No Action,Dodd-Frank Act,Compliant
+226,2023-01-10,9532.64,USD,ACH,Pending,True,1226,2023-01-10,1015,Approved,High amount,2226,2023-01-10,Low,No Action,BSA,Compliant
+227,2023-01-10,6906.13,EUR,ACH,Flagged,True,1227,2023-01-10,1002,Approved,High amount,2227,2023-01-10,Low,No Action,BSA,Compliant
+228,2023-01-10,2233.53,GBP,ACH,Pending,True,1228,2023-01-10,1012,Rejected,Check details,2228,2023-01-10,High,No Action,PSD2,Compliant
+229,2023-01-10,9478.97,EUR,ACH,Flagged,True,1229,2023-01-10,1015,Escalated,High amount,2229,2023-01-10,Low,No Action,BSA,Non-Compliant
+230,2023-01-10,7335.47,USD,Mobile Payment,Pending,True,1230,2023-01-10,1015,Approved,High amount,2230,2023-01-10,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+231,2023-01-10,2614.02,GBP,Wire Transfer,Pending,False,1231,2023-01-10,1012,Rejected,Check details,2231,2023-01-10,Medium,No Action,BSA,Compliant
+232,2023-01-10,2211.79,USD,Mobile Payment,Flagged,True,1232,2023-01-10,1007,Approved,High amount,2232,2023-01-10,High,Escalation,Dodd-Frank Act,Compliant
+233,2023-01-10,5230.19,GBP,ACH,Flagged,True,1233,2023-01-10,1003,Escalated,All good,2233,2023-01-10,High,Review Requested,PSD2,Compliant
+234,2023-01-10,354.06,EUR,ACH,Flagged,False,1234,2023-01-10,1010,Approved,All good,2234,2023-01-10,Low,Review Requested,PSD2,Non-Compliant
+235,2023-01-10,2153.95,USD,ACH,Flagged,True,1235,2023-01-10,1011,Escalated,All good,2235,2023-01-10,Low,No Action,BSA,Compliant
+236,2023-01-10,4304.39,EUR,Wire Transfer,Flagged,True,1236,2023-01-10,1018,Rejected,High amount,2236,2023-01-10,High,Review Requested,PSD2,Compliant
+237,2023-01-10,3804.28,EUR,Wire Transfer,Flagged,True,1237,2023-01-10,1007,Rejected,Check details,2237,2023-01-10,Medium,Escalation,PSD2,Non-Compliant
+238,2023-01-10,4689.4,EUR,Mobile Payment,Flagged,False,1238,2023-01-10,1007,Rejected,High amount,2238,2023-01-10,High,Escalation,BSA,Non-Compliant
+239,2023-01-10,2848.52,GBP,ACH,Completed,True,1239,2023-01-10,1012,Approved,All good,2239,2023-01-10,Medium,No Action,BSA,Compliant
+240,2023-01-10,5909.17,EUR,Wire Transfer,Pending,True,1240,2023-01-10,1017,Escalated,High amount,2240,2023-01-10,Medium,Review Requested,BSA,Non-Compliant
+241,2023-01-11,8652.17,EUR,ACH,Flagged,True,1241,2023-01-11,1014,Approved,High amount,2241,2023-01-11,High,No Action,PSD2,Compliant
+242,2023-01-11,1263.57,GBP,Mobile Payment,Completed,False,1242,2023-01-11,1015,Escalated,Check details,2242,2023-01-11,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+243,2023-01-11,5222.05,EUR,Mobile Payment,Pending,False,1243,2023-01-11,1008,Rejected,All good,2243,2023-01-11,Medium,No Action,Dodd-Frank Act,Compliant
+244,2023-01-11,1407.47,EUR,Wire Transfer,Pending,True,1244,2023-01-11,1017,Approved,All good,2244,2023-01-11,Low,Review Requested,Dodd-Frank Act,Compliant
+245,2023-01-11,7196.91,EUR,Mobile Payment,Pending,True,1245,2023-01-11,1007,Rejected,All good,2245,2023-01-11,Low,Escalation,PSD2,Compliant
+246,2023-01-11,4020.99,GBP,Wire Transfer,Completed,True,1246,2023-01-11,1009,Rejected,High amount,2246,2023-01-11,Medium,No Action,BSA,Non-Compliant
+247,2023-01-11,5697.67,GBP,ACH,Completed,False,1247,2023-01-11,1016,Escalated,All good,2247,2023-01-11,Low,No Action,BSA,Compliant
+248,2023-01-11,1914.47,USD,Wire Transfer,Pending,True,1248,2023-01-11,1003,Escalated,High amount,2248,2023-01-11,High,Review Requested,Dodd-Frank Act,Non-Compliant
+249,2023-01-11,1533.99,EUR,Mobile Payment,Completed,False,1249,2023-01-11,1011,Escalated,All good,2249,2023-01-11,Low,No Action,PSD2,Compliant
+250,2023-01-11,4931.76,GBP,ACH,Completed,False,1250,2023-01-11,1010,Approved,Check details,2250,2023-01-11,Medium,Review Requested,BSA,Compliant
+251,2023-01-11,3620.57,EUR,Mobile Payment,Flagged,True,1251,2023-01-11,1011,Rejected,All good,2251,2023-01-11,Low,No Action,PSD2,Compliant
+252,2023-01-11,9410.28,GBP,ACH,Completed,True,1252,2023-01-11,1009,Approved,All good,2252,2023-01-11,High,No Action,BSA,Non-Compliant
+253,2023-01-11,7676.72,GBP,ACH,Pending,False,1253,2023-01-11,1011,Escalated,Check details,2253,2023-01-11,Medium,No Action,Dodd-Frank Act,Compliant
+254,2023-01-11,7511.77,GBP,ACH,Pending,True,1254,2023-01-11,1011,Escalated,High amount,2254,2023-01-11,Low,Review Requested,PSD2,Compliant
+255,2023-01-11,9046.83,USD,ACH,Completed,True,1255,2023-01-11,1018,Escalated,All good,2255,2023-01-11,Medium,Escalation,Dodd-Frank Act,Compliant
+256,2023-01-11,925.88,EUR,Mobile Payment,Completed,True,1256,2023-01-11,1004,Rejected,All good,2256,2023-01-11,Low,Review Requested,Dodd-Frank Act,Compliant
+257,2023-01-11,5566.71,GBP,Wire Transfer,Pending,True,1257,2023-01-11,1005,Rejected,Check details,2257,2023-01-11,Medium,Escalation,BSA,Compliant
+258,2023-01-11,5886.31,EUR,ACH,Pending,True,1258,2023-01-11,1005,Escalated,Check details,2258,2023-01-11,Low,No Action,BSA,Compliant
+259,2023-01-11,9623.17,GBP,Mobile Payment,Completed,False,1259,2023-01-11,1018,Rejected,High amount,2259,2023-01-11,High,Review Requested,PSD2,Compliant
+260,2023-01-11,2992.26,EUR,Mobile Payment,Completed,False,1260,2023-01-11,1018,Rejected,Check details,2260,2023-01-11,High,Review Requested,Dodd-Frank Act,Non-Compliant
+261,2023-01-11,2484.2,EUR,Mobile Payment,Flagged,False,1261,2023-01-11,1016,Approved,All good,2261,2023-01-11,High,Review Requested,BSA,Compliant
+262,2023-01-11,1092.91,GBP,Wire Transfer,Pending,False,1262,2023-01-11,1009,Approved,All good,2262,2023-01-11,High,Escalation,BSA,Compliant
+263,2023-01-11,262.65,EUR,Mobile Payment,Completed,True,1263,2023-01-11,1002,Escalated,High amount,2263,2023-01-11,High,Escalation,BSA,Non-Compliant
+264,2023-01-11,9302.34,USD,Mobile Payment,Completed,False,1264,2023-01-11,1016,Escalated,Check details,2264,2023-01-11,Low,No Action,Dodd-Frank Act,Non-Compliant
+265,2023-01-12,6732.17,USD,Wire Transfer,Completed,True,1265,2023-01-12,1010,Rejected,High amount,2265,2023-01-12,Low,No Action,PSD2,Compliant
+266,2023-01-12,7873.01,EUR,Mobile Payment,Pending,True,1266,2023-01-12,1012,Approved,Check details,2266,2023-01-12,Low,Review Requested,BSA,Compliant
+267,2023-01-12,2889.13,EUR,Mobile Payment,Flagged,False,1267,2023-01-12,1017,Approved,All good,2267,2023-01-12,Low,Escalation,BSA,Non-Compliant
+268,2023-01-12,5905.46,GBP,Wire Transfer,Completed,False,1268,2023-01-12,1016,Escalated,All good,2268,2023-01-12,High,Review Requested,Dodd-Frank Act,Non-Compliant
+269,2023-01-12,733.16,GBP,Wire Transfer,Flagged,False,1269,2023-01-12,1017,Approved,High amount,2269,2023-01-12,High,No Action,BSA,Non-Compliant
+270,2023-01-12,4907.71,EUR,Wire Transfer,Pending,False,1270,2023-01-12,1017,Rejected,Check details,2270,2023-01-12,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+271,2023-01-12,9777.2,EUR,ACH,Flagged,False,1271,2023-01-12,1003,Approved,All good,2271,2023-01-12,Medium,Review Requested,PSD2,Compliant
+272,2023-01-12,8777.4,EUR,Wire Transfer,Flagged,True,1272,2023-01-12,1009,Approved,All good,2272,2023-01-12,Medium,Escalation,Dodd-Frank Act,Compliant
+273,2023-01-12,3447.77,EUR,ACH,Flagged,False,1273,2023-01-12,1002,Escalated,Check details,2273,2023-01-12,High,Escalation,Dodd-Frank Act,Non-Compliant
+274,2023-01-12,9619.54,USD,ACH,Pending,True,1274,2023-01-12,1017,Approved,High amount,2274,2023-01-12,Low,Escalation,Dodd-Frank Act,Non-Compliant
+275,2023-01-12,2393.85,EUR,Wire Transfer,Pending,True,1275,2023-01-12,1015,Escalated,High amount,2275,2023-01-12,Low,Escalation,BSA,Compliant
+276,2023-01-12,9498.26,GBP,ACH,Completed,True,1276,2023-01-12,1009,Escalated,High amount,2276,2023-01-12,Medium,Review Requested,Dodd-Frank Act,Compliant
+277,2023-01-12,9419.64,USD,Mobile Payment,Completed,False,1277,2023-01-12,1002,Approved,High amount,2277,2023-01-12,High,No Action,BSA,Compliant
+278,2023-01-12,8012.11,EUR,Mobile Payment,Completed,True,1278,2023-01-12,1015,Escalated,High amount,2278,2023-01-12,High,Review Requested,Dodd-Frank Act,Non-Compliant
+279,2023-01-12,6341.43,GBP,Wire Transfer,Flagged,True,1279,2023-01-12,1014,Rejected,All good,2279,2023-01-12,Medium,No Action,BSA,Compliant
+280,2023-01-12,8755.45,USD,ACH,Flagged,False,1280,2023-01-12,1001,Escalated,Check details,2280,2023-01-12,Medium,Escalation,BSA,Non-Compliant
+281,2023-01-12,3000.9,EUR,Mobile Payment,Flagged,True,1281,2023-01-12,1013,Escalated,High amount,2281,2023-01-12,Medium,Escalation,BSA,Compliant
+282,2023-01-12,8504.54,EUR,ACH,Pending,False,1282,2023-01-12,1009,Approved,All good,2282,2023-01-12,Low,Escalation,Dodd-Frank Act,Non-Compliant
+283,2023-01-12,6216.98,EUR,ACH,Completed,True,1283,2023-01-12,1001,Approved,High amount,2283,2023-01-12,Medium,No Action,Dodd-Frank Act,Compliant
+284,2023-01-12,231.04,EUR,Mobile Payment,Pending,False,1284,2023-01-12,1001,Escalated,High amount,2284,2023-01-12,Low,Review Requested,BSA,Compliant
+285,2023-01-12,3537.61,USD,Wire Transfer,Flagged,False,1285,2023-01-12,1011,Escalated,All good,2285,2023-01-12,High,Review Requested,BSA,Compliant
+286,2023-01-12,1566.59,GBP,ACH,Completed,False,1286,2023-01-12,1012,Escalated,High amount,2286,2023-01-12,Low,Escalation,Dodd-Frank Act,Compliant
+287,2023-01-12,9820.11,EUR,Mobile Payment,Pending,True,1287,2023-01-12,1005,Rejected,Check details,2287,2023-01-12,Medium,Escalation,BSA,Non-Compliant
+288,2023-01-12,4835.87,USD,Wire Transfer,Completed,True,1288,2023-01-12,1019,Approved,High amount,2288,2023-01-12,Low,Review Requested,PSD2,Compliant
+289,2023-01-13,5024.17,USD,ACH,Completed,False,1289,2023-01-13,1018,Rejected,All good,2289,2023-01-13,High,No Action,Dodd-Frank Act,Non-Compliant
+290,2023-01-13,6430.78,GBP,ACH,Completed,False,1290,2023-01-13,1007,Approved,Check details,2290,2023-01-13,Medium,No Action,BSA,Non-Compliant
+291,2023-01-13,3748.99,USD,ACH,Flagged,True,1291,2023-01-13,1019,Approved,All good,2291,2023-01-13,Medium,No Action,Dodd-Frank Act,Compliant
+292,2023-01-13,1455.31,USD,ACH,Flagged,False,1292,2023-01-13,1016,Rejected,High amount,2292,2023-01-13,High,No Action,Dodd-Frank Act,Compliant
+293,2023-01-13,8238.97,GBP,Wire Transfer,Completed,False,1293,2023-01-13,1010,Rejected,Check details,2293,2023-01-13,Medium,Review Requested,PSD2,Compliant
+294,2023-01-13,1979.49,USD,ACH,Flagged,True,1294,2023-01-13,1008,Approved,All good,2294,2023-01-13,Low,Escalation,PSD2,Compliant
+295,2023-01-13,5162.06,USD,Mobile Payment,Pending,True,1295,2023-01-13,1003,Approved,High amount,2295,2023-01-13,Low,No Action,Dodd-Frank Act,Non-Compliant
+296,2023-01-13,2320.74,GBP,Mobile Payment,Pending,True,1296,2023-01-13,1001,Rejected,All good,2296,2023-01-13,High,Escalation,PSD2,Compliant
+297,2023-01-13,1068.66,USD,Mobile Payment,Pending,True,1297,2023-01-13,1018,Rejected,High amount,2297,2023-01-13,Medium,Escalation,PSD2,Compliant
+298,2023-01-13,8635.7,GBP,Wire Transfer,Flagged,True,1298,2023-01-13,1007,Approved,Check details,2298,2023-01-13,Low,Escalation,BSA,Compliant
+299,2023-01-13,9731.9,EUR,Mobile Payment,Completed,False,1299,2023-01-13,1013,Rejected,High amount,2299,2023-01-13,Medium,No Action,PSD2,Compliant
+300,2023-01-13,9612.26,EUR,ACH,Pending,False,1300,2023-01-13,1015,Escalated,Check details,2300,2023-01-13,High,Review Requested,PSD2,Compliant
+301,2023-01-13,9074.9,EUR,ACH,Pending,False,1301,2023-01-13,1015,Approved,All good,2301,2023-01-13,Medium,Review Requested,PSD2,Compliant
+302,2023-01-13,7763.07,EUR,Mobile Payment,Flagged,False,1302,2023-01-13,1008,Rejected,Check details,2302,2023-01-13,Medium,No Action,Dodd-Frank Act,Non-Compliant
+303,2023-01-13,3398.14,USD,Wire Transfer,Flagged,False,1303,2023-01-13,1010,Escalated,All good,2303,2023-01-13,High,Escalation,BSA,Compliant
+304,2023-01-13,902.9,EUR,Wire Transfer,Flagged,False,1304,2023-01-13,1008,Approved,High amount,2304,2023-01-13,Low,Escalation,PSD2,Compliant
+305,2023-01-13,4131.69,GBP,ACH,Completed,False,1305,2023-01-13,1014,Approved,High amount,2305,2023-01-13,Low,Review Requested,BSA,Non-Compliant
+306,2023-01-13,2399.12,GBP,ACH,Completed,False,1306,2023-01-13,1002,Rejected,Check details,2306,2023-01-13,Medium,No Action,PSD2,Non-Compliant
+307,2023-01-13,1411.63,GBP,Mobile Payment,Flagged,False,1307,2023-01-13,1004,Escalated,High amount,2307,2023-01-13,Low,Escalation,BSA,Non-Compliant
+308,2023-01-13,628.93,GBP,Wire Transfer,Pending,True,1308,2023-01-13,1003,Rejected,All good,2308,2023-01-13,Low,Escalation,Dodd-Frank Act,Compliant
+309,2023-01-13,7283.38,EUR,Mobile Payment,Flagged,False,1309,2023-01-13,1008,Rejected,High amount,2309,2023-01-13,High,Review Requested,PSD2,Compliant
+310,2023-01-13,213.13,GBP,ACH,Pending,False,1310,2023-01-13,1003,Escalated,High amount,2310,2023-01-13,High,No Action,Dodd-Frank Act,Compliant
+311,2023-01-13,7728.75,EUR,ACH,Flagged,True,1311,2023-01-13,1008,Rejected,All good,2311,2023-01-13,High,Escalation,PSD2,Non-Compliant
+312,2023-01-13,1554.77,GBP,Mobile Payment,Completed,False,1312,2023-01-13,1004,Approved,Check details,2312,2023-01-13,Medium,No Action,BSA,Compliant
+313,2023-01-14,887.27,GBP,Wire Transfer,Pending,False,1313,2023-01-14,1001,Escalated,High amount,2313,2023-01-14,High,Review Requested,BSA,Compliant
+314,2023-01-14,987.07,EUR,ACH,Completed,True,1314,2023-01-14,1005,Rejected,High amount,2314,2023-01-14,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+315,2023-01-14,6753.27,EUR,ACH,Pending,True,1315,2023-01-14,1012,Rejected,High amount,2315,2023-01-14,High,No Action,PSD2,Compliant
+316,2023-01-14,2529.14,USD,Wire Transfer,Pending,True,1316,2023-01-14,1016,Rejected,High amount,2316,2023-01-14,Low,No Action,BSA,Non-Compliant
+317,2023-01-14,4263.34,USD,ACH,Flagged,True,1317,2023-01-14,1010,Approved,High amount,2317,2023-01-14,High,Review Requested,Dodd-Frank Act,Non-Compliant
+318,2023-01-14,5617.95,USD,Wire Transfer,Pending,True,1318,2023-01-14,1007,Approved,Check details,2318,2023-01-14,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+319,2023-01-14,8619.46,GBP,Wire Transfer,Flagged,True,1319,2023-01-14,1006,Escalated,Check details,2319,2023-01-14,Low,Review Requested,PSD2,Non-Compliant
+320,2023-01-14,7297.74,GBP,ACH,Completed,False,1320,2023-01-14,1002,Escalated,All good,2320,2023-01-14,Medium,Review Requested,PSD2,Compliant
+321,2023-01-14,2776.25,GBP,Mobile Payment,Flagged,False,1321,2023-01-14,1006,Approved,Check details,2321,2023-01-14,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+322,2023-01-14,1401.68,USD,ACH,Completed,False,1322,2023-01-14,1017,Escalated,All good,2322,2023-01-14,High,Escalation,BSA,Compliant
+323,2023-01-14,648.21,USD,ACH,Completed,False,1323,2023-01-14,1013,Approved,Check details,2323,2023-01-14,Medium,Escalation,PSD2,Non-Compliant
+324,2023-01-14,3085.83,USD,ACH,Flagged,False,1324,2023-01-14,1015,Approved,All good,2324,2023-01-14,Low,Escalation,BSA,Compliant
+325,2023-01-14,2694.97,GBP,ACH,Pending,False,1325,2023-01-14,1009,Rejected,All good,2325,2023-01-14,Medium,No Action,Dodd-Frank Act,Non-Compliant
+326,2023-01-14,4615.79,EUR,Mobile Payment,Completed,True,1326,2023-01-14,1012,Escalated,High amount,2326,2023-01-14,Low,Review Requested,BSA,Compliant
+327,2023-01-14,6864.49,USD,Mobile Payment,Pending,False,1327,2023-01-14,1015,Rejected,All good,2327,2023-01-14,Low,No Action,Dodd-Frank Act,Compliant
+328,2023-01-14,6986.69,EUR,Mobile Payment,Completed,True,1328,2023-01-14,1003,Approved,High amount,2328,2023-01-14,Medium,Escalation,BSA,Non-Compliant
+329,2023-01-14,2906.84,GBP,Wire Transfer,Completed,True,1329,2023-01-14,1017,Escalated,All good,2329,2023-01-14,Low,No Action,PSD2,Compliant
+330,2023-01-14,3861.28,USD,Mobile Payment,Completed,False,1330,2023-01-14,1012,Rejected,All good,2330,2023-01-14,Medium,No Action,Dodd-Frank Act,Compliant
+331,2023-01-14,1893.39,GBP,Wire Transfer,Flagged,True,1331,2023-01-14,1005,Approved,High amount,2331,2023-01-14,Medium,Review Requested,PSD2,Compliant
+332,2023-01-14,7906.6,EUR,ACH,Flagged,True,1332,2023-01-14,1019,Approved,Check details,2332,2023-01-14,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+333,2023-01-14,662.8,GBP,Mobile Payment,Completed,True,1333,2023-01-14,1007,Rejected,Check details,2333,2023-01-14,Medium,Escalation,Dodd-Frank Act,Compliant
+334,2023-01-14,7000.27,GBP,Mobile Payment,Flagged,False,1334,2023-01-14,1002,Rejected,Check details,2334,2023-01-14,High,Review Requested,BSA,Compliant
+335,2023-01-14,7809.08,USD,Mobile Payment,Flagged,False,1335,2023-01-14,1005,Rejected,High amount,2335,2023-01-14,Medium,No Action,BSA,Compliant
+336,2023-01-14,7796.33,EUR,Mobile Payment,Completed,True,1336,2023-01-14,1008,Escalated,High amount,2336,2023-01-14,Medium,Escalation,PSD2,Compliant
+337,2023-01-15,2668.28,USD,Mobile Payment,Completed,False,1337,2023-01-15,1008,Escalated,Check details,2337,2023-01-15,Low,No Action,Dodd-Frank Act,Compliant
+338,2023-01-15,3800.75,GBP,ACH,Flagged,False,1338,2023-01-15,1017,Rejected,High amount,2338,2023-01-15,Medium,Review Requested,Dodd-Frank Act,Compliant
+339,2023-01-15,5917.24,GBP,Mobile Payment,Flagged,True,1339,2023-01-15,1003,Rejected,High amount,2339,2023-01-15,Low,Review Requested,PSD2,Non-Compliant
+340,2023-01-15,2800.94,EUR,Wire Transfer,Completed,False,1340,2023-01-15,1013,Approved,Check details,2340,2023-01-15,Medium,No Action,BSA,Compliant
+341,2023-01-15,3771.44,GBP,Wire Transfer,Flagged,True,1341,2023-01-15,1006,Escalated,Check details,2341,2023-01-15,High,Review Requested,PSD2,Compliant
+342,2023-01-15,2050.84,USD,Mobile Payment,Completed,False,1342,2023-01-15,1013,Rejected,Check details,2342,2023-01-15,Low,Escalation,Dodd-Frank Act,Non-Compliant
+343,2023-01-15,4652.57,EUR,Wire Transfer,Pending,False,1343,2023-01-15,1014,Escalated,Check details,2343,2023-01-15,Low,Review Requested,Dodd-Frank Act,Compliant
+344,2023-01-15,541.66,GBP,Mobile Payment,Completed,True,1344,2023-01-15,1017,Escalated,Check details,2344,2023-01-15,High,Escalation,Dodd-Frank Act,Non-Compliant
+345,2023-01-15,8017.98,USD,ACH,Completed,True,1345,2023-01-15,1007,Escalated,Check details,2345,2023-01-15,Medium,No Action,PSD2,Non-Compliant
+346,2023-01-15,861.87,USD,Wire Transfer,Completed,True,1346,2023-01-15,1016,Approved,High amount,2346,2023-01-15,High,Escalation,Dodd-Frank Act,Compliant
+347,2023-01-15,5236.47,EUR,Mobile Payment,Pending,False,1347,2023-01-15,1001,Rejected,High amount,2347,2023-01-15,High,Escalation,PSD2,Non-Compliant
+348,2023-01-15,3137.42,GBP,Wire Transfer,Completed,True,1348,2023-01-15,1018,Rejected,All good,2348,2023-01-15,High,Escalation,PSD2,Non-Compliant
+349,2023-01-15,5817.68,USD,Mobile Payment,Completed,False,1349,2023-01-15,1005,Rejected,High amount,2349,2023-01-15,Low,Escalation,Dodd-Frank Act,Non-Compliant
+350,2023-01-15,9598.39,EUR,Wire Transfer,Completed,False,1350,2023-01-15,1014,Approved,All good,2350,2023-01-15,High,Review Requested,BSA,Compliant
+351,2023-01-15,6491.15,USD,ACH,Pending,False,1351,2023-01-15,1001,Approved,Check details,2351,2023-01-15,Low,Review Requested,PSD2,Non-Compliant
+352,2023-01-15,450.09,GBP,Wire Transfer,Pending,False,1352,2023-01-15,1014,Approved,All good,2352,2023-01-15,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+353,2023-01-15,4360.98,USD,Wire Transfer,Flagged,True,1353,2023-01-15,1005,Rejected,Check details,2353,2023-01-15,Medium,Escalation,PSD2,Non-Compliant
+354,2023-01-15,5149.17,GBP,Wire Transfer,Pending,True,1354,2023-01-15,1004,Escalated,All good,2354,2023-01-15,Medium,No Action,Dodd-Frank Act,Compliant
+355,2023-01-15,5408.16,USD,Wire Transfer,Completed,True,1355,2023-01-15,1004,Approved,High amount,2355,2023-01-15,Low,Review Requested,BSA,Non-Compliant
+356,2023-01-15,6845.79,GBP,Mobile Payment,Completed,True,1356,2023-01-15,1003,Escalated,Check details,2356,2023-01-15,High,Review Requested,BSA,Non-Compliant
+357,2023-01-15,2848.2,USD,ACH,Flagged,False,1357,2023-01-15,1018,Approved,Check details,2357,2023-01-15,Low,Review Requested,PSD2,Non-Compliant
+358,2023-01-15,1375.72,USD,ACH,Flagged,True,1358,2023-01-15,1013,Approved,High amount,2358,2023-01-15,Medium,No Action,Dodd-Frank Act,Compliant
+359,2023-01-15,3987.49,EUR,Wire Transfer,Completed,True,1359,2023-01-15,1004,Approved,All good,2359,2023-01-15,High,Review Requested,PSD2,Non-Compliant
+360,2023-01-15,9568.42,GBP,Wire Transfer,Flagged,False,1360,2023-01-15,1009,Rejected,High amount,2360,2023-01-15,Low,No Action,PSD2,Non-Compliant
+361,2023-01-16,1952.6,USD,ACH,Pending,True,1361,2023-01-16,1002,Approved,High amount,2361,2023-01-16,High,Escalation,BSA,Compliant
+362,2023-01-16,9049.44,EUR,ACH,Completed,True,1362,2023-01-16,1016,Rejected,Check details,2362,2023-01-16,High,Escalation,BSA,Compliant
+363,2023-01-16,5483.68,USD,ACH,Completed,True,1363,2023-01-16,1010,Approved,Check details,2363,2023-01-16,High,No Action,PSD2,Compliant
+364,2023-01-16,4623.42,EUR,ACH,Pending,False,1364,2023-01-16,1009,Approved,All good,2364,2023-01-16,Low,Escalation,PSD2,Compliant
+365,2023-01-16,8832.21,USD,Wire Transfer,Completed,True,1365,2023-01-16,1011,Escalated,High amount,2365,2023-01-16,High,Review Requested,Dodd-Frank Act,Non-Compliant
+366,2023-01-16,4640.18,EUR,ACH,Completed,True,1366,2023-01-16,1013,Approved,Check details,2366,2023-01-16,Medium,Escalation,Dodd-Frank Act,Compliant
+367,2023-01-16,7269.26,GBP,Wire Transfer,Pending,True,1367,2023-01-16,1013,Approved,Check details,2367,2023-01-16,Low,Escalation,BSA,Compliant
+368,2023-01-16,4050.35,USD,Wire Transfer,Flagged,False,1368,2023-01-16,1004,Escalated,All good,2368,2023-01-16,Low,Review Requested,Dodd-Frank Act,Compliant
+369,2023-01-16,9050.04,GBP,ACH,Completed,False,1369,2023-01-16,1013,Approved,All good,2369,2023-01-16,Medium,Escalation,PSD2,Non-Compliant
+370,2023-01-16,6931.25,GBP,Mobile Payment,Pending,True,1370,2023-01-16,1009,Rejected,All good,2370,2023-01-16,Medium,No Action,Dodd-Frank Act,Non-Compliant
+371,2023-01-16,7026.26,EUR,Wire Transfer,Pending,True,1371,2023-01-16,1010,Approved,High amount,2371,2023-01-16,Low,Review Requested,BSA,Compliant
+372,2023-01-16,3344.43,GBP,ACH,Flagged,False,1372,2023-01-16,1001,Rejected,All good,2372,2023-01-16,High,Escalation,Dodd-Frank Act,Non-Compliant
+373,2023-01-16,7592.11,EUR,Wire Transfer,Flagged,True,1373,2023-01-16,1007,Approved,High amount,2373,2023-01-16,Medium,Review Requested,Dodd-Frank Act,Compliant
+374,2023-01-16,6397.0,EUR,Mobile Payment,Completed,True,1374,2023-01-16,1009,Rejected,High amount,2374,2023-01-16,Medium,Review Requested,PSD2,Non-Compliant
+375,2023-01-16,2476.2,EUR,ACH,Pending,False,1375,2023-01-16,1005,Approved,High amount,2375,2023-01-16,Medium,No Action,Dodd-Frank Act,Non-Compliant
+376,2023-01-16,1689.33,EUR,Wire Transfer,Completed,True,1376,2023-01-16,1007,Escalated,Check details,2376,2023-01-16,High,No Action,Dodd-Frank Act,Non-Compliant
+377,2023-01-16,7984.28,EUR,Mobile Payment,Pending,True,1377,2023-01-16,1013,Approved,All good,2377,2023-01-16,High,Escalation,PSD2,Non-Compliant
+378,2023-01-16,9595.75,USD,Mobile Payment,Pending,True,1378,2023-01-16,1008,Rejected,High amount,2378,2023-01-16,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+379,2023-01-16,4635.57,USD,Wire Transfer,Completed,True,1379,2023-01-16,1004,Approved,Check details,2379,2023-01-16,High,Escalation,BSA,Compliant
+380,2023-01-16,5950.74,GBP,ACH,Completed,False,1380,2023-01-16,1011,Approved,High amount,2380,2023-01-16,Low,Review Requested,Dodd-Frank Act,Compliant
+381,2023-01-16,8591.45,USD,ACH,Pending,True,1381,2023-01-16,1018,Approved,All good,2381,2023-01-16,Low,No Action,BSA,Compliant
+382,2023-01-16,4626.51,EUR,Wire Transfer,Pending,True,1382,2023-01-16,1018,Rejected,All good,2382,2023-01-16,Medium,Escalation,PSD2,Non-Compliant
+383,2023-01-16,9523.56,EUR,Mobile Payment,Completed,False,1383,2023-01-16,1018,Rejected,High amount,2383,2023-01-16,Low,Escalation,BSA,Non-Compliant
+384,2023-01-16,5799.94,USD,Mobile Payment,Flagged,True,1384,2023-01-16,1015,Approved,All good,2384,2023-01-16,Low,Review Requested,BSA,Compliant
+385,2023-01-17,8225.59,GBP,Mobile Payment,Pending,False,1385,2023-01-17,1010,Approved,Check details,2385,2023-01-17,Medium,No Action,BSA,Compliant
+386,2023-01-17,9097.55,GBP,Mobile Payment,Flagged,True,1386,2023-01-17,1013,Approved,Check details,2386,2023-01-17,Low,No Action,Dodd-Frank Act,Compliant
+387,2023-01-17,8173.69,USD,Wire Transfer,Completed,True,1387,2023-01-17,1013,Escalated,All good,2387,2023-01-17,Low,No Action,PSD2,Non-Compliant
+388,2023-01-17,1678.2,EUR,Mobile Payment,Flagged,True,1388,2023-01-17,1005,Escalated,High amount,2388,2023-01-17,High,No Action,Dodd-Frank Act,Compliant
+389,2023-01-17,6326.09,EUR,Wire Transfer,Flagged,False,1389,2023-01-17,1009,Approved,High amount,2389,2023-01-17,Low,No Action,Dodd-Frank Act,Non-Compliant
+390,2023-01-17,4044.5,GBP,ACH,Pending,True,1390,2023-01-17,1010,Approved,High amount,2390,2023-01-17,High,Review Requested,Dodd-Frank Act,Non-Compliant
+391,2023-01-17,720.86,USD,ACH,Pending,False,1391,2023-01-17,1004,Approved,Check details,2391,2023-01-17,Low,Review Requested,BSA,Compliant
+392,2023-01-17,4297.92,EUR,Mobile Payment,Flagged,True,1392,2023-01-17,1002,Approved,All good,2392,2023-01-17,Medium,No Action,PSD2,Compliant
+393,2023-01-17,2660.97,GBP,Mobile Payment,Pending,True,1393,2023-01-17,1007,Escalated,Check details,2393,2023-01-17,Low,Escalation,Dodd-Frank Act,Compliant
+394,2023-01-17,8505.48,GBP,Mobile Payment,Flagged,True,1394,2023-01-17,1014,Rejected,All good,2394,2023-01-17,Medium,No Action,PSD2,Non-Compliant
+395,2023-01-17,429.72,USD,ACH,Flagged,False,1395,2023-01-17,1013,Rejected,All good,2395,2023-01-17,High,Review Requested,PSD2,Non-Compliant
+396,2023-01-17,9593.93,GBP,Wire Transfer,Completed,True,1396,2023-01-17,1006,Rejected,Check details,2396,2023-01-17,High,Escalation,BSA,Non-Compliant
+397,2023-01-17,3618.15,EUR,Wire Transfer,Flagged,False,1397,2023-01-17,1001,Approved,Check details,2397,2023-01-17,High,Review Requested,Dodd-Frank Act,Compliant
+398,2023-01-17,3631.4,GBP,Wire Transfer,Completed,True,1398,2023-01-17,1008,Escalated,All good,2398,2023-01-17,Medium,No Action,PSD2,Compliant
+399,2023-01-17,261.65,GBP,Mobile Payment,Pending,False,1399,2023-01-17,1007,Rejected,High amount,2399,2023-01-17,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+400,2023-01-17,1933.8,GBP,Wire Transfer,Flagged,True,1400,2023-01-17,1007,Escalated,All good,2400,2023-01-17,Medium,No Action,Dodd-Frank Act,Compliant
+401,2023-01-17,4072.47,USD,Mobile Payment,Completed,True,1401,2023-01-17,1008,Approved,Check details,2401,2023-01-17,Low,No Action,Dodd-Frank Act,Non-Compliant
+402,2023-01-17,9299.99,EUR,ACH,Completed,False,1402,2023-01-17,1019,Approved,All good,2402,2023-01-17,Low,Review Requested,PSD2,Compliant
+403,2023-01-17,1086.19,GBP,Wire Transfer,Completed,True,1403,2023-01-17,1018,Rejected,All good,2403,2023-01-17,High,Review Requested,BSA,Compliant
+404,2023-01-17,9458.49,USD,Mobile Payment,Flagged,False,1404,2023-01-17,1012,Approved,All good,2404,2023-01-17,High,No Action,PSD2,Compliant
+405,2023-01-17,8707.94,GBP,Wire Transfer,Pending,True,1405,2023-01-17,1018,Rejected,Check details,2405,2023-01-17,Low,No Action,BSA,Compliant
+406,2023-01-17,4596.21,EUR,ACH,Flagged,True,1406,2023-01-17,1006,Escalated,High amount,2406,2023-01-17,Low,No Action,BSA,Compliant
+407,2023-01-17,3334.34,GBP,Wire Transfer,Pending,False,1407,2023-01-17,1019,Approved,High amount,2407,2023-01-17,Low,Review Requested,PSD2,Non-Compliant
+408,2023-01-17,2404.17,USD,Wire Transfer,Completed,False,1408,2023-01-17,1018,Rejected,High amount,2408,2023-01-17,High,No Action,PSD2,Non-Compliant
+409,2023-01-18,6183.2,GBP,ACH,Flagged,True,1409,2023-01-18,1010,Rejected,Check details,2409,2023-01-18,Low,Escalation,Dodd-Frank Act,Compliant
+410,2023-01-18,427.44,GBP,Mobile Payment,Completed,False,1410,2023-01-18,1013,Approved,Check details,2410,2023-01-18,Low,Escalation,BSA,Non-Compliant
+411,2023-01-18,254.5,GBP,Mobile Payment,Pending,True,1411,2023-01-18,1018,Escalated,High amount,2411,2023-01-18,High,Review Requested,PSD2,Non-Compliant
+412,2023-01-18,4345.08,USD,Mobile Payment,Completed,False,1412,2023-01-18,1005,Escalated,All good,2412,2023-01-18,Low,No Action,BSA,Compliant
+413,2023-01-18,773.93,GBP,Wire Transfer,Completed,True,1413,2023-01-18,1001,Escalated,All good,2413,2023-01-18,Low,Review Requested,BSA,Compliant
+414,2023-01-18,2594.22,GBP,Wire Transfer,Pending,True,1414,2023-01-18,1004,Approved,Check details,2414,2023-01-18,Medium,Escalation,PSD2,Non-Compliant
+415,2023-01-18,2289.49,USD,Mobile Payment,Pending,True,1415,2023-01-18,1013,Approved,Check details,2415,2023-01-18,Low,Escalation,BSA,Compliant
+416,2023-01-18,2606.59,USD,Mobile Payment,Completed,False,1416,2023-01-18,1016,Escalated,All good,2416,2023-01-18,Low,Escalation,PSD2,Compliant
+417,2023-01-18,1397.45,EUR,Wire Transfer,Pending,False,1417,2023-01-18,1006,Approved,Check details,2417,2023-01-18,High,Review Requested,PSD2,Non-Compliant
+418,2023-01-18,219.16,USD,Mobile Payment,Flagged,False,1418,2023-01-18,1008,Escalated,Check details,2418,2023-01-18,Low,Review Requested,PSD2,Non-Compliant
+419,2023-01-18,1243.29,GBP,Mobile Payment,Flagged,False,1419,2023-01-18,1015,Rejected,All good,2419,2023-01-18,High,Review Requested,Dodd-Frank Act,Non-Compliant
+420,2023-01-18,6222.95,GBP,Wire Transfer,Pending,False,1420,2023-01-18,1006,Rejected,High amount,2420,2023-01-18,Medium,Review Requested,Dodd-Frank Act,Compliant
+421,2023-01-18,9745.14,USD,ACH,Flagged,True,1421,2023-01-18,1018,Escalated,All good,2421,2023-01-18,Medium,No Action,Dodd-Frank Act,Compliant
+422,2023-01-18,9904.42,EUR,Wire Transfer,Completed,False,1422,2023-01-18,1019,Approved,High amount,2422,2023-01-18,Low,No Action,BSA,Non-Compliant
+423,2023-01-18,4149.64,USD,Mobile Payment,Pending,False,1423,2023-01-18,1019,Escalated,High amount,2423,2023-01-18,High,Escalation,Dodd-Frank Act,Non-Compliant
+424,2023-01-18,1713.25,EUR,Mobile Payment,Flagged,False,1424,2023-01-18,1018,Approved,High amount,2424,2023-01-18,Medium,Escalation,BSA,Compliant
+425,2023-01-18,6423.74,USD,ACH,Pending,False,1425,2023-01-18,1002,Rejected,All good,2425,2023-01-18,High,No Action,PSD2,Non-Compliant
+426,2023-01-18,4954.02,EUR,ACH,Flagged,False,1426,2023-01-18,1011,Rejected,Check details,2426,2023-01-18,Medium,Escalation,BSA,Compliant
+427,2023-01-18,9895.16,EUR,Wire Transfer,Pending,False,1427,2023-01-18,1018,Approved,All good,2427,2023-01-18,High,No Action,PSD2,Non-Compliant
+428,2023-01-18,746.51,GBP,ACH,Completed,False,1428,2023-01-18,1010,Escalated,All good,2428,2023-01-18,High,Review Requested,PSD2,Compliant
+429,2023-01-18,7854.02,EUR,Mobile Payment,Completed,False,1429,2023-01-18,1005,Approved,Check details,2429,2023-01-18,High,No Action,PSD2,Compliant
+430,2023-01-18,2955.15,GBP,Mobile Payment,Pending,False,1430,2023-01-18,1009,Escalated,All good,2430,2023-01-18,Medium,Review Requested,PSD2,Non-Compliant
+431,2023-01-18,2490.04,USD,Mobile Payment,Flagged,False,1431,2023-01-18,1019,Escalated,Check details,2431,2023-01-18,High,Escalation,PSD2,Compliant
+432,2023-01-18,6658.8,USD,Mobile Payment,Flagged,False,1432,2023-01-18,1006,Rejected,Check details,2432,2023-01-18,Medium,No Action,PSD2,Compliant
+433,2023-01-19,2536.03,USD,ACH,Pending,True,1433,2023-01-19,1008,Escalated,High amount,2433,2023-01-19,Medium,Review Requested,Dodd-Frank Act,Compliant
+434,2023-01-19,6692.01,USD,Mobile Payment,Flagged,True,1434,2023-01-19,1002,Rejected,Check details,2434,2023-01-19,High,Escalation,BSA,Non-Compliant
+435,2023-01-19,5221.35,USD,Mobile Payment,Flagged,False,1435,2023-01-19,1018,Rejected,High amount,2435,2023-01-19,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+436,2023-01-19,4298.48,GBP,Mobile Payment,Pending,False,1436,2023-01-19,1016,Approved,High amount,2436,2023-01-19,High,Escalation,Dodd-Frank Act,Non-Compliant
+437,2023-01-19,5591.41,USD,Wire Transfer,Flagged,True,1437,2023-01-19,1008,Rejected,Check details,2437,2023-01-19,Medium,No Action,BSA,Non-Compliant
+438,2023-01-19,2941.81,EUR,Wire Transfer,Completed,False,1438,2023-01-19,1017,Rejected,Check details,2438,2023-01-19,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+439,2023-01-19,7095.09,GBP,Mobile Payment,Flagged,False,1439,2023-01-19,1018,Rejected,Check details,2439,2023-01-19,High,Escalation,Dodd-Frank Act,Non-Compliant
+440,2023-01-19,4207.08,EUR,ACH,Pending,True,1440,2023-01-19,1007,Escalated,Check details,2440,2023-01-19,High,Escalation,PSD2,Non-Compliant
+441,2023-01-19,3669.4,GBP,ACH,Pending,True,1441,2023-01-19,1009,Approved,Check details,2441,2023-01-19,High,Escalation,PSD2,Non-Compliant
+442,2023-01-19,8303.7,EUR,Wire Transfer,Pending,True,1442,2023-01-19,1007,Escalated,All good,2442,2023-01-19,Low,No Action,Dodd-Frank Act,Compliant
+443,2023-01-19,9257.17,GBP,Wire Transfer,Completed,False,1443,2023-01-19,1003,Rejected,Check details,2443,2023-01-19,Medium,No Action,BSA,Non-Compliant
+444,2023-01-19,555.47,USD,ACH,Flagged,False,1444,2023-01-19,1006,Escalated,High amount,2444,2023-01-19,High,Escalation,PSD2,Compliant
+445,2023-01-19,2403.01,GBP,Wire Transfer,Pending,True,1445,2023-01-19,1005,Rejected,All good,2445,2023-01-19,Low,No Action,Dodd-Frank Act,Non-Compliant
+446,2023-01-19,3550.34,GBP,Wire Transfer,Pending,False,1446,2023-01-19,1003,Approved,Check details,2446,2023-01-19,High,Review Requested,Dodd-Frank Act,Compliant
+447,2023-01-19,8168.17,EUR,Mobile Payment,Pending,False,1447,2023-01-19,1014,Rejected,Check details,2447,2023-01-19,High,Escalation,Dodd-Frank Act,Compliant
+448,2023-01-19,9856.37,GBP,ACH,Flagged,False,1448,2023-01-19,1018,Rejected,High amount,2448,2023-01-19,Low,Escalation,PSD2,Non-Compliant
+449,2023-01-19,9692.82,GBP,Mobile Payment,Flagged,False,1449,2023-01-19,1007,Rejected,High amount,2449,2023-01-19,Low,No Action,Dodd-Frank Act,Compliant
+450,2023-01-19,9058.99,USD,Wire Transfer,Flagged,False,1450,2023-01-19,1011,Escalated,All good,2450,2023-01-19,Low,Review Requested,Dodd-Frank Act,Compliant
+451,2023-01-19,3035.91,EUR,Wire Transfer,Flagged,True,1451,2023-01-19,1014,Rejected,All good,2451,2023-01-19,Medium,No Action,Dodd-Frank Act,Non-Compliant
+452,2023-01-19,9920.91,GBP,Wire Transfer,Flagged,True,1452,2023-01-19,1016,Rejected,Check details,2452,2023-01-19,Medium,Escalation,BSA,Compliant
+453,2023-01-19,2569.26,EUR,Wire Transfer,Flagged,True,1453,2023-01-19,1016,Rejected,All good,2453,2023-01-19,High,Review Requested,PSD2,Compliant
+454,2023-01-19,1148.47,GBP,ACH,Pending,True,1454,2023-01-19,1004,Rejected,All good,2454,2023-01-19,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+455,2023-01-19,9514.43,GBP,ACH,Completed,True,1455,2023-01-19,1016,Rejected,Check details,2455,2023-01-19,High,Review Requested,BSA,Compliant
+456,2023-01-19,2410.86,EUR,ACH,Pending,True,1456,2023-01-19,1008,Rejected,All good,2456,2023-01-19,High,No Action,Dodd-Frank Act,Non-Compliant
+457,2023-01-20,6928.71,USD,ACH,Completed,True,1457,2023-01-20,1009,Escalated,High amount,2457,2023-01-20,High,No Action,Dodd-Frank Act,Non-Compliant
+458,2023-01-20,677.73,GBP,Mobile Payment,Pending,True,1458,2023-01-20,1005,Approved,Check details,2458,2023-01-20,Low,Escalation,BSA,Non-Compliant
+459,2023-01-20,7334.02,GBP,Mobile Payment,Pending,True,1459,2023-01-20,1018,Approved,Check details,2459,2023-01-20,Low,Review Requested,Dodd-Frank Act,Compliant
+460,2023-01-20,8829.03,GBP,Mobile Payment,Completed,False,1460,2023-01-20,1013,Approved,Check details,2460,2023-01-20,Low,No Action,Dodd-Frank Act,Non-Compliant
+461,2023-01-20,2797.13,EUR,Wire Transfer,Pending,True,1461,2023-01-20,1015,Approved,All good,2461,2023-01-20,Medium,Escalation,BSA,Non-Compliant
+462,2023-01-20,3852.66,USD,ACH,Completed,False,1462,2023-01-20,1010,Escalated,Check details,2462,2023-01-20,Medium,Escalation,Dodd-Frank Act,Compliant
+463,2023-01-20,3805.53,GBP,ACH,Completed,False,1463,2023-01-20,1005,Rejected,High amount,2463,2023-01-20,Low,Escalation,PSD2,Non-Compliant
+464,2023-01-20,7513.0,GBP,ACH,Completed,True,1464,2023-01-20,1004,Rejected,All good,2464,2023-01-20,Low,Escalation,BSA,Non-Compliant
+465,2023-01-20,2454.29,GBP,Mobile Payment,Pending,True,1465,2023-01-20,1019,Escalated,High amount,2465,2023-01-20,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+466,2023-01-20,1801.35,EUR,Wire Transfer,Flagged,True,1466,2023-01-20,1015,Approved,All good,2466,2023-01-20,Medium,Escalation,PSD2,Compliant
+467,2023-01-20,4547.99,EUR,Wire Transfer,Pending,True,1467,2023-01-20,1008,Escalated,High amount,2467,2023-01-20,Medium,No Action,Dodd-Frank Act,Compliant
+468,2023-01-20,3114.24,EUR,Wire Transfer,Pending,False,1468,2023-01-20,1005,Escalated,Check details,2468,2023-01-20,High,Review Requested,BSA,Compliant
+469,2023-01-20,8407.97,EUR,Mobile Payment,Completed,True,1469,2023-01-20,1009,Approved,Check details,2469,2023-01-20,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+470,2023-01-20,2453.64,USD,ACH,Completed,False,1470,2023-01-20,1017,Escalated,All good,2470,2023-01-20,Low,Review Requested,PSD2,Compliant
+471,2023-01-20,5073.66,EUR,Mobile Payment,Flagged,True,1471,2023-01-20,1008,Rejected,Check details,2471,2023-01-20,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+472,2023-01-20,9431.58,EUR,ACH,Completed,True,1472,2023-01-20,1014,Escalated,All good,2472,2023-01-20,Medium,Escalation,Dodd-Frank Act,Compliant
+473,2023-01-20,6376.58,GBP,Wire Transfer,Flagged,False,1473,2023-01-20,1012,Approved,Check details,2473,2023-01-20,High,Escalation,Dodd-Frank Act,Non-Compliant
+474,2023-01-20,8686.17,EUR,ACH,Pending,True,1474,2023-01-20,1009,Approved,All good,2474,2023-01-20,Low,Review Requested,PSD2,Non-Compliant
+475,2023-01-20,9408.08,USD,Wire Transfer,Completed,False,1475,2023-01-20,1016,Approved,All good,2475,2023-01-20,Medium,Escalation,PSD2,Compliant
+476,2023-01-20,7532.57,USD,Wire Transfer,Pending,False,1476,2023-01-20,1001,Escalated,High amount,2476,2023-01-20,Low,Review Requested,Dodd-Frank Act,Compliant
+477,2023-01-20,7025.79,GBP,Wire Transfer,Flagged,False,1477,2023-01-20,1001,Approved,Check details,2477,2023-01-20,Medium,Review Requested,Dodd-Frank Act,Compliant
+478,2023-01-20,9682.86,USD,ACH,Flagged,False,1478,2023-01-20,1010,Rejected,High amount,2478,2023-01-20,High,Escalation,BSA,Non-Compliant
+479,2023-01-20,9944.57,EUR,Mobile Payment,Flagged,False,1479,2023-01-20,1012,Approved,Check details,2479,2023-01-20,Low,Escalation,BSA,Compliant
+480,2023-01-20,4573.03,EUR,Wire Transfer,Pending,False,1480,2023-01-20,1003,Rejected,Check details,2480,2023-01-20,High,No Action,PSD2,Non-Compliant
+481,2023-01-21,801.61,USD,ACH,Flagged,False,1481,2023-01-21,1001,Escalated,Check details,2481,2023-01-21,Medium,Escalation,BSA,Non-Compliant
+482,2023-01-21,2998.66,USD,Wire Transfer,Flagged,False,1482,2023-01-21,1008,Approved,High amount,2482,2023-01-21,Low,No Action,Dodd-Frank Act,Non-Compliant
+483,2023-01-21,1608.31,EUR,ACH,Pending,True,1483,2023-01-21,1016,Approved,High amount,2483,2023-01-21,Medium,No Action,BSA,Non-Compliant
+484,2023-01-21,4233.12,GBP,Mobile Payment,Pending,False,1484,2023-01-21,1006,Rejected,High amount,2484,2023-01-21,Medium,Review Requested,PSD2,Non-Compliant
+485,2023-01-21,1399.76,EUR,Wire Transfer,Flagged,False,1485,2023-01-21,1011,Escalated,Check details,2485,2023-01-21,Medium,Escalation,PSD2,Compliant
+486,2023-01-21,6080.77,GBP,Wire Transfer,Completed,True,1486,2023-01-21,1014,Rejected,All good,2486,2023-01-21,High,No Action,Dodd-Frank Act,Compliant
+487,2023-01-21,3889.8,GBP,Wire Transfer,Flagged,False,1487,2023-01-21,1013,Escalated,Check details,2487,2023-01-21,Low,Escalation,PSD2,Compliant
+488,2023-01-21,8964.32,USD,Mobile Payment,Completed,False,1488,2023-01-21,1004,Rejected,Check details,2488,2023-01-21,Medium,No Action,BSA,Compliant
+489,2023-01-21,9681.17,GBP,ACH,Pending,False,1489,2023-01-21,1002,Rejected,All good,2489,2023-01-21,Medium,No Action,PSD2,Non-Compliant
+490,2023-01-21,5514.16,EUR,Wire Transfer,Pending,False,1490,2023-01-21,1003,Approved,Check details,2490,2023-01-21,High,No Action,Dodd-Frank Act,Compliant
+491,2023-01-21,2820.75,EUR,Wire Transfer,Pending,False,1491,2023-01-21,1007,Rejected,High amount,2491,2023-01-21,Low,Escalation,BSA,Compliant
+492,2023-01-21,5963.08,USD,Mobile Payment,Pending,True,1492,2023-01-21,1018,Escalated,High amount,2492,2023-01-21,Medium,Review Requested,PSD2,Compliant
+493,2023-01-21,8977.94,GBP,ACH,Pending,False,1493,2023-01-21,1014,Rejected,High amount,2493,2023-01-21,Medium,No Action,BSA,Compliant
+494,2023-01-21,4126.66,EUR,Mobile Payment,Pending,True,1494,2023-01-21,1010,Escalated,High amount,2494,2023-01-21,Low,No Action,BSA,Non-Compliant
+495,2023-01-21,5565.57,GBP,Mobile Payment,Pending,False,1495,2023-01-21,1010,Rejected,All good,2495,2023-01-21,Low,Escalation,BSA,Compliant
+496,2023-01-21,2789.36,EUR,Wire Transfer,Completed,True,1496,2023-01-21,1006,Approved,High amount,2496,2023-01-21,High,Escalation,Dodd-Frank Act,Compliant
+497,2023-01-21,4608.9,EUR,ACH,Flagged,False,1497,2023-01-21,1015,Rejected,Check details,2497,2023-01-21,Medium,Review Requested,PSD2,Compliant
+498,2023-01-21,4076.96,EUR,Wire Transfer,Flagged,True,1498,2023-01-21,1016,Escalated,Check details,2498,2023-01-21,High,Review Requested,Dodd-Frank Act,Compliant
+499,2023-01-21,2559.29,EUR,Wire Transfer,Pending,True,1499,2023-01-21,1008,Escalated,High amount,2499,2023-01-21,High,No Action,Dodd-Frank Act,Compliant
+500,2023-01-21,5108.08,USD,Mobile Payment,Pending,True,1500,2023-01-21,1005,Approved,All good,2500,2023-01-21,Low,No Action,PSD2,Compliant
+501,2023-01-21,3172.77,USD,Mobile Payment,Pending,False,1501,2023-01-21,1004,Escalated,Check details,2501,2023-01-21,High,No Action,PSD2,Compliant
+502,2023-01-21,3793.05,GBP,Wire Transfer,Flagged,True,1502,2023-01-21,1008,Approved,All good,2502,2023-01-21,Medium,Escalation,BSA,Non-Compliant
+503,2023-01-21,5297.21,GBP,Mobile Payment,Completed,True,1503,2023-01-21,1010,Rejected,All good,2503,2023-01-21,Medium,Escalation,PSD2,Compliant
+504,2023-01-21,7530.89,USD,Mobile Payment,Completed,True,1504,2023-01-21,1010,Escalated,High amount,2504,2023-01-21,Medium,No Action,PSD2,Compliant
+505,2023-01-22,3401.72,EUR,ACH,Completed,False,1505,2023-01-22,1008,Approved,High amount,2505,2023-01-22,Low,Escalation,PSD2,Non-Compliant
+506,2023-01-22,9249.17,GBP,Wire Transfer,Flagged,True,1506,2023-01-22,1012,Rejected,Check details,2506,2023-01-22,Low,No Action,PSD2,Non-Compliant
+507,2023-01-22,8636.95,GBP,Wire Transfer,Completed,True,1507,2023-01-22,1007,Rejected,All good,2507,2023-01-22,Medium,No Action,Dodd-Frank Act,Compliant
+508,2023-01-22,582.03,USD,ACH,Pending,False,1508,2023-01-22,1014,Approved,All good,2508,2023-01-22,Medium,No Action,PSD2,Non-Compliant
+509,2023-01-22,2611.06,GBP,Mobile Payment,Pending,True,1509,2023-01-22,1003,Approved,High amount,2509,2023-01-22,Low,Review Requested,BSA,Compliant
+510,2023-01-22,4516.74,USD,ACH,Flagged,False,1510,2023-01-22,1008,Rejected,All good,2510,2023-01-22,Medium,Review Requested,PSD2,Compliant
+511,2023-01-22,1135.82,EUR,ACH,Completed,False,1511,2023-01-22,1004,Rejected,Check details,2511,2023-01-22,Medium,No Action,PSD2,Non-Compliant
+512,2023-01-22,3549.91,GBP,ACH,Flagged,False,1512,2023-01-22,1013,Approved,High amount,2512,2023-01-22,High,Review Requested,BSA,Compliant
+513,2023-01-22,7426.97,EUR,Mobile Payment,Flagged,True,1513,2023-01-22,1001,Approved,All good,2513,2023-01-22,Low,Review Requested,Dodd-Frank Act,Compliant
+514,2023-01-22,6837.09,EUR,ACH,Completed,False,1514,2023-01-22,1006,Rejected,All good,2514,2023-01-22,Low,Escalation,Dodd-Frank Act,Non-Compliant
+515,2023-01-22,6261.61,USD,Wire Transfer,Completed,True,1515,2023-01-22,1001,Rejected,High amount,2515,2023-01-22,Medium,No Action,PSD2,Non-Compliant
+516,2023-01-22,7134.23,EUR,Mobile Payment,Pending,False,1516,2023-01-22,1004,Escalated,High amount,2516,2023-01-22,High,Review Requested,BSA,Non-Compliant
+517,2023-01-22,2128.74,USD,ACH,Completed,True,1517,2023-01-22,1011,Escalated,High amount,2517,2023-01-22,Low,Escalation,PSD2,Compliant
+518,2023-01-22,3482.81,USD,ACH,Completed,False,1518,2023-01-22,1018,Approved,All good,2518,2023-01-22,Low,No Action,PSD2,Non-Compliant
+519,2023-01-22,6794.8,GBP,ACH,Pending,True,1519,2023-01-22,1017,Approved,High amount,2519,2023-01-22,Low,Escalation,Dodd-Frank Act,Compliant
+520,2023-01-22,8804.42,EUR,ACH,Pending,True,1520,2023-01-22,1009,Rejected,Check details,2520,2023-01-22,High,No Action,PSD2,Compliant
+521,2023-01-22,5482.41,USD,ACH,Pending,False,1521,2023-01-22,1019,Rejected,All good,2521,2023-01-22,High,No Action,BSA,Non-Compliant
+522,2023-01-22,2898.73,GBP,ACH,Pending,True,1522,2023-01-22,1016,Approved,All good,2522,2023-01-22,High,Review Requested,BSA,Compliant
+523,2023-01-22,399.33,USD,Wire Transfer,Completed,True,1523,2023-01-22,1011,Approved,High amount,2523,2023-01-22,Low,No Action,Dodd-Frank Act,Non-Compliant
+524,2023-01-22,7132.33,EUR,Mobile Payment,Flagged,True,1524,2023-01-22,1006,Approved,All good,2524,2023-01-22,Low,Review Requested,Dodd-Frank Act,Compliant
+525,2023-01-22,178.05,EUR,Wire Transfer,Flagged,False,1525,2023-01-22,1014,Approved,Check details,2525,2023-01-22,High,Review Requested,PSD2,Non-Compliant
+526,2023-01-22,3789.52,GBP,ACH,Flagged,False,1526,2023-01-22,1004,Rejected,Check details,2526,2023-01-22,High,Escalation,BSA,Non-Compliant
+527,2023-01-22,5352.32,GBP,ACH,Pending,False,1527,2023-01-22,1005,Escalated,All good,2527,2023-01-22,High,Escalation,BSA,Compliant
+528,2023-01-22,9228.9,GBP,ACH,Completed,True,1528,2023-01-22,1004,Escalated,High amount,2528,2023-01-22,Medium,No Action,BSA,Non-Compliant
+529,2023-01-23,986.0,GBP,Wire Transfer,Flagged,False,1529,2023-01-23,1004,Approved,High amount,2529,2023-01-23,High,Escalation,PSD2,Non-Compliant
+530,2023-01-23,4118.83,GBP,ACH,Completed,False,1530,2023-01-23,1008,Approved,Check details,2530,2023-01-23,Low,No Action,Dodd-Frank Act,Non-Compliant
+531,2023-01-23,340.7,EUR,Wire Transfer,Completed,False,1531,2023-01-23,1011,Escalated,All good,2531,2023-01-23,High,Escalation,BSA,Compliant
+532,2023-01-23,3491.85,GBP,Mobile Payment,Pending,False,1532,2023-01-23,1009,Rejected,All good,2532,2023-01-23,High,No Action,PSD2,Compliant
+533,2023-01-23,6260.09,GBP,Wire Transfer,Pending,False,1533,2023-01-23,1009,Rejected,Check details,2533,2023-01-23,Medium,Escalation,PSD2,Non-Compliant
+534,2023-01-23,2862.77,GBP,Wire Transfer,Completed,True,1534,2023-01-23,1018,Approved,Check details,2534,2023-01-23,Low,No Action,PSD2,Non-Compliant
+535,2023-01-23,2176.52,GBP,Mobile Payment,Completed,False,1535,2023-01-23,1018,Approved,Check details,2535,2023-01-23,High,Escalation,PSD2,Compliant
+536,2023-01-23,1245.46,EUR,ACH,Completed,False,1536,2023-01-23,1006,Escalated,All good,2536,2023-01-23,Medium,No Action,Dodd-Frank Act,Compliant
+537,2023-01-23,5813.69,EUR,Wire Transfer,Completed,True,1537,2023-01-23,1017,Approved,Check details,2537,2023-01-23,High,No Action,BSA,Compliant
+538,2023-01-23,6983.17,USD,Mobile Payment,Completed,False,1538,2023-01-23,1004,Escalated,Check details,2538,2023-01-23,Medium,Escalation,BSA,Compliant
+539,2023-01-23,6752.38,GBP,Wire Transfer,Completed,True,1539,2023-01-23,1019,Rejected,High amount,2539,2023-01-23,Medium,No Action,BSA,Non-Compliant
+540,2023-01-23,9493.72,GBP,Wire Transfer,Pending,True,1540,2023-01-23,1004,Approved,Check details,2540,2023-01-23,Medium,Escalation,Dodd-Frank Act,Compliant
+541,2023-01-23,126.76,EUR,Mobile Payment,Completed,False,1541,2023-01-23,1017,Escalated,All good,2541,2023-01-23,Medium,Escalation,PSD2,Compliant
+542,2023-01-23,6507.25,EUR,Wire Transfer,Completed,False,1542,2023-01-23,1001,Approved,All good,2542,2023-01-23,Low,Escalation,BSA,Compliant
+543,2023-01-23,6043.88,EUR,Mobile Payment,Flagged,True,1543,2023-01-23,1016,Approved,All good,2543,2023-01-23,Medium,Review Requested,Dodd-Frank Act,Compliant
+544,2023-01-23,5928.52,GBP,Wire Transfer,Flagged,True,1544,2023-01-23,1003,Escalated,Check details,2544,2023-01-23,Low,Escalation,Dodd-Frank Act,Compliant
+545,2023-01-23,9631.43,USD,ACH,Flagged,False,1545,2023-01-23,1012,Approved,All good,2545,2023-01-23,Low,Review Requested,PSD2,Compliant
+546,2023-01-23,267.03,USD,Mobile Payment,Pending,True,1546,2023-01-23,1019,Escalated,All good,2546,2023-01-23,High,No Action,BSA,Non-Compliant
+547,2023-01-23,6995.18,EUR,ACH,Completed,True,1547,2023-01-23,1001,Approved,Check details,2547,2023-01-23,Low,No Action,BSA,Compliant
+548,2023-01-23,8155.42,EUR,Wire Transfer,Pending,True,1548,2023-01-23,1014,Approved,Check details,2548,2023-01-23,High,Review Requested,PSD2,Compliant
+549,2023-01-23,5147.09,EUR,ACH,Completed,True,1549,2023-01-23,1009,Approved,High amount,2549,2023-01-23,Low,Review Requested,BSA,Compliant
+550,2023-01-23,3406.25,EUR,Mobile Payment,Pending,True,1550,2023-01-23,1002,Escalated,High amount,2550,2023-01-23,Low,No Action,Dodd-Frank Act,Compliant
+551,2023-01-23,7929.32,USD,Wire Transfer,Pending,True,1551,2023-01-23,1016,Approved,All good,2551,2023-01-23,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+552,2023-01-23,1062.7,USD,Mobile Payment,Pending,True,1552,2023-01-23,1007,Rejected,All good,2552,2023-01-23,Low,Escalation,Dodd-Frank Act,Non-Compliant
+553,2023-01-24,4476.15,EUR,Wire Transfer,Pending,True,1553,2023-01-24,1007,Escalated,Check details,2553,2023-01-24,High,Escalation,Dodd-Frank Act,Compliant
+554,2023-01-24,5247.53,USD,ACH,Flagged,True,1554,2023-01-24,1013,Rejected,All good,2554,2023-01-24,Low,Escalation,PSD2,Compliant
+555,2023-01-24,6970.17,EUR,ACH,Pending,False,1555,2023-01-24,1019,Rejected,High amount,2555,2023-01-24,High,Review Requested,PSD2,Compliant
+556,2023-01-24,999.77,USD,Mobile Payment,Pending,False,1556,2023-01-24,1019,Escalated,Check details,2556,2023-01-24,Low,Review Requested,PSD2,Non-Compliant
+557,2023-01-24,2354.82,GBP,Mobile Payment,Completed,True,1557,2023-01-24,1018,Escalated,High amount,2557,2023-01-24,Medium,Escalation,BSA,Compliant
+558,2023-01-24,4161.99,GBP,Wire Transfer,Completed,True,1558,2023-01-24,1006,Rejected,All good,2558,2023-01-24,High,Escalation,PSD2,Compliant
+559,2023-01-24,6270.62,USD,Mobile Payment,Flagged,False,1559,2023-01-24,1015,Escalated,High amount,2559,2023-01-24,Medium,No Action,Dodd-Frank Act,Compliant
+560,2023-01-24,8880.91,EUR,Mobile Payment,Pending,False,1560,2023-01-24,1003,Rejected,All good,2560,2023-01-24,High,Review Requested,PSD2,Compliant
+561,2023-01-24,6226.38,USD,ACH,Completed,True,1561,2023-01-24,1002,Approved,All good,2561,2023-01-24,Low,Review Requested,BSA,Compliant
+562,2023-01-24,1421.27,EUR,Mobile Payment,Pending,False,1562,2023-01-24,1007,Escalated,High amount,2562,2023-01-24,High,Escalation,Dodd-Frank Act,Non-Compliant
+563,2023-01-24,9807.74,EUR,Mobile Payment,Pending,True,1563,2023-01-24,1019,Escalated,Check details,2563,2023-01-24,Low,Review Requested,PSD2,Non-Compliant
+564,2023-01-24,8730.68,EUR,Wire Transfer,Pending,True,1564,2023-01-24,1010,Rejected,Check details,2564,2023-01-24,High,Escalation,Dodd-Frank Act,Non-Compliant
+565,2023-01-24,5076.94,EUR,ACH,Completed,True,1565,2023-01-24,1006,Rejected,Check details,2565,2023-01-24,Low,Escalation,BSA,Compliant
+566,2023-01-24,9231.25,USD,ACH,Completed,True,1566,2023-01-24,1018,Rejected,Check details,2566,2023-01-24,High,Escalation,PSD2,Non-Compliant
+567,2023-01-24,5459.67,USD,Wire Transfer,Pending,False,1567,2023-01-24,1005,Rejected,Check details,2567,2023-01-24,Medium,Review Requested,PSD2,Non-Compliant
+568,2023-01-24,9240.73,GBP,ACH,Pending,True,1568,2023-01-24,1002,Rejected,High amount,2568,2023-01-24,High,Review Requested,Dodd-Frank Act,Non-Compliant
+569,2023-01-24,8315.98,EUR,Wire Transfer,Pending,True,1569,2023-01-24,1005,Approved,Check details,2569,2023-01-24,High,Review Requested,BSA,Compliant
+570,2023-01-24,9686.04,GBP,Wire Transfer,Completed,False,1570,2023-01-24,1008,Escalated,Check details,2570,2023-01-24,High,Review Requested,PSD2,Non-Compliant
+571,2023-01-24,9205.85,USD,Mobile Payment,Pending,True,1571,2023-01-24,1005,Approved,High amount,2571,2023-01-24,Low,Review Requested,PSD2,Compliant
+572,2023-01-24,456.73,USD,Mobile Payment,Flagged,True,1572,2023-01-24,1016,Approved,High amount,2572,2023-01-24,Medium,Escalation,PSD2,Non-Compliant
+573,2023-01-24,1830.24,EUR,Wire Transfer,Pending,True,1573,2023-01-24,1003,Rejected,Check details,2573,2023-01-24,Low,Escalation,Dodd-Frank Act,Non-Compliant
+574,2023-01-24,3952.43,USD,Mobile Payment,Flagged,True,1574,2023-01-24,1013,Rejected,All good,2574,2023-01-24,Medium,Review Requested,BSA,Compliant
+575,2023-01-24,9526.21,EUR,Mobile Payment,Completed,False,1575,2023-01-24,1006,Escalated,Check details,2575,2023-01-24,High,Review Requested,PSD2,Compliant
+576,2023-01-24,3070.29,GBP,ACH,Pending,True,1576,2023-01-24,1004,Rejected,Check details,2576,2023-01-24,Low,No Action,BSA,Non-Compliant
+577,2023-01-25,1688.63,EUR,ACH,Completed,True,1577,2023-01-25,1010,Approved,High amount,2577,2023-01-25,Low,No Action,PSD2,Non-Compliant
+578,2023-01-25,8874.42,USD,Mobile Payment,Flagged,False,1578,2023-01-25,1018,Escalated,High amount,2578,2023-01-25,High,No Action,BSA,Compliant
+579,2023-01-25,4519.3,USD,Wire Transfer,Completed,True,1579,2023-01-25,1018,Approved,All good,2579,2023-01-25,Low,No Action,BSA,Compliant
+580,2023-01-25,9087.97,USD,Wire Transfer,Completed,True,1580,2023-01-25,1012,Approved,All good,2580,2023-01-25,Medium,Review Requested,BSA,Compliant
+581,2023-01-25,1686.28,GBP,Mobile Payment,Completed,True,1581,2023-01-25,1003,Approved,High amount,2581,2023-01-25,Low,Review Requested,BSA,Compliant
+582,2023-01-25,6645.06,EUR,Mobile Payment,Pending,False,1582,2023-01-25,1012,Approved,All good,2582,2023-01-25,High,No Action,PSD2,Non-Compliant
+583,2023-01-25,4458.61,GBP,Wire Transfer,Completed,False,1583,2023-01-25,1012,Approved,All good,2583,2023-01-25,High,Escalation,BSA,Compliant
+584,2023-01-25,857.22,USD,ACH,Flagged,False,1584,2023-01-25,1002,Approved,Check details,2584,2023-01-25,Low,Review Requested,PSD2,Non-Compliant
+585,2023-01-25,6994.99,EUR,ACH,Pending,True,1585,2023-01-25,1018,Approved,High amount,2585,2023-01-25,Medium,Escalation,PSD2,Compliant
+586,2023-01-25,2549.25,GBP,Wire Transfer,Flagged,False,1586,2023-01-25,1002,Approved,All good,2586,2023-01-25,High,No Action,BSA,Non-Compliant
+587,2023-01-25,492.19,EUR,Mobile Payment,Flagged,False,1587,2023-01-25,1002,Escalated,Check details,2587,2023-01-25,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+588,2023-01-25,693.45,USD,ACH,Pending,True,1588,2023-01-25,1008,Approved,Check details,2588,2023-01-25,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+589,2023-01-25,704.68,GBP,Wire Transfer,Completed,False,1589,2023-01-25,1001,Rejected,High amount,2589,2023-01-25,High,Review Requested,Dodd-Frank Act,Non-Compliant
+590,2023-01-25,9086.56,EUR,Mobile Payment,Completed,True,1590,2023-01-25,1013,Escalated,High amount,2590,2023-01-25,Low,Review Requested,BSA,Non-Compliant
+591,2023-01-25,7424.85,EUR,Mobile Payment,Completed,True,1591,2023-01-25,1018,Rejected,High amount,2591,2023-01-25,Medium,Escalation,PSD2,Compliant
+592,2023-01-25,8990.82,USD,ACH,Completed,True,1592,2023-01-25,1008,Approved,All good,2592,2023-01-25,Medium,Escalation,BSA,Compliant
+593,2023-01-25,6758.56,USD,Mobile Payment,Completed,True,1593,2023-01-25,1013,Escalated,All good,2593,2023-01-25,Medium,No Action,BSA,Compliant
+594,2023-01-25,5336.51,USD,Wire Transfer,Flagged,True,1594,2023-01-25,1007,Escalated,High amount,2594,2023-01-25,High,Review Requested,Dodd-Frank Act,Compliant
+595,2023-01-25,3114.02,GBP,Wire Transfer,Flagged,False,1595,2023-01-25,1003,Rejected,Check details,2595,2023-01-25,High,Escalation,Dodd-Frank Act,Non-Compliant
+596,2023-01-25,9979.83,GBP,Wire Transfer,Pending,True,1596,2023-01-25,1010,Escalated,Check details,2596,2023-01-25,High,No Action,PSD2,Non-Compliant
+597,2023-01-25,3685.67,EUR,Wire Transfer,Completed,True,1597,2023-01-25,1019,Rejected,High amount,2597,2023-01-25,Medium,Escalation,BSA,Compliant
+598,2023-01-25,4759.42,EUR,Mobile Payment,Completed,True,1598,2023-01-25,1013,Escalated,All good,2598,2023-01-25,High,Escalation,Dodd-Frank Act,Non-Compliant
+599,2023-01-25,3844.63,GBP,Wire Transfer,Completed,False,1599,2023-01-25,1019,Escalated,High amount,2599,2023-01-25,Medium,Review Requested,BSA,Compliant
+600,2023-01-25,9797.32,EUR,ACH,Flagged,False,1600,2023-01-25,1008,Approved,High amount,2600,2023-01-25,High,No Action,BSA,Compliant
+601,2023-01-26,1829.12,GBP,Mobile Payment,Pending,False,1601,2023-01-26,1018,Approved,All good,2601,2023-01-26,Low,Review Requested,PSD2,Compliant
+602,2023-01-26,3347.08,EUR,Mobile Payment,Completed,False,1602,2023-01-26,1015,Approved,Check details,2602,2023-01-26,Low,Escalation,PSD2,Compliant
+603,2023-01-26,6835.45,GBP,Mobile Payment,Pending,True,1603,2023-01-26,1007,Approved,Check details,2603,2023-01-26,Medium,Escalation,PSD2,Compliant
+604,2023-01-26,725.76,EUR,Wire Transfer,Flagged,True,1604,2023-01-26,1007,Rejected,Check details,2604,2023-01-26,Medium,No Action,Dodd-Frank Act,Compliant
+605,2023-01-26,6111.77,EUR,Mobile Payment,Completed,True,1605,2023-01-26,1003,Escalated,High amount,2605,2023-01-26,Low,Escalation,PSD2,Compliant
+606,2023-01-26,4828.7,GBP,Wire Transfer,Flagged,False,1606,2023-01-26,1018,Escalated,High amount,2606,2023-01-26,Medium,Review Requested,Dodd-Frank Act,Compliant
+607,2023-01-26,2911.6,USD,Wire Transfer,Completed,True,1607,2023-01-26,1014,Approved,Check details,2607,2023-01-26,Medium,Escalation,PSD2,Compliant
+608,2023-01-26,2460.29,GBP,Mobile Payment,Pending,True,1608,2023-01-26,1017,Escalated,High amount,2608,2023-01-26,High,Review Requested,BSA,Compliant
+609,2023-01-26,5193.68,GBP,Mobile Payment,Completed,True,1609,2023-01-26,1009,Approved,Check details,2609,2023-01-26,High,Review Requested,PSD2,Non-Compliant
+610,2023-01-26,3742.48,USD,Wire Transfer,Completed,False,1610,2023-01-26,1010,Approved,Check details,2610,2023-01-26,High,No Action,PSD2,Non-Compliant
+611,2023-01-26,4619.55,EUR,Mobile Payment,Flagged,False,1611,2023-01-26,1008,Escalated,High amount,2611,2023-01-26,Medium,No Action,BSA,Compliant
+612,2023-01-26,3441.03,USD,Mobile Payment,Pending,True,1612,2023-01-26,1019,Approved,Check details,2612,2023-01-26,High,No Action,PSD2,Compliant
+613,2023-01-26,9707.89,USD,Wire Transfer,Pending,False,1613,2023-01-26,1002,Rejected,All good,2613,2023-01-26,High,Review Requested,PSD2,Compliant
+614,2023-01-26,1421.05,USD,Wire Transfer,Completed,False,1614,2023-01-26,1012,Approved,Check details,2614,2023-01-26,High,Review Requested,Dodd-Frank Act,Non-Compliant
+615,2023-01-26,1058.36,EUR,Mobile Payment,Flagged,True,1615,2023-01-26,1004,Approved,All good,2615,2023-01-26,Medium,Escalation,PSD2,Non-Compliant
+616,2023-01-26,3499.58,GBP,Wire Transfer,Completed,False,1616,2023-01-26,1003,Rejected,All good,2616,2023-01-26,High,Escalation,Dodd-Frank Act,Compliant
+617,2023-01-26,5951.17,USD,Wire Transfer,Flagged,True,1617,2023-01-26,1001,Approved,Check details,2617,2023-01-26,High,Review Requested,PSD2,Compliant
+618,2023-01-26,6625.85,EUR,ACH,Completed,False,1618,2023-01-26,1015,Approved,Check details,2618,2023-01-26,Medium,Review Requested,PSD2,Non-Compliant
+619,2023-01-26,4032.84,EUR,Mobile Payment,Completed,False,1619,2023-01-26,1001,Approved,High amount,2619,2023-01-26,Medium,Review Requested,Dodd-Frank Act,Compliant
+620,2023-01-26,9992.85,GBP,Mobile Payment,Flagged,False,1620,2023-01-26,1009,Rejected,All good,2620,2023-01-26,High,Review Requested,Dodd-Frank Act,Compliant
+621,2023-01-26,3583.74,GBP,Mobile Payment,Completed,True,1621,2023-01-26,1005,Approved,High amount,2621,2023-01-26,Medium,Escalation,Dodd-Frank Act,Compliant
+622,2023-01-26,7241.93,USD,Mobile Payment,Pending,False,1622,2023-01-26,1019,Approved,Check details,2622,2023-01-26,High,Review Requested,PSD2,Non-Compliant
+623,2023-01-26,6412.07,EUR,Mobile Payment,Pending,True,1623,2023-01-26,1006,Escalated,All good,2623,2023-01-26,Low,Escalation,Dodd-Frank Act,Compliant
+624,2023-01-26,8149.23,GBP,Wire Transfer,Flagged,True,1624,2023-01-26,1008,Rejected,Check details,2624,2023-01-26,Low,Escalation,PSD2,Non-Compliant
+625,2023-01-27,9764.63,USD,Mobile Payment,Flagged,False,1625,2023-01-27,1003,Rejected,High amount,2625,2023-01-27,Medium,No Action,Dodd-Frank Act,Compliant
+626,2023-01-27,8908.96,EUR,Mobile Payment,Completed,False,1626,2023-01-27,1002,Rejected,High amount,2626,2023-01-27,Low,Escalation,BSA,Non-Compliant
+627,2023-01-27,7669.16,EUR,ACH,Completed,True,1627,2023-01-27,1014,Approved,High amount,2627,2023-01-27,High,Escalation,Dodd-Frank Act,Non-Compliant
+628,2023-01-27,7012.66,GBP,Wire Transfer,Pending,False,1628,2023-01-27,1011,Rejected,Check details,2628,2023-01-27,Medium,Escalation,PSD2,Non-Compliant
+629,2023-01-27,3421.43,EUR,Mobile Payment,Flagged,True,1629,2023-01-27,1018,Rejected,Check details,2629,2023-01-27,Medium,Review Requested,PSD2,Non-Compliant
+630,2023-01-27,1562.09,EUR,Mobile Payment,Flagged,True,1630,2023-01-27,1007,Approved,High amount,2630,2023-01-27,Medium,Escalation,PSD2,Non-Compliant
+631,2023-01-27,720.1,GBP,Mobile Payment,Pending,True,1631,2023-01-27,1001,Escalated,All good,2631,2023-01-27,High,Escalation,BSA,Non-Compliant
+632,2023-01-27,2494.83,EUR,Mobile Payment,Flagged,False,1632,2023-01-27,1008,Rejected,All good,2632,2023-01-27,Medium,No Action,BSA,Compliant
+633,2023-01-27,4379.59,EUR,Wire Transfer,Completed,False,1633,2023-01-27,1006,Rejected,Check details,2633,2023-01-27,High,Review Requested,Dodd-Frank Act,Non-Compliant
+634,2023-01-27,5267.76,USD,ACH,Flagged,False,1634,2023-01-27,1011,Rejected,High amount,2634,2023-01-27,Low,Review Requested,BSA,Compliant
+635,2023-01-27,7753.53,EUR,ACH,Flagged,False,1635,2023-01-27,1010,Rejected,All good,2635,2023-01-27,Medium,No Action,BSA,Compliant
+636,2023-01-27,9591.54,GBP,Mobile Payment,Completed,False,1636,2023-01-27,1002,Approved,Check details,2636,2023-01-27,Low,No Action,BSA,Compliant
+637,2023-01-27,1261.47,EUR,ACH,Completed,True,1637,2023-01-27,1001,Rejected,All good,2637,2023-01-27,High,Escalation,PSD2,Compliant
+638,2023-01-27,1159.34,GBP,ACH,Pending,True,1638,2023-01-27,1004,Approved,All good,2638,2023-01-27,Low,No Action,Dodd-Frank Act,Compliant
+639,2023-01-27,5937.98,GBP,ACH,Pending,False,1639,2023-01-27,1009,Approved,Check details,2639,2023-01-27,Medium,No Action,BSA,Non-Compliant
+640,2023-01-27,7479.44,EUR,ACH,Pending,True,1640,2023-01-27,1013,Escalated,All good,2640,2023-01-27,Low,Escalation,PSD2,Non-Compliant
+641,2023-01-27,8496.69,GBP,ACH,Flagged,True,1641,2023-01-27,1004,Rejected,Check details,2641,2023-01-27,Medium,No Action,BSA,Non-Compliant
+642,2023-01-27,9364.74,USD,Wire Transfer,Completed,True,1642,2023-01-27,1003,Rejected,All good,2642,2023-01-27,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+643,2023-01-27,9835.92,GBP,Wire Transfer,Flagged,True,1643,2023-01-27,1018,Rejected,All good,2643,2023-01-27,Low,No Action,Dodd-Frank Act,Compliant
+644,2023-01-27,4058.04,USD,Wire Transfer,Completed,False,1644,2023-01-27,1002,Escalated,Check details,2644,2023-01-27,Low,Escalation,PSD2,Non-Compliant
+645,2023-01-27,3865.32,GBP,ACH,Completed,False,1645,2023-01-27,1009,Rejected,High amount,2645,2023-01-27,Low,No Action,Dodd-Frank Act,Compliant
+646,2023-01-27,1563.31,EUR,Wire Transfer,Flagged,False,1646,2023-01-27,1007,Approved,High amount,2646,2023-01-27,Medium,Review Requested,PSD2,Compliant
+647,2023-01-27,6880.85,GBP,ACH,Flagged,True,1647,2023-01-27,1002,Rejected,High amount,2647,2023-01-27,Low,Review Requested,BSA,Compliant
+648,2023-01-27,6601.94,GBP,ACH,Flagged,False,1648,2023-01-27,1012,Escalated,Check details,2648,2023-01-27,Low,No Action,PSD2,Non-Compliant
+649,2023-01-28,8634.42,GBP,Wire Transfer,Completed,False,1649,2023-01-28,1017,Rejected,Check details,2649,2023-01-28,Low,Escalation,Dodd-Frank Act,Non-Compliant
+650,2023-01-28,1062.85,USD,Mobile Payment,Completed,True,1650,2023-01-28,1014,Escalated,All good,2650,2023-01-28,Medium,Escalation,BSA,Compliant
+651,2023-01-28,5027.99,USD,ACH,Flagged,True,1651,2023-01-28,1014,Rejected,All good,2651,2023-01-28,Low,Review Requested,Dodd-Frank Act,Compliant
+652,2023-01-28,5852.71,USD,ACH,Completed,True,1652,2023-01-28,1015,Escalated,High amount,2652,2023-01-28,Low,Review Requested,BSA,Non-Compliant
+653,2023-01-28,2491.41,USD,Wire Transfer,Completed,False,1653,2023-01-28,1017,Rejected,Check details,2653,2023-01-28,Medium,No Action,PSD2,Compliant
+654,2023-01-28,1773.35,USD,ACH,Flagged,True,1654,2023-01-28,1004,Rejected,All good,2654,2023-01-28,Low,No Action,PSD2,Compliant
+655,2023-01-28,8609.85,EUR,ACH,Completed,True,1655,2023-01-28,1014,Escalated,High amount,2655,2023-01-28,High,Escalation,BSA,Non-Compliant
+656,2023-01-28,679.5,GBP,ACH,Pending,False,1656,2023-01-28,1007,Rejected,Check details,2656,2023-01-28,Low,Review Requested,PSD2,Non-Compliant
+657,2023-01-28,4759.15,GBP,Wire Transfer,Flagged,True,1657,2023-01-28,1019,Escalated,Check details,2657,2023-01-28,High,Escalation,Dodd-Frank Act,Non-Compliant
+658,2023-01-28,1246.76,EUR,Mobile Payment,Pending,True,1658,2023-01-28,1002,Rejected,High amount,2658,2023-01-28,Low,Escalation,BSA,Non-Compliant
+659,2023-01-28,4624.88,EUR,Mobile Payment,Pending,False,1659,2023-01-28,1009,Approved,All good,2659,2023-01-28,Low,No Action,Dodd-Frank Act,Non-Compliant
+660,2023-01-28,9801.63,EUR,Wire Transfer,Pending,True,1660,2023-01-28,1015,Escalated,High amount,2660,2023-01-28,Medium,Review Requested,BSA,Non-Compliant
+661,2023-01-28,4294.69,EUR,ACH,Pending,True,1661,2023-01-28,1019,Escalated,All good,2661,2023-01-28,High,No Action,Dodd-Frank Act,Non-Compliant
+662,2023-01-28,8585.54,USD,Mobile Payment,Pending,False,1662,2023-01-28,1010,Rejected,All good,2662,2023-01-28,Low,No Action,PSD2,Non-Compliant
+663,2023-01-28,1261.42,GBP,Wire Transfer,Pending,True,1663,2023-01-28,1008,Approved,Check details,2663,2023-01-28,Low,Escalation,Dodd-Frank Act,Non-Compliant
+664,2023-01-28,2785.4,EUR,Wire Transfer,Flagged,False,1664,2023-01-28,1013,Escalated,Check details,2664,2023-01-28,Low,Escalation,PSD2,Non-Compliant
+665,2023-01-28,4097.55,EUR,ACH,Flagged,True,1665,2023-01-28,1010,Approved,Check details,2665,2023-01-28,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+666,2023-01-28,4058.14,GBP,ACH,Completed,False,1666,2023-01-28,1017,Escalated,Check details,2666,2023-01-28,Low,Escalation,BSA,Compliant
+667,2023-01-28,6746.7,EUR,Wire Transfer,Flagged,True,1667,2023-01-28,1002,Rejected,High amount,2667,2023-01-28,High,Escalation,Dodd-Frank Act,Compliant
+668,2023-01-28,3512.71,USD,Wire Transfer,Pending,True,1668,2023-01-28,1018,Approved,Check details,2668,2023-01-28,Medium,No Action,Dodd-Frank Act,Non-Compliant
+669,2023-01-28,7166.29,USD,Wire Transfer,Flagged,True,1669,2023-01-28,1002,Approved,Check details,2669,2023-01-28,Medium,No Action,BSA,Compliant
+670,2023-01-28,6427.95,USD,Mobile Payment,Pending,False,1670,2023-01-28,1019,Escalated,All good,2670,2023-01-28,High,Review Requested,PSD2,Compliant
+671,2023-01-28,4051.7,EUR,ACH,Pending,True,1671,2023-01-28,1016,Approved,Check details,2671,2023-01-28,Medium,Escalation,Dodd-Frank Act,Compliant
+672,2023-01-28,4374.43,GBP,Wire Transfer,Flagged,True,1672,2023-01-28,1015,Rejected,Check details,2672,2023-01-28,Medium,Escalation,Dodd-Frank Act,Compliant
+673,2023-01-29,6183.82,EUR,ACH,Pending,False,1673,2023-01-29,1008,Approved,High amount,2673,2023-01-29,High,Escalation,BSA,Compliant
+674,2023-01-29,793.42,GBP,Mobile Payment,Pending,False,1674,2023-01-29,1007,Approved,Check details,2674,2023-01-29,Medium,No Action,BSA,Non-Compliant
+675,2023-01-29,8241.83,USD,Wire Transfer,Pending,True,1675,2023-01-29,1018,Rejected,Check details,2675,2023-01-29,Low,No Action,Dodd-Frank Act,Compliant
+676,2023-01-29,6568.87,USD,ACH,Pending,True,1676,2023-01-29,1009,Approved,High amount,2676,2023-01-29,Medium,No Action,BSA,Non-Compliant
+677,2023-01-29,7290.79,GBP,Mobile Payment,Pending,False,1677,2023-01-29,1016,Approved,Check details,2677,2023-01-29,Medium,No Action,PSD2,Non-Compliant
+678,2023-01-29,5415.54,EUR,Wire Transfer,Flagged,True,1678,2023-01-29,1002,Rejected,Check details,2678,2023-01-29,Low,Escalation,PSD2,Non-Compliant
+679,2023-01-29,1193.72,EUR,ACH,Pending,False,1679,2023-01-29,1008,Rejected,High amount,2679,2023-01-29,High,Review Requested,Dodd-Frank Act,Non-Compliant
+680,2023-01-29,4109.85,EUR,Wire Transfer,Flagged,False,1680,2023-01-29,1009,Approved,High amount,2680,2023-01-29,Low,Review Requested,BSA,Compliant
+681,2023-01-29,4113.2,USD,ACH,Flagged,True,1681,2023-01-29,1009,Rejected,Check details,2681,2023-01-29,High,Escalation,Dodd-Frank Act,Compliant
+682,2023-01-29,3278.33,EUR,ACH,Flagged,False,1682,2023-01-29,1001,Approved,Check details,2682,2023-01-29,Low,Escalation,PSD2,Compliant
+683,2023-01-29,396.51,GBP,Mobile Payment,Flagged,True,1683,2023-01-29,1010,Escalated,High amount,2683,2023-01-29,High,Escalation,PSD2,Compliant
+684,2023-01-29,7398.82,EUR,Mobile Payment,Flagged,True,1684,2023-01-29,1003,Escalated,High amount,2684,2023-01-29,Low,No Action,PSD2,Non-Compliant
+685,2023-01-29,1186.87,EUR,Mobile Payment,Pending,True,1685,2023-01-29,1001,Approved,High amount,2685,2023-01-29,Low,No Action,PSD2,Non-Compliant
+686,2023-01-29,6102.45,GBP,Mobile Payment,Flagged,True,1686,2023-01-29,1011,Approved,All good,2686,2023-01-29,Low,Review Requested,PSD2,Compliant
+687,2023-01-29,7061.85,GBP,Mobile Payment,Flagged,True,1687,2023-01-29,1009,Approved,Check details,2687,2023-01-29,High,Escalation,Dodd-Frank Act,Compliant
+688,2023-01-29,6384.38,USD,ACH,Completed,True,1688,2023-01-29,1014,Rejected,High amount,2688,2023-01-29,High,No Action,PSD2,Compliant
+689,2023-01-29,9595.51,USD,Mobile Payment,Flagged,False,1689,2023-01-29,1004,Approved,All good,2689,2023-01-29,High,Review Requested,Dodd-Frank Act,Non-Compliant
+690,2023-01-29,1122.65,EUR,ACH,Flagged,False,1690,2023-01-29,1006,Rejected,Check details,2690,2023-01-29,Medium,Review Requested,PSD2,Non-Compliant
+691,2023-01-29,8684.95,EUR,ACH,Completed,True,1691,2023-01-29,1013,Rejected,Check details,2691,2023-01-29,Medium,No Action,BSA,Compliant
+692,2023-01-29,388.98,USD,Wire Transfer,Flagged,False,1692,2023-01-29,1001,Approved,High amount,2692,2023-01-29,Low,Review Requested,PSD2,Non-Compliant
+693,2023-01-29,5395.68,EUR,ACH,Pending,True,1693,2023-01-29,1004,Escalated,All good,2693,2023-01-29,Low,Escalation,BSA,Compliant
+694,2023-01-29,4102.01,EUR,ACH,Flagged,True,1694,2023-01-29,1012,Approved,High amount,2694,2023-01-29,Low,No Action,Dodd-Frank Act,Compliant
+695,2023-01-29,5289.42,GBP,Mobile Payment,Completed,False,1695,2023-01-29,1001,Escalated,All good,2695,2023-01-29,Low,Review Requested,BSA,Non-Compliant
+696,2023-01-29,3714.49,EUR,ACH,Flagged,True,1696,2023-01-29,1009,Rejected,All good,2696,2023-01-29,Low,No Action,PSD2,Non-Compliant
+697,2023-01-30,1986.61,GBP,Mobile Payment,Pending,False,1697,2023-01-30,1015,Escalated,High amount,2697,2023-01-30,Medium,Review Requested,BSA,Non-Compliant
+698,2023-01-30,289.32,USD,ACH,Flagged,True,1698,2023-01-30,1004,Approved,Check details,2698,2023-01-30,Low,Escalation,PSD2,Non-Compliant
+699,2023-01-30,5229.68,EUR,ACH,Pending,True,1699,2023-01-30,1001,Escalated,Check details,2699,2023-01-30,Medium,Escalation,PSD2,Non-Compliant
+700,2023-01-30,8443.49,GBP,Mobile Payment,Pending,False,1700,2023-01-30,1010,Escalated,Check details,2700,2023-01-30,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+701,2023-01-30,3794.84,GBP,Wire Transfer,Completed,True,1701,2023-01-30,1007,Approved,All good,2701,2023-01-30,Low,Review Requested,PSD2,Non-Compliant
+702,2023-01-30,2306.35,GBP,ACH,Completed,True,1702,2023-01-30,1004,Escalated,Check details,2702,2023-01-30,High,Escalation,PSD2,Non-Compliant
+703,2023-01-30,897.27,GBP,ACH,Pending,False,1703,2023-01-30,1004,Approved,All good,2703,2023-01-30,Medium,Review Requested,BSA,Non-Compliant
+704,2023-01-30,944.58,EUR,Mobile Payment,Flagged,True,1704,2023-01-30,1016,Approved,Check details,2704,2023-01-30,Medium,No Action,PSD2,Non-Compliant
+705,2023-01-30,2291.82,USD,Mobile Payment,Completed,False,1705,2023-01-30,1001,Escalated,High amount,2705,2023-01-30,High,No Action,BSA,Compliant
+706,2023-01-30,1090.14,GBP,Wire Transfer,Completed,False,1706,2023-01-30,1007,Escalated,High amount,2706,2023-01-30,Medium,No Action,Dodd-Frank Act,Compliant
+707,2023-01-30,2723.89,USD,Wire Transfer,Pending,False,1707,2023-01-30,1013,Escalated,All good,2707,2023-01-30,High,Review Requested,Dodd-Frank Act,Compliant
+708,2023-01-30,754.88,GBP,Wire Transfer,Completed,True,1708,2023-01-30,1019,Escalated,All good,2708,2023-01-30,Low,Escalation,Dodd-Frank Act,Compliant
+709,2023-01-30,749.49,GBP,ACH,Flagged,False,1709,2023-01-30,1006,Escalated,Check details,2709,2023-01-30,Low,No Action,PSD2,Non-Compliant
+710,2023-01-30,8577.13,GBP,ACH,Completed,True,1710,2023-01-30,1002,Approved,Check details,2710,2023-01-30,Low,Review Requested,BSA,Compliant
+711,2023-01-30,1704.99,USD,Mobile Payment,Flagged,False,1711,2023-01-30,1018,Escalated,All good,2711,2023-01-30,Medium,Escalation,PSD2,Non-Compliant
+712,2023-01-30,5640.86,USD,Mobile Payment,Pending,True,1712,2023-01-30,1016,Approved,Check details,2712,2023-01-30,High,No Action,BSA,Non-Compliant
+713,2023-01-30,7757.21,USD,Mobile Payment,Pending,False,1713,2023-01-30,1009,Escalated,All good,2713,2023-01-30,High,Review Requested,PSD2,Compliant
+714,2023-01-30,4618.45,EUR,Wire Transfer,Completed,True,1714,2023-01-30,1010,Escalated,Check details,2714,2023-01-30,Medium,No Action,Dodd-Frank Act,Non-Compliant
+715,2023-01-30,1618.35,USD,Wire Transfer,Completed,True,1715,2023-01-30,1014,Escalated,Check details,2715,2023-01-30,High,No Action,Dodd-Frank Act,Non-Compliant
+716,2023-01-30,2076.0,EUR,Wire Transfer,Pending,False,1716,2023-01-30,1017,Escalated,All good,2716,2023-01-30,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+717,2023-01-30,4386.54,EUR,ACH,Completed,True,1717,2023-01-30,1010,Rejected,High amount,2717,2023-01-30,Medium,Review Requested,BSA,Compliant
+718,2023-01-30,5329.52,USD,ACH,Completed,True,1718,2023-01-30,1005,Rejected,High amount,2718,2023-01-30,Medium,No Action,BSA,Non-Compliant
+719,2023-01-30,3559.46,GBP,Mobile Payment,Flagged,False,1719,2023-01-30,1008,Escalated,Check details,2719,2023-01-30,Low,Escalation,Dodd-Frank Act,Compliant
+720,2023-01-30,7836.65,GBP,Wire Transfer,Completed,False,1720,2023-01-30,1006,Rejected,All good,2720,2023-01-30,High,Escalation,PSD2,Non-Compliant
+721,2023-01-31,7535.11,EUR,ACH,Pending,False,1721,2023-01-31,1008,Rejected,Check details,2721,2023-01-31,High,No Action,Dodd-Frank Act,Compliant
+722,2023-01-31,9279.4,GBP,Wire Transfer,Pending,True,1722,2023-01-31,1004,Approved,Check details,2722,2023-01-31,Medium,No Action,Dodd-Frank Act,Compliant
+723,2023-01-31,386.63,GBP,ACH,Pending,False,1723,2023-01-31,1002,Rejected,High amount,2723,2023-01-31,Low,Review Requested,BSA,Non-Compliant
+724,2023-01-31,8967.34,EUR,Wire Transfer,Flagged,True,1724,2023-01-31,1010,Approved,High amount,2724,2023-01-31,Medium,No Action,PSD2,Compliant
+725,2023-01-31,3986.43,USD,ACH,Completed,False,1725,2023-01-31,1002,Escalated,Check details,2725,2023-01-31,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+726,2023-01-31,8795.89,EUR,ACH,Flagged,False,1726,2023-01-31,1009,Escalated,High amount,2726,2023-01-31,Medium,Escalation,PSD2,Non-Compliant
+727,2023-01-31,6938.77,USD,ACH,Pending,False,1727,2023-01-31,1017,Escalated,Check details,2727,2023-01-31,High,Review Requested,PSD2,Non-Compliant
+728,2023-01-31,9874.75,USD,ACH,Pending,False,1728,2023-01-31,1007,Rejected,High amount,2728,2023-01-31,High,No Action,PSD2,Compliant
+729,2023-01-31,7616.9,EUR,Mobile Payment,Pending,True,1729,2023-01-31,1015,Escalated,Check details,2729,2023-01-31,Low,No Action,Dodd-Frank Act,Compliant
+730,2023-01-31,3708.99,GBP,Wire Transfer,Pending,False,1730,2023-01-31,1013,Approved,High amount,2730,2023-01-31,Medium,No Action,PSD2,Compliant
+731,2023-01-31,5060.53,USD,ACH,Flagged,True,1731,2023-01-31,1007,Rejected,All good,2731,2023-01-31,Medium,Escalation,BSA,Non-Compliant
+732,2023-01-31,3826.25,EUR,ACH,Pending,False,1732,2023-01-31,1001,Rejected,Check details,2732,2023-01-31,High,No Action,PSD2,Compliant
+733,2023-01-31,3712.63,EUR,Wire Transfer,Flagged,True,1733,2023-01-31,1011,Approved,Check details,2733,2023-01-31,Medium,Escalation,BSA,Compliant
+734,2023-01-31,2682.95,EUR,ACH,Completed,False,1734,2023-01-31,1013,Rejected,High amount,2734,2023-01-31,Low,No Action,BSA,Compliant
+735,2023-01-31,5010.11,USD,ACH,Completed,True,1735,2023-01-31,1014,Rejected,Check details,2735,2023-01-31,Low,No Action,BSA,Compliant
+736,2023-01-31,6849.23,GBP,Wire Transfer,Completed,False,1736,2023-01-31,1002,Approved,All good,2736,2023-01-31,Low,Escalation,BSA,Compliant
+737,2023-01-31,2845.67,GBP,Mobile Payment,Flagged,True,1737,2023-01-31,1001,Escalated,High amount,2737,2023-01-31,Medium,Escalation,PSD2,Non-Compliant
+738,2023-01-31,5291.36,EUR,Mobile Payment,Completed,True,1738,2023-01-31,1010,Rejected,All good,2738,2023-01-31,High,No Action,BSA,Compliant
+739,2023-01-31,1262.06,USD,ACH,Completed,True,1739,2023-01-31,1005,Approved,High amount,2739,2023-01-31,High,No Action,PSD2,Non-Compliant
+740,2023-01-31,1682.47,GBP,Mobile Payment,Pending,True,1740,2023-01-31,1004,Rejected,High amount,2740,2023-01-31,Medium,Review Requested,Dodd-Frank Act,Compliant
+741,2023-01-31,563.38,EUR,Mobile Payment,Pending,True,1741,2023-01-31,1010,Approved,High amount,2741,2023-01-31,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+742,2023-01-31,9710.24,GBP,ACH,Flagged,True,1742,2023-01-31,1009,Rejected,High amount,2742,2023-01-31,High,No Action,PSD2,Compliant
+743,2023-01-31,138.22,GBP,ACH,Flagged,False,1743,2023-01-31,1014,Escalated,All good,2743,2023-01-31,Low,Review Requested,PSD2,Non-Compliant
+744,2023-01-31,1867.94,USD,Mobile Payment,Completed,False,1744,2023-01-31,1008,Approved,Check details,2744,2023-01-31,Low,No Action,BSA,Compliant
+745,2023-02-01,6167.38,EUR,ACH,Pending,True,1745,2023-02-01,1013,Escalated,All good,2745,2023-02-01,Low,Escalation,Dodd-Frank Act,Compliant
+746,2023-02-01,905.56,GBP,ACH,Pending,False,1746,2023-02-01,1003,Approved,Check details,2746,2023-02-01,Low,No Action,Dodd-Frank Act,Non-Compliant
+747,2023-02-01,8830.78,GBP,Mobile Payment,Completed,False,1747,2023-02-01,1005,Rejected,All good,2747,2023-02-01,Medium,Review Requested,PSD2,Non-Compliant
+748,2023-02-01,7224.24,USD,Wire Transfer,Completed,False,1748,2023-02-01,1014,Rejected,High amount,2748,2023-02-01,Low,Review Requested,BSA,Non-Compliant
+749,2023-02-01,9667.26,USD,Mobile Payment,Completed,False,1749,2023-02-01,1014,Rejected,High amount,2749,2023-02-01,High,No Action,BSA,Compliant
+750,2023-02-01,5125.59,GBP,Mobile Payment,Flagged,True,1750,2023-02-01,1008,Rejected,All good,2750,2023-02-01,High,Review Requested,BSA,Non-Compliant
+751,2023-02-01,3074.0,USD,Mobile Payment,Flagged,False,1751,2023-02-01,1010,Approved,Check details,2751,2023-02-01,High,No Action,PSD2,Compliant
+752,2023-02-01,5540.06,USD,ACH,Pending,False,1752,2023-02-01,1008,Approved,High amount,2752,2023-02-01,High,Review Requested,BSA,Compliant
+753,2023-02-01,9315.11,EUR,Mobile Payment,Pending,True,1753,2023-02-01,1016,Rejected,High amount,2753,2023-02-01,Low,Escalation,PSD2,Compliant
+754,2023-02-01,5255.54,EUR,ACH,Pending,False,1754,2023-02-01,1012,Escalated,High amount,2754,2023-02-01,High,Escalation,Dodd-Frank Act,Compliant
+755,2023-02-01,2745.35,GBP,Wire Transfer,Flagged,True,1755,2023-02-01,1010,Rejected,High amount,2755,2023-02-01,Low,Escalation,PSD2,Non-Compliant
+756,2023-02-01,8786.25,GBP,Mobile Payment,Pending,True,1756,2023-02-01,1002,Escalated,All good,2756,2023-02-01,Low,Escalation,PSD2,Non-Compliant
+757,2023-02-01,3782.0,GBP,Wire Transfer,Pending,True,1757,2023-02-01,1012,Approved,High amount,2757,2023-02-01,Medium,Escalation,Dodd-Frank Act,Compliant
+758,2023-02-01,113.7,USD,Mobile Payment,Pending,True,1758,2023-02-01,1017,Approved,All good,2758,2023-02-01,High,No Action,Dodd-Frank Act,Non-Compliant
+759,2023-02-01,2552.08,EUR,ACH,Flagged,False,1759,2023-02-01,1012,Rejected,Check details,2759,2023-02-01,Low,No Action,PSD2,Compliant
+760,2023-02-01,3250.51,GBP,Wire Transfer,Flagged,True,1760,2023-02-01,1002,Rejected,Check details,2760,2023-02-01,Low,No Action,Dodd-Frank Act,Non-Compliant
+761,2023-02-01,8601.9,EUR,Mobile Payment,Completed,False,1761,2023-02-01,1009,Rejected,All good,2761,2023-02-01,High,Review Requested,BSA,Compliant
+762,2023-02-01,4639.18,USD,Wire Transfer,Pending,False,1762,2023-02-01,1002,Approved,All good,2762,2023-02-01,High,No Action,PSD2,Non-Compliant
+763,2023-02-01,4501.41,EUR,ACH,Flagged,False,1763,2023-02-01,1013,Rejected,All good,2763,2023-02-01,High,No Action,PSD2,Compliant
+764,2023-02-01,3427.41,USD,ACH,Pending,True,1764,2023-02-01,1018,Rejected,Check details,2764,2023-02-01,High,Review Requested,PSD2,Non-Compliant
+765,2023-02-01,8818.71,GBP,Mobile Payment,Flagged,False,1765,2023-02-01,1009,Escalated,All good,2765,2023-02-01,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+766,2023-02-01,9455.77,USD,Mobile Payment,Completed,True,1766,2023-02-01,1001,Approved,High amount,2766,2023-02-01,Low,Escalation,BSA,Compliant
+767,2023-02-01,9919.71,USD,Wire Transfer,Flagged,False,1767,2023-02-01,1003,Rejected,High amount,2767,2023-02-01,Low,Review Requested,BSA,Compliant
+768,2023-02-01,3829.74,USD,ACH,Flagged,True,1768,2023-02-01,1007,Escalated,High amount,2768,2023-02-01,High,No Action,BSA,Compliant
+769,2023-02-02,9664.86,USD,ACH,Pending,True,1769,2023-02-02,1006,Escalated,All good,2769,2023-02-02,Low,Review Requested,Dodd-Frank Act,Compliant
+770,2023-02-02,7939.61,GBP,Mobile Payment,Pending,True,1770,2023-02-02,1011,Rejected,All good,2770,2023-02-02,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+771,2023-02-02,6789.32,EUR,ACH,Pending,True,1771,2023-02-02,1017,Approved,Check details,2771,2023-02-02,Medium,Review Requested,PSD2,Compliant
+772,2023-02-02,2524.41,GBP,ACH,Flagged,False,1772,2023-02-02,1010,Escalated,All good,2772,2023-02-02,Medium,Escalation,BSA,Non-Compliant
+773,2023-02-02,2242.93,GBP,ACH,Pending,False,1773,2023-02-02,1012,Approved,All good,2773,2023-02-02,Low,Review Requested,PSD2,Non-Compliant
+774,2023-02-02,1743.87,USD,Wire Transfer,Pending,True,1774,2023-02-02,1008,Escalated,High amount,2774,2023-02-02,Medium,No Action,Dodd-Frank Act,Compliant
+775,2023-02-02,9235.29,GBP,Wire Transfer,Completed,False,1775,2023-02-02,1002,Escalated,High amount,2775,2023-02-02,High,Escalation,Dodd-Frank Act,Non-Compliant
+776,2023-02-02,3011.36,USD,Wire Transfer,Pending,True,1776,2023-02-02,1014,Approved,All good,2776,2023-02-02,Medium,Escalation,PSD2,Compliant
+777,2023-02-02,4585.63,EUR,ACH,Pending,False,1777,2023-02-02,1013,Escalated,High amount,2777,2023-02-02,Medium,No Action,Dodd-Frank Act,Non-Compliant
+778,2023-02-02,4990.18,USD,Mobile Payment,Flagged,False,1778,2023-02-02,1006,Rejected,High amount,2778,2023-02-02,High,Escalation,Dodd-Frank Act,Non-Compliant
+779,2023-02-02,7803.9,EUR,Mobile Payment,Completed,True,1779,2023-02-02,1006,Rejected,All good,2779,2023-02-02,High,No Action,Dodd-Frank Act,Compliant
+780,2023-02-02,8457.93,GBP,Mobile Payment,Pending,False,1780,2023-02-02,1017,Escalated,Check details,2780,2023-02-02,Medium,No Action,BSA,Non-Compliant
+781,2023-02-02,1476.82,USD,Wire Transfer,Pending,True,1781,2023-02-02,1012,Rejected,High amount,2781,2023-02-02,Medium,Review Requested,PSD2,Non-Compliant
+782,2023-02-02,4326.35,EUR,ACH,Flagged,True,1782,2023-02-02,1009,Approved,Check details,2782,2023-02-02,Medium,Escalation,PSD2,Compliant
+783,2023-02-02,8444.26,GBP,Wire Transfer,Pending,False,1783,2023-02-02,1006,Approved,High amount,2783,2023-02-02,Medium,Review Requested,Dodd-Frank Act,Compliant
+784,2023-02-02,8198.53,EUR,Wire Transfer,Pending,True,1784,2023-02-02,1016,Rejected,High amount,2784,2023-02-02,High,Escalation,Dodd-Frank Act,Compliant
+785,2023-02-02,1113.9,USD,Mobile Payment,Pending,True,1785,2023-02-02,1017,Rejected,High amount,2785,2023-02-02,Low,Review Requested,BSA,Non-Compliant
+786,2023-02-02,1648.2,EUR,Mobile Payment,Completed,True,1786,2023-02-02,1008,Rejected,High amount,2786,2023-02-02,Low,No Action,Dodd-Frank Act,Non-Compliant
+787,2023-02-02,3111.57,EUR,ACH,Completed,True,1787,2023-02-02,1009,Approved,Check details,2787,2023-02-02,High,Escalation,BSA,Non-Compliant
+788,2023-02-02,846.05,EUR,Wire Transfer,Completed,False,1788,2023-02-02,1007,Escalated,All good,2788,2023-02-02,Medium,Escalation,BSA,Compliant
+789,2023-02-02,4304.16,GBP,ACH,Pending,False,1789,2023-02-02,1012,Rejected,High amount,2789,2023-02-02,Medium,Review Requested,PSD2,Non-Compliant
+790,2023-02-02,1165.42,EUR,Wire Transfer,Flagged,False,1790,2023-02-02,1017,Rejected,High amount,2790,2023-02-02,Low,Escalation,PSD2,Non-Compliant
+791,2023-02-02,5725.35,EUR,ACH,Flagged,False,1791,2023-02-02,1001,Approved,High amount,2791,2023-02-02,Low,Escalation,Dodd-Frank Act,Non-Compliant
+792,2023-02-02,2540.91,EUR,Wire Transfer,Pending,False,1792,2023-02-02,1010,Escalated,High amount,2792,2023-02-02,Medium,Review Requested,PSD2,Compliant
+793,2023-02-03,6004.69,EUR,ACH,Flagged,True,1793,2023-02-03,1016,Approved,All good,2793,2023-02-03,High,Review Requested,PSD2,Compliant
+794,2023-02-03,1263.5,USD,Wire Transfer,Flagged,False,1794,2023-02-03,1013,Rejected,Check details,2794,2023-02-03,High,Escalation,BSA,Compliant
+795,2023-02-03,9761.25,USD,Wire Transfer,Flagged,False,1795,2023-02-03,1005,Approved,Check details,2795,2023-02-03,High,Escalation,BSA,Compliant
+796,2023-02-03,9332.36,GBP,Mobile Payment,Completed,False,1796,2023-02-03,1018,Escalated,Check details,2796,2023-02-03,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+797,2023-02-03,3978.79,EUR,Wire Transfer,Flagged,True,1797,2023-02-03,1004,Approved,All good,2797,2023-02-03,Medium,Review Requested,BSA,Non-Compliant
+798,2023-02-03,2497.57,GBP,Mobile Payment,Completed,True,1798,2023-02-03,1007,Approved,Check details,2798,2023-02-03,Medium,No Action,PSD2,Non-Compliant
+799,2023-02-03,2578.94,EUR,ACH,Pending,False,1799,2023-02-03,1010,Escalated,Check details,2799,2023-02-03,Medium,Review Requested,PSD2,Compliant
+800,2023-02-03,4885.6,USD,Mobile Payment,Pending,False,1800,2023-02-03,1017,Rejected,All good,2800,2023-02-03,Low,No Action,PSD2,Compliant
+801,2023-02-03,495.93,EUR,Wire Transfer,Flagged,False,1801,2023-02-03,1005,Approved,All good,2801,2023-02-03,High,Review Requested,BSA,Non-Compliant
+802,2023-02-03,6433.08,GBP,Mobile Payment,Completed,False,1802,2023-02-03,1015,Approved,All good,2802,2023-02-03,Low,No Action,Dodd-Frank Act,Non-Compliant
+803,2023-02-03,4142.2,EUR,Mobile Payment,Completed,True,1803,2023-02-03,1014,Escalated,High amount,2803,2023-02-03,Medium,Review Requested,PSD2,Non-Compliant
+804,2023-02-03,3836.33,USD,ACH,Pending,True,1804,2023-02-03,1002,Rejected,Check details,2804,2023-02-03,Low,No Action,PSD2,Non-Compliant
+805,2023-02-03,8112.71,GBP,Mobile Payment,Completed,False,1805,2023-02-03,1018,Escalated,Check details,2805,2023-02-03,Low,Escalation,PSD2,Non-Compliant
+806,2023-02-03,7119.45,EUR,ACH,Pending,False,1806,2023-02-03,1016,Rejected,All good,2806,2023-02-03,Low,Escalation,BSA,Compliant
+807,2023-02-03,9547.9,USD,ACH,Flagged,False,1807,2023-02-03,1002,Rejected,High amount,2807,2023-02-03,High,Escalation,PSD2,Compliant
+808,2023-02-03,3584.17,EUR,Mobile Payment,Completed,True,1808,2023-02-03,1016,Approved,All good,2808,2023-02-03,Medium,Review Requested,PSD2,Compliant
+809,2023-02-03,8985.67,USD,Wire Transfer,Pending,False,1809,2023-02-03,1011,Rejected,High amount,2809,2023-02-03,Medium,Escalation,BSA,Compliant
+810,2023-02-03,7722.68,GBP,ACH,Completed,False,1810,2023-02-03,1018,Rejected,All good,2810,2023-02-03,High,Review Requested,Dodd-Frank Act,Non-Compliant
+811,2023-02-03,3638.5,GBP,Mobile Payment,Pending,True,1811,2023-02-03,1004,Approved,High amount,2811,2023-02-03,High,Review Requested,PSD2,Compliant
+812,2023-02-03,6254.49,EUR,ACH,Flagged,True,1812,2023-02-03,1015,Approved,All good,2812,2023-02-03,High,No Action,PSD2,Compliant
+813,2023-02-03,2956.84,USD,Mobile Payment,Completed,False,1813,2023-02-03,1005,Rejected,Check details,2813,2023-02-03,High,Escalation,PSD2,Non-Compliant
+814,2023-02-03,8756.56,GBP,Mobile Payment,Completed,False,1814,2023-02-03,1014,Rejected,All good,2814,2023-02-03,Medium,Escalation,Dodd-Frank Act,Compliant
+815,2023-02-03,1213.03,EUR,Wire Transfer,Completed,False,1815,2023-02-03,1013,Rejected,High amount,2815,2023-02-03,High,Escalation,PSD2,Non-Compliant
+816,2023-02-03,2203.1,EUR,Mobile Payment,Completed,False,1816,2023-02-03,1016,Escalated,High amount,2816,2023-02-03,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+817,2023-02-04,1912.03,EUR,ACH,Pending,True,1817,2023-02-04,1002,Approved,All good,2817,2023-02-04,High,Review Requested,Dodd-Frank Act,Non-Compliant
+818,2023-02-04,4089.96,USD,ACH,Flagged,True,1818,2023-02-04,1005,Rejected,Check details,2818,2023-02-04,Medium,No Action,BSA,Non-Compliant
+819,2023-02-04,7477.81,EUR,Wire Transfer,Flagged,False,1819,2023-02-04,1006,Rejected,Check details,2819,2023-02-04,Low,Review Requested,Dodd-Frank Act,Compliant
+820,2023-02-04,5316.38,USD,ACH,Pending,True,1820,2023-02-04,1001,Approved,Check details,2820,2023-02-04,Low,Escalation,PSD2,Non-Compliant
+821,2023-02-04,4928.0,EUR,Wire Transfer,Flagged,False,1821,2023-02-04,1018,Rejected,Check details,2821,2023-02-04,High,Review Requested,BSA,Compliant
+822,2023-02-04,105.41,USD,Mobile Payment,Completed,False,1822,2023-02-04,1018,Rejected,High amount,2822,2023-02-04,High,Escalation,BSA,Non-Compliant
+823,2023-02-04,4311.48,EUR,Mobile Payment,Flagged,False,1823,2023-02-04,1018,Rejected,High amount,2823,2023-02-04,Medium,Review Requested,Dodd-Frank Act,Compliant
+824,2023-02-04,729.18,EUR,Mobile Payment,Completed,True,1824,2023-02-04,1008,Rejected,Check details,2824,2023-02-04,Medium,Escalation,BSA,Non-Compliant
+825,2023-02-04,2161.71,USD,Wire Transfer,Completed,True,1825,2023-02-04,1009,Escalated,Check details,2825,2023-02-04,Low,No Action,PSD2,Compliant
+826,2023-02-04,9330.7,GBP,ACH,Completed,True,1826,2023-02-04,1019,Rejected,All good,2826,2023-02-04,Medium,No Action,PSD2,Non-Compliant
+827,2023-02-04,2232.44,GBP,ACH,Completed,True,1827,2023-02-04,1006,Rejected,Check details,2827,2023-02-04,High,No Action,Dodd-Frank Act,Compliant
+828,2023-02-04,8597.54,GBP,Mobile Payment,Pending,True,1828,2023-02-04,1003,Approved,All good,2828,2023-02-04,Medium,Review Requested,Dodd-Frank Act,Compliant
+829,2023-02-04,8048.64,USD,ACH,Flagged,False,1829,2023-02-04,1004,Escalated,Check details,2829,2023-02-04,Low,No Action,PSD2,Non-Compliant
+830,2023-02-04,1675.55,GBP,Wire Transfer,Completed,True,1830,2023-02-04,1001,Approved,High amount,2830,2023-02-04,Low,Review Requested,BSA,Compliant
+831,2023-02-04,6096.55,EUR,Wire Transfer,Completed,False,1831,2023-02-04,1004,Rejected,Check details,2831,2023-02-04,Low,Review Requested,PSD2,Non-Compliant
+832,2023-02-04,1245.05,USD,Wire Transfer,Pending,False,1832,2023-02-04,1002,Approved,All good,2832,2023-02-04,Medium,No Action,Dodd-Frank Act,Non-Compliant
+833,2023-02-04,7306.09,GBP,Wire Transfer,Flagged,True,1833,2023-02-04,1015,Escalated,High amount,2833,2023-02-04,Low,No Action,PSD2,Compliant
+834,2023-02-04,6410.88,EUR,ACH,Pending,True,1834,2023-02-04,1013,Rejected,High amount,2834,2023-02-04,High,Review Requested,Dodd-Frank Act,Non-Compliant
+835,2023-02-04,8138.19,EUR,Wire Transfer,Completed,False,1835,2023-02-04,1007,Rejected,Check details,2835,2023-02-04,High,Review Requested,BSA,Non-Compliant
+836,2023-02-04,4845.91,USD,ACH,Completed,False,1836,2023-02-04,1005,Rejected,All good,2836,2023-02-04,Low,Escalation,PSD2,Compliant
+837,2023-02-04,9157.14,GBP,Mobile Payment,Flagged,False,1837,2023-02-04,1007,Rejected,All good,2837,2023-02-04,Medium,No Action,Dodd-Frank Act,Compliant
+838,2023-02-04,588.55,EUR,ACH,Pending,False,1838,2023-02-04,1018,Escalated,All good,2838,2023-02-04,High,Escalation,BSA,Compliant
+839,2023-02-04,2999.6,GBP,Wire Transfer,Flagged,True,1839,2023-02-04,1002,Rejected,High amount,2839,2023-02-04,Low,Review Requested,PSD2,Compliant
+840,2023-02-04,7179.02,EUR,ACH,Completed,True,1840,2023-02-04,1017,Approved,High amount,2840,2023-02-04,Medium,No Action,PSD2,Non-Compliant
+841,2023-02-05,4239.28,EUR,Mobile Payment,Pending,False,1841,2023-02-05,1003,Rejected,Check details,2841,2023-02-05,Low,No Action,PSD2,Compliant
+842,2023-02-05,1812.22,USD,Mobile Payment,Completed,False,1842,2023-02-05,1015,Approved,All good,2842,2023-02-05,Low,No Action,BSA,Compliant
+843,2023-02-05,1161.39,GBP,Mobile Payment,Flagged,False,1843,2023-02-05,1011,Rejected,All good,2843,2023-02-05,Medium,No Action,Dodd-Frank Act,Compliant
+844,2023-02-05,8191.66,EUR,ACH,Completed,False,1844,2023-02-05,1018,Rejected,High amount,2844,2023-02-05,Medium,Escalation,Dodd-Frank Act,Compliant
+845,2023-02-05,4784.12,GBP,Wire Transfer,Pending,False,1845,2023-02-05,1006,Escalated,High amount,2845,2023-02-05,Medium,No Action,Dodd-Frank Act,Non-Compliant
+846,2023-02-05,8834.61,GBP,Wire Transfer,Completed,False,1846,2023-02-05,1009,Escalated,All good,2846,2023-02-05,Medium,No Action,BSA,Non-Compliant
+847,2023-02-05,7359.56,GBP,ACH,Flagged,True,1847,2023-02-05,1009,Escalated,Check details,2847,2023-02-05,High,Escalation,Dodd-Frank Act,Non-Compliant
+848,2023-02-05,4156.29,USD,Wire Transfer,Completed,False,1848,2023-02-05,1002,Approved,Check details,2848,2023-02-05,Low,Review Requested,Dodd-Frank Act,Compliant
+849,2023-02-05,3797.76,EUR,Wire Transfer,Completed,True,1849,2023-02-05,1006,Approved,Check details,2849,2023-02-05,Medium,Review Requested,PSD2,Non-Compliant
+850,2023-02-05,5204.82,GBP,ACH,Flagged,True,1850,2023-02-05,1001,Approved,High amount,2850,2023-02-05,Medium,No Action,PSD2,Non-Compliant
+851,2023-02-05,8901.69,USD,Mobile Payment,Flagged,False,1851,2023-02-05,1001,Rejected,Check details,2851,2023-02-05,Low,Review Requested,BSA,Non-Compliant
+852,2023-02-05,7399.06,GBP,Wire Transfer,Completed,True,1852,2023-02-05,1012,Rejected,High amount,2852,2023-02-05,Low,Escalation,BSA,Non-Compliant
+853,2023-02-05,151.01,USD,Mobile Payment,Flagged,False,1853,2023-02-05,1007,Rejected,All good,2853,2023-02-05,Medium,No Action,PSD2,Compliant
+854,2023-02-05,6972.16,GBP,Wire Transfer,Pending,True,1854,2023-02-05,1015,Rejected,All good,2854,2023-02-05,High,No Action,Dodd-Frank Act,Non-Compliant
+855,2023-02-05,9203.12,GBP,Mobile Payment,Completed,False,1855,2023-02-05,1006,Escalated,All good,2855,2023-02-05,Medium,Review Requested,BSA,Non-Compliant
+856,2023-02-05,7133.51,GBP,Mobile Payment,Flagged,False,1856,2023-02-05,1017,Rejected,All good,2856,2023-02-05,High,Escalation,Dodd-Frank Act,Non-Compliant
+857,2023-02-05,1852.36,USD,Wire Transfer,Completed,False,1857,2023-02-05,1019,Approved,High amount,2857,2023-02-05,High,Escalation,PSD2,Compliant
+858,2023-02-05,4886.83,USD,Wire Transfer,Pending,True,1858,2023-02-05,1006,Approved,All good,2858,2023-02-05,Medium,Escalation,BSA,Non-Compliant
+859,2023-02-05,1489.13,EUR,ACH,Pending,False,1859,2023-02-05,1004,Rejected,All good,2859,2023-02-05,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+860,2023-02-05,3654.05,EUR,Wire Transfer,Flagged,False,1860,2023-02-05,1011,Escalated,Check details,2860,2023-02-05,High,No Action,Dodd-Frank Act,Non-Compliant
+861,2023-02-05,9377.46,USD,Wire Transfer,Completed,True,1861,2023-02-05,1011,Escalated,High amount,2861,2023-02-05,Medium,No Action,PSD2,Non-Compliant
+862,2023-02-05,9240.72,EUR,ACH,Pending,False,1862,2023-02-05,1010,Escalated,All good,2862,2023-02-05,Low,No Action,Dodd-Frank Act,Compliant
+863,2023-02-05,2900.08,USD,Mobile Payment,Pending,True,1863,2023-02-05,1008,Escalated,High amount,2863,2023-02-05,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+864,2023-02-05,3462.35,USD,ACH,Completed,True,1864,2023-02-05,1001,Rejected,High amount,2864,2023-02-05,Medium,Escalation,PSD2,Non-Compliant
+865,2023-02-06,6042.11,USD,Mobile Payment,Pending,True,1865,2023-02-06,1001,Escalated,High amount,2865,2023-02-06,Medium,Escalation,PSD2,Non-Compliant
+866,2023-02-06,9635.65,EUR,ACH,Pending,True,1866,2023-02-06,1015,Escalated,High amount,2866,2023-02-06,Medium,Escalation,Dodd-Frank Act,Compliant
+867,2023-02-06,1563.23,GBP,Wire Transfer,Pending,False,1867,2023-02-06,1003,Rejected,Check details,2867,2023-02-06,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+868,2023-02-06,2643.47,EUR,Wire Transfer,Pending,True,1868,2023-02-06,1006,Approved,All good,2868,2023-02-06,High,Review Requested,PSD2,Non-Compliant
+869,2023-02-06,8748.21,GBP,Mobile Payment,Pending,False,1869,2023-02-06,1004,Rejected,All good,2869,2023-02-06,Low,No Action,PSD2,Non-Compliant
+870,2023-02-06,4969.73,EUR,Wire Transfer,Flagged,True,1870,2023-02-06,1004,Approved,High amount,2870,2023-02-06,Low,Review Requested,PSD2,Non-Compliant
+871,2023-02-06,8999.71,GBP,Mobile Payment,Pending,True,1871,2023-02-06,1014,Rejected,Check details,2871,2023-02-06,Medium,No Action,PSD2,Non-Compliant
+872,2023-02-06,1936.63,GBP,ACH,Pending,False,1872,2023-02-06,1019,Escalated,Check details,2872,2023-02-06,Medium,Review Requested,PSD2,Compliant
+873,2023-02-06,5373.42,USD,Wire Transfer,Completed,False,1873,2023-02-06,1018,Escalated,Check details,2873,2023-02-06,Medium,Escalation,BSA,Non-Compliant
+874,2023-02-06,3330.07,EUR,Mobile Payment,Completed,True,1874,2023-02-06,1003,Escalated,High amount,2874,2023-02-06,Low,No Action,BSA,Compliant
+875,2023-02-06,3233.77,GBP,ACH,Flagged,False,1875,2023-02-06,1003,Approved,High amount,2875,2023-02-06,Medium,Review Requested,PSD2,Compliant
+876,2023-02-06,4524.08,EUR,Wire Transfer,Flagged,False,1876,2023-02-06,1019,Approved,All good,2876,2023-02-06,Medium,Escalation,Dodd-Frank Act,Compliant
+877,2023-02-06,4387.47,USD,Wire Transfer,Pending,False,1877,2023-02-06,1005,Rejected,Check details,2877,2023-02-06,Low,Escalation,BSA,Compliant
+878,2023-02-06,3637.73,USD,Mobile Payment,Completed,True,1878,2023-02-06,1012,Approved,All good,2878,2023-02-06,High,Review Requested,Dodd-Frank Act,Non-Compliant
+879,2023-02-06,9158.21,GBP,Wire Transfer,Pending,True,1879,2023-02-06,1004,Rejected,All good,2879,2023-02-06,Low,No Action,PSD2,Compliant
+880,2023-02-06,7344.27,USD,Mobile Payment,Completed,True,1880,2023-02-06,1018,Rejected,Check details,2880,2023-02-06,Medium,Review Requested,Dodd-Frank Act,Non-Compliant
+881,2023-02-06,7302.72,EUR,Wire Transfer,Flagged,False,1881,2023-02-06,1003,Approved,High amount,2881,2023-02-06,High,No Action,Dodd-Frank Act,Non-Compliant
+882,2023-02-06,2970.14,USD,ACH,Pending,False,1882,2023-02-06,1009,Rejected,High amount,2882,2023-02-06,Medium,No Action,Dodd-Frank Act,Non-Compliant
+883,2023-02-06,5819.32,USD,Wire Transfer,Pending,True,1883,2023-02-06,1010,Escalated,Check details,2883,2023-02-06,Low,Escalation,Dodd-Frank Act,Compliant
+884,2023-02-06,7813.88,USD,Mobile Payment,Flagged,True,1884,2023-02-06,1015,Approved,All good,2884,2023-02-06,High,Escalation,BSA,Non-Compliant
+885,2023-02-06,7976.34,USD,Mobile Payment,Completed,True,1885,2023-02-06,1004,Escalated,Check details,2885,2023-02-06,Medium,No Action,BSA,Non-Compliant
+886,2023-02-06,3510.85,EUR,Mobile Payment,Flagged,True,1886,2023-02-06,1013,Rejected,All good,2886,2023-02-06,Low,No Action,PSD2,Non-Compliant
+887,2023-02-06,7731.64,EUR,ACH,Pending,True,1887,2023-02-06,1018,Approved,Check details,2887,2023-02-06,Medium,No Action,Dodd-Frank Act,Non-Compliant
+888,2023-02-06,7385.35,GBP,Wire Transfer,Completed,True,1888,2023-02-06,1011,Escalated,Check details,2888,2023-02-06,Medium,No Action,PSD2,Non-Compliant
+889,2023-02-07,1500.91,USD,Wire Transfer,Pending,False,1889,2023-02-07,1018,Rejected,Check details,2889,2023-02-07,Low,No Action,PSD2,Non-Compliant
+890,2023-02-07,8672.86,GBP,Wire Transfer,Flagged,False,1890,2023-02-07,1001,Approved,Check details,2890,2023-02-07,High,Review Requested,Dodd-Frank Act,Non-Compliant
+891,2023-02-07,4469.08,GBP,Mobile Payment,Completed,True,1891,2023-02-07,1018,Approved,High amount,2891,2023-02-07,High,Review Requested,PSD2,Non-Compliant
+892,2023-02-07,4915.46,EUR,Mobile Payment,Pending,False,1892,2023-02-07,1012,Escalated,Check details,2892,2023-02-07,High,Review Requested,Dodd-Frank Act,Compliant
+893,2023-02-07,4538.85,USD,Wire Transfer,Completed,False,1893,2023-02-07,1009,Escalated,All good,2893,2023-02-07,Low,No Action,PSD2,Compliant
+894,2023-02-07,5721.68,USD,Mobile Payment,Completed,False,1894,2023-02-07,1003,Rejected,All good,2894,2023-02-07,Low,Review Requested,BSA,Non-Compliant
+895,2023-02-07,6249.58,EUR,Wire Transfer,Completed,True,1895,2023-02-07,1017,Rejected,All good,2895,2023-02-07,Low,No Action,BSA,Non-Compliant
+896,2023-02-07,5031.98,EUR,Wire Transfer,Completed,False,1896,2023-02-07,1005,Approved,Check details,2896,2023-02-07,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+897,2023-02-07,8681.21,EUR,Mobile Payment,Flagged,False,1897,2023-02-07,1010,Approved,High amount,2897,2023-02-07,Low,No Action,Dodd-Frank Act,Non-Compliant
+898,2023-02-07,6314.57,USD,Wire Transfer,Pending,False,1898,2023-02-07,1011,Rejected,All good,2898,2023-02-07,High,Escalation,Dodd-Frank Act,Compliant
+899,2023-02-07,4074.14,GBP,Mobile Payment,Pending,False,1899,2023-02-07,1016,Escalated,High amount,2899,2023-02-07,Medium,Escalation,PSD2,Non-Compliant
+900,2023-02-07,4225.25,GBP,Wire Transfer,Pending,False,1900,2023-02-07,1018,Escalated,All good,2900,2023-02-07,Medium,Escalation,PSD2,Non-Compliant
+901,2023-02-07,8127.3,USD,Mobile Payment,Flagged,True,1901,2023-02-07,1008,Approved,High amount,2901,2023-02-07,High,Review Requested,Dodd-Frank Act,Compliant
+902,2023-02-07,3547.1,GBP,Mobile Payment,Pending,True,1902,2023-02-07,1014,Approved,All good,2902,2023-02-07,High,No Action,PSD2,Non-Compliant
+903,2023-02-07,2193.4,USD,Mobile Payment,Completed,True,1903,2023-02-07,1004,Escalated,High amount,2903,2023-02-07,High,No Action,PSD2,Compliant
+904,2023-02-07,687.89,USD,Wire Transfer,Pending,False,1904,2023-02-07,1018,Rejected,Check details,2904,2023-02-07,Medium,Review Requested,PSD2,Compliant
+905,2023-02-07,8772.67,EUR,Wire Transfer,Completed,False,1905,2023-02-07,1004,Approved,High amount,2905,2023-02-07,High,No Action,BSA,Compliant
+906,2023-02-07,9193.61,USD,ACH,Completed,False,1906,2023-02-07,1014,Approved,All good,2906,2023-02-07,High,Escalation,PSD2,Non-Compliant
+907,2023-02-07,1289.19,EUR,Wire Transfer,Completed,True,1907,2023-02-07,1019,Approved,All good,2907,2023-02-07,Low,No Action,BSA,Non-Compliant
+908,2023-02-07,3411.29,EUR,Wire Transfer,Flagged,True,1908,2023-02-07,1013,Approved,Check details,2908,2023-02-07,Medium,Review Requested,PSD2,Compliant
+909,2023-02-07,1836.18,GBP,Wire Transfer,Pending,True,1909,2023-02-07,1015,Approved,All good,2909,2023-02-07,Medium,Review Requested,Dodd-Frank Act,Compliant
+910,2023-02-07,1247.39,EUR,ACH,Flagged,False,1910,2023-02-07,1011,Approved,High amount,2910,2023-02-07,High,No Action,BSA,Non-Compliant
+911,2023-02-07,9008.68,GBP,ACH,Completed,True,1911,2023-02-07,1014,Escalated,Check details,2911,2023-02-07,High,No Action,Dodd-Frank Act,Compliant
+912,2023-02-07,663.08,USD,Wire Transfer,Pending,False,1912,2023-02-07,1014,Escalated,All good,2912,2023-02-07,Low,Review Requested,BSA,Compliant
+913,2023-02-08,9806.81,GBP,Wire Transfer,Flagged,False,1913,2023-02-08,1014,Rejected,All good,2913,2023-02-08,Medium,Review Requested,BSA,Compliant
+914,2023-02-08,1054.86,GBP,Mobile Payment,Flagged,False,1914,2023-02-08,1002,Escalated,High amount,2914,2023-02-08,Medium,Escalation,PSD2,Non-Compliant
+915,2023-02-08,8648.36,GBP,Wire Transfer,Completed,True,1915,2023-02-08,1004,Escalated,High amount,2915,2023-02-08,Low,Review Requested,Dodd-Frank Act,Compliant
+916,2023-02-08,5708.41,USD,Mobile Payment,Completed,False,1916,2023-02-08,1013,Rejected,High amount,2916,2023-02-08,High,Escalation,PSD2,Compliant
+917,2023-02-08,3742.38,USD,Wire Transfer,Completed,True,1917,2023-02-08,1009,Approved,High amount,2917,2023-02-08,Medium,No Action,Dodd-Frank Act,Non-Compliant
+918,2023-02-08,3489.19,EUR,Mobile Payment,Pending,True,1918,2023-02-08,1011,Escalated,All good,2918,2023-02-08,Low,No Action,PSD2,Non-Compliant
+919,2023-02-08,7597.91,USD,ACH,Flagged,True,1919,2023-02-08,1007,Escalated,High amount,2919,2023-02-08,High,No Action,BSA,Compliant
+920,2023-02-08,3214.28,EUR,ACH,Completed,True,1920,2023-02-08,1012,Rejected,Check details,2920,2023-02-08,Medium,Review Requested,PSD2,Compliant
+921,2023-02-08,6607.46,USD,Wire Transfer,Flagged,True,1921,2023-02-08,1014,Rejected,Check details,2921,2023-02-08,Low,Escalation,PSD2,Non-Compliant
+922,2023-02-08,5221.53,GBP,ACH,Completed,False,1922,2023-02-08,1008,Escalated,All good,2922,2023-02-08,Low,No Action,Dodd-Frank Act,Compliant
+923,2023-02-08,4901.16,EUR,ACH,Flagged,True,1923,2023-02-08,1014,Approved,High amount,2923,2023-02-08,High,No Action,BSA,Non-Compliant
+924,2023-02-08,9021.51,USD,Mobile Payment,Completed,False,1924,2023-02-08,1019,Approved,All good,2924,2023-02-08,Medium,Review Requested,Dodd-Frank Act,Compliant
+925,2023-02-08,5590.99,USD,ACH,Flagged,True,1925,2023-02-08,1019,Rejected,All good,2925,2023-02-08,Low,Escalation,BSA,Compliant
+926,2023-02-08,8285.93,USD,Wire Transfer,Pending,True,1926,2023-02-08,1016,Rejected,Check details,2926,2023-02-08,High,Escalation,BSA,Compliant
+927,2023-02-08,7283.18,GBP,Wire Transfer,Pending,True,1927,2023-02-08,1015,Approved,High amount,2927,2023-02-08,Low,Escalation,BSA,Non-Compliant
+928,2023-02-08,481.72,EUR,ACH,Pending,False,1928,2023-02-08,1002,Escalated,All good,2928,2023-02-08,High,Escalation,BSA,Compliant
+929,2023-02-08,7753.79,EUR,Wire Transfer,Completed,True,1929,2023-02-08,1014,Escalated,Check details,2929,2023-02-08,Low,Review Requested,PSD2,Compliant
+930,2023-02-08,2247.02,EUR,ACH,Completed,True,1930,2023-02-08,1019,Rejected,Check details,2930,2023-02-08,Medium,No Action,Dodd-Frank Act,Compliant
+931,2023-02-08,9041.18,USD,Wire Transfer,Flagged,False,1931,2023-02-08,1008,Escalated,All good,2931,2023-02-08,Medium,Review Requested,Dodd-Frank Act,Compliant
+932,2023-02-08,524.95,EUR,Mobile Payment,Flagged,False,1932,2023-02-08,1017,Approved,High amount,2932,2023-02-08,High,Escalation,PSD2,Non-Compliant
+933,2023-02-08,3397.41,EUR,ACH,Pending,False,1933,2023-02-08,1014,Escalated,High amount,2933,2023-02-08,Low,No Action,PSD2,Compliant
+934,2023-02-08,1087.36,USD,Wire Transfer,Completed,True,1934,2023-02-08,1012,Rejected,All good,2934,2023-02-08,High,No Action,BSA,Compliant
+935,2023-02-08,4808.33,USD,Mobile Payment,Completed,True,1935,2023-02-08,1013,Rejected,Check details,2935,2023-02-08,High,Escalation,PSD2,Non-Compliant
+936,2023-02-08,8218.22,USD,ACH,Completed,True,1936,2023-02-08,1007,Rejected,High amount,2936,2023-02-08,High,Review Requested,PSD2,Compliant
+937,2023-02-09,3052.05,USD,Wire Transfer,Completed,False,1937,2023-02-09,1018,Escalated,All good,2937,2023-02-09,Low,No Action,BSA,Compliant
+938,2023-02-09,1594.26,GBP,ACH,Pending,True,1938,2023-02-09,1001,Approved,High amount,2938,2023-02-09,High,No Action,Dodd-Frank Act,Non-Compliant
+939,2023-02-09,3369.64,GBP,Mobile Payment,Completed,False,1939,2023-02-09,1010,Escalated,All good,2939,2023-02-09,Low,Escalation,BSA,Non-Compliant
+940,2023-02-09,8157.41,EUR,ACH,Completed,False,1940,2023-02-09,1006,Escalated,High amount,2940,2023-02-09,High,Review Requested,PSD2,Compliant
+941,2023-02-09,1489.8,GBP,Mobile Payment,Pending,True,1941,2023-02-09,1007,Rejected,Check details,2941,2023-02-09,High,Escalation,PSD2,Non-Compliant
+942,2023-02-09,2350.89,USD,Mobile Payment,Pending,True,1942,2023-02-09,1002,Escalated,All good,2942,2023-02-09,Medium,Escalation,Dodd-Frank Act,Compliant
+943,2023-02-09,781.63,GBP,Wire Transfer,Flagged,True,1943,2023-02-09,1009,Escalated,All good,2943,2023-02-09,Medium,Escalation,BSA,Compliant
+944,2023-02-09,7086.53,USD,Mobile Payment,Pending,False,1944,2023-02-09,1008,Rejected,All good,2944,2023-02-09,High,Escalation,Dodd-Frank Act,Compliant
+945,2023-02-09,4012.81,GBP,Mobile Payment,Flagged,False,1945,2023-02-09,1012,Rejected,All good,2945,2023-02-09,Medium,No Action,PSD2,Compliant
+946,2023-02-09,3177.32,USD,Wire Transfer,Pending,False,1946,2023-02-09,1018,Approved,High amount,2946,2023-02-09,High,Escalation,Dodd-Frank Act,Non-Compliant
+947,2023-02-09,7214.4,EUR,Mobile Payment,Pending,False,1947,2023-02-09,1009,Escalated,All good,2947,2023-02-09,Medium,Escalation,Dodd-Frank Act,Non-Compliant
+948,2023-02-09,3426.18,EUR,Wire Transfer,Completed,True,1948,2023-02-09,1001,Approved,Check details,2948,2023-02-09,High,Review Requested,BSA,Non-Compliant
+949,2023-02-09,7304.94,GBP,Wire Transfer,Completed,False,1949,2023-02-09,1012,Rejected,High amount,2949,2023-02-09,Medium,Review Requested,PSD2,Non-Compliant
+950,2023-02-09,8170.47,USD,Mobile Payment,Pending,True,1950,2023-02-09,1005,Escalated,High amount,2950,2023-02-09,Low,No Action,Dodd-Frank Act,Compliant
+951,2023-02-09,2254.86,EUR,ACH,Completed,False,1951,2023-02-09,1004,Approved,All good,2951,2023-02-09,High,No Action,BSA,Compliant
+952,2023-02-09,9740.81,USD,Mobile Payment,Flagged,True,1952,2023-02-09,1014,Escalated,Check details,2952,2023-02-09,High,Escalation,Dodd-Frank Act,Non-Compliant
+953,2023-02-09,1707.34,GBP,ACH,Pending,False,1953,2023-02-09,1009,Escalated,Check details,2953,2023-02-09,Low,Review Requested,PSD2,Compliant
+954,2023-02-09,2979.32,USD,Mobile Payment,Flagged,False,1954,2023-02-09,1007,Rejected,High amount,2954,2023-02-09,Low,Review Requested,PSD2,Compliant
+955,2023-02-09,1879.97,USD,Wire Transfer,Pending,True,1955,2023-02-09,1011,Escalated,All good,2955,2023-02-09,Low,Review Requested,BSA,Compliant
+956,2023-02-09,3520.51,GBP,Mobile Payment,Pending,True,1956,2023-02-09,1010,Approved,High amount,2956,2023-02-09,Low,Escalation,BSA,Compliant
+957,2023-02-09,4852.6,EUR,Wire Transfer,Pending,True,1957,2023-02-09,1010,Rejected,All good,2957,2023-02-09,Low,Review Requested,Dodd-Frank Act,Non-Compliant
+958,2023-02-09,5269.54,GBP,ACH,Pending,True,1958,2023-02-09,1005,Escalated,Check details,2958,2023-02-09,Medium,No Action,PSD2,Compliant
+959,2023-02-09,8550.7,USD,Mobile Payment,Pending,False,1959,2023-02-09,1008,Approved,All good,2959,2023-02-09,Medium,No Action,Dodd-Frank Act,Non-Compliant
+960,2023-02-09,8905.53,GBP,ACH,Completed,False,1960,2023-02-09,1017,Escalated,All good,2960,2023-02-09,Medium,Escalation,PSD2,Non-Compliant
+961,2023-02-10,2279.03,GBP,Mobile Payment,Flagged,False,1961,2023-02-10,1019,Escalated,All good,2961,2023-02-10,Medium,Escalation,BSA,Non-Compliant
+962,2023-02-10,6266.65,USD,Wire Transfer,Pending,False,1962,2023-02-10,1015,Approved,High amount,2962,2023-02-10,Medium,Escalation,Dodd-Frank Act,Compliant
+963,2023-02-10,1203.81,GBP,Wire Transfer,Completed,True,1963,2023-02-10,1015,Approved,High amount,2963,2023-02-10,Low,Escalation,Dodd-Frank Act,Compliant
+964,2023-02-10,4643.8,EUR,Mobile Payment,Pending,False,1964,2023-02-10,1015,Rejected,High amount,2964,2023-02-10,High,Review Requested,BSA,Non-Compliant
+965,2023-02-10,3291.1,EUR,ACH,Pending,False,1965,2023-02-10,1004,Rejected,High amount,2965,2023-02-10,Medium,No Action,Dodd-Frank Act,Compliant
+966,2023-02-10,3233.36,GBP,Mobile Payment,Flagged,False,1966,2023-02-10,1017,Escalated,High amount,2966,2023-02-10,High,Review Requested,Dodd-Frank Act,Compliant
+967,2023-02-10,4877.58,USD,Mobile Payment,Pending,False,1967,2023-02-10,1004,Rejected,Check details,2967,2023-02-10,Low,Review Requested,PSD2,Compliant
+968,2023-02-10,7325.29,GBP,Mobile Payment,Flagged,False,1968,2023-02-10,1011,Escalated,Check details,2968,2023-02-10,High,No Action,PSD2,Non-Compliant
+969,2023-02-10,784.91,GBP,ACH,Pending,False,1969,2023-02-10,1001,Rejected,All good,2969,2023-02-10,Low,Review Requested,Dodd-Frank Act,Compliant
+970,2023-02-10,8803.82,EUR,Mobile Payment,Completed,True,1970,2023-02-10,1010,Escalated,Check details,2970,2023-02-10,High,Escalation,PSD2,Non-Compliant
+971,2023-02-10,7374.66,EUR,Wire Transfer,Pending,True,1971,2023-02-10,1015,Rejected,High amount,2971,2023-02-10,High,Review Requested,Dodd-Frank Act,Non-Compliant
+972,2023-02-10,1847.34,USD,Mobile Payment,Completed,False,1972,2023-02-10,1002,Rejected,All good,2972,2023-02-10,Low,Escalation,Dodd-Frank Act,Compliant
+973,2023-02-10,9397.69,USD,Mobile Payment,Completed,True,1973,2023-02-10,1019,Escalated,Check details,2973,2023-02-10,Low,Review Requested,Dodd-Frank Act,Compliant
+974,2023-02-10,5112.49,USD,Wire Transfer,Completed,True,1974,2023-02-10,1002,Approved,All good,2974,2023-02-10,Medium,Escalation,Dodd-Frank Act,Compliant
+975,2023-02-10,9998.1,GBP,Mobile Payment,Completed,True,1975,2023-02-10,1013,Rejected,High amount,2975,2023-02-10,Low,Escalation,PSD2,Compliant
+976,2023-02-10,2052.87,GBP,ACH,Pending,True,1976,2023-02-10,1003,Escalated,High amount,2976,2023-02-10,Medium,Review Requested,PSD2,Non-Compliant
+977,2023-02-10,5395.59,GBP,Mobile Payment,Pending,False,1977,2023-02-10,1011,Escalated,Check details,2977,2023-02-10,Medium,No Action,PSD2,Non-Compliant
+978,2023-02-10,2973.46,GBP,ACH,Completed,True,1978,2023-02-10,1010,Escalated,High amount,2978,2023-02-10,Low,No Action,PSD2,Compliant
+979,2023-02-10,3111.32,USD,Mobile Payment,Completed,False,1979,2023-02-10,1018,Approved,All good,2979,2023-02-10,High,Review Requested,BSA,Compliant
+980,2023-02-10,5951.55,USD,Mobile Payment,Flagged,True,1980,2023-02-10,1015,Approved,All good,2980,2023-02-10,Medium,Review Requested,PSD2,Non-Compliant
+981,2023-02-10,9225.02,USD,Mobile Payment,Pending,False,1981,2023-02-10,1014,Rejected,All good,2981,2023-02-10,Medium,Escalation,PSD2,Compliant
+982,2023-02-10,8072.11,GBP,ACH,Flagged,False,1982,2023-02-10,1002,Escalated,Check details,2982,2023-02-10,Medium,Review Requested,PSD2,Non-Compliant
+983,2023-02-10,7267.02,GBP,Wire Transfer,Completed,True,1983,2023-02-10,1011,Approved,All good,2983,2023-02-10,Low,No Action,Dodd-Frank Act,Compliant
+984,2023-02-10,5635.82,USD,Mobile Payment,Flagged,True,1984,2023-02-10,1004,Approved,All good,2984,2023-02-10,Low,Review Requested,PSD2,Compliant
+985,2023-02-11,9230.76,EUR,Mobile Payment,Flagged,False,1985,2023-02-11,1018,Approved,High amount,2985,2023-02-11,High,Review Requested,BSA,Compliant
+986,2023-02-11,4974.38,USD,Mobile Payment,Completed,False,1986,2023-02-11,1001,Approved,Check details,2986,2023-02-11,Medium,No Action,Dodd-Frank Act,Compliant
+987,2023-02-11,8750.94,GBP,Wire Transfer,Flagged,True,1987,2023-02-11,1014,Escalated,Check details,2987,2023-02-11,High,No Action,PSD2,Compliant
+988,2023-02-11,8356.42,GBP,Mobile Payment,Flagged,False,1988,2023-02-11,1018,Rejected,Check details,2988,2023-02-11,Low,No Action,PSD2,Non-Compliant
+989,2023-02-11,2216.97,USD,ACH,Pending,False,1989,2023-02-11,1008,Approved,Check details,2989,2023-02-11,Medium,No Action,Dodd-Frank Act,Compliant
+990,2023-02-11,7735.13,EUR,Wire Transfer,Completed,False,1990,2023-02-11,1001,Rejected,High amount,2990,2023-02-11,Low,Review Requested,BSA,Non-Compliant
+991,2023-02-11,220.49,EUR,ACH,Pending,False,1991,2023-02-11,1015,Approved,Check details,2991,2023-02-11,Medium,Review Requested,PSD2,Compliant
+992,2023-02-11,3296.01,GBP,ACH,Pending,True,1992,2023-02-11,1012,Approved,Check details,2992,2023-02-11,Low,Escalation,BSA,Compliant
+993,2023-02-11,2372.72,GBP,Wire Transfer,Completed,False,1993,2023-02-11,1010,Rejected,All good,2993,2023-02-11,Low,No Action,PSD2,Compliant
+994,2023-02-11,5117.94,GBP,Wire Transfer,Flagged,False,1994,2023-02-11,1010,Rejected,Check details,2994,2023-02-11,High,Review Requested,BSA,Non-Compliant
+995,2023-02-11,7394.85,USD,Mobile Payment,Completed,True,1995,2023-02-11,1002,Escalated,Check details,2995,2023-02-11,High,Review Requested,PSD2,Non-Compliant
+996,2023-02-11,1067.0,GBP,Wire Transfer,Completed,False,1996,2023-02-11,1010,Escalated,High amount,2996,2023-02-11,Low,No Action,BSA,Non-Compliant
+997,2023-02-11,5197.73,GBP,ACH,Completed,True,1997,2023-02-11,1016,Escalated,Check details,2997,2023-02-11,Medium,No Action,BSA,Compliant
+998,2023-02-11,9390.28,GBP,Mobile Payment,Completed,True,1998,2023-02-11,1009,Escalated,Check details,2998,2023-02-11,High,Review Requested,BSA,Non-Compliant
+999,2023-02-11,2363.6,EUR,Wire Transfer,Flagged,True,1999,2023-02-11,1009,Rejected,High amount,2999,2023-02-11,Medium,Review Requested,Dodd-Frank Act,Compliant
+1000,2023-02-11,6803.7,EUR,ACH,Pending,True,2000,2023-02-11,1018,Rejected,High amount,3000,2023-02-11,Low,Review Requested,Dodd-Frank Act,Compliant

@@ -1,0 +1,101 @@
+Issuer ID,Issuer Name,Industry,Issuer Credit Rating,Issuance ID,Type of Issuance,Issue Date,Issuance Size,Currency,Market Risk Score,Counterparty Risk Score,Liquidity Risk Score,Geopolitical Risk Score,Regulatory Compliance Flags,Audit Trail,Approver ID,Approval Date,Compliance Check Status,P/E Ratio,Debt-to-Equity Ratio,Operating Margin,Interest Coverage Ratio,Historical Volatility,Past Issuance Performance
+1,Issuer_1,Energy,BBB,1001,Bond,2020-01-31,4691966.54,GBP,2.13,9.85,0.85,9.33,None,Audit details 0,39,2020-01-31,Compliant,27.93,0.66,48.67,2.51,12.93,Neutral
+2,Issuer_2,Consumer Goods,AAA,1641,Stock,2020-02-29,15979153.95,EUR,9.46,3.77,5.97,9.91,None,Audit details 1,3,2020-02-29,Non-Compliant,8.42,0.56,48.44,1.94,7.46,Neutral
+3,Issuer_3,Healthcare,BBB,3267,Stock,2020-03-31,10354640.53,USD,7.81,7.5,9.86,2.05,Minor,Audit details 2,32,2020-03-31,Under Review,28.76,2.34,37.48,6.73,18.51,Neutral
+4,Issuer_4,Consumer Goods,AA,2589,Bond,2020-04-30,14155267.99,CNY,1.13,3.93,5.37,3.79,Severe,Audit details 3,10,2020-04-30,Compliant,16.15,1.05,6.5,7.36,21.2,Positive
+5,Issuer_5,Consumer Goods,AAA,1854,Bond,2020-05-31,24778713.84,CNY,9.31,8.29,9.24,9.26,None,Audit details 4,10,2020-05-31,Under Review,9.63,0.17,37.91,1.28,5.01,Negative
+6,Issuer_6,Finance,B,2759,Stock,2020-06-30,19261656.49,JPY,9.74,5.69,2.36,7.22,None,Audit details 5,19,2020-06-30,Non-Compliant,18.55,2.91,1.23,9.43,5.03,Positive
+7,Issuer_7,Healthcare,BB,4296,Stock,2020-07-31,20339881.87,EUR,9.96,0.64,7.6,0.48,Minor,Audit details 6,46,2020-07-31,Non-Compliant,26.82,2.65,1.11,1.47,1.1,Neutral
+8,Issuer_8,Healthcare,A,3432,Stock,2020-08-31,42366443.9,USD,0.56,0.37,5.31,7.82,None,Audit details 7,34,2020-08-31,Compliant,23.31,2.78,16.18,5.87,22.09,Neutral
+9,Issuer_9,Healthcare,BBB,4474,Stock,2020-09-30,46570824.91,JPY,7.37,1.34,7.21,8.28,Moderate,Audit details 8,33,2020-09-30,Non-Compliant,25.16,2.98,24.43,7.38,19.91,Neutral
+10,Issuer_10,Consumer Goods,B,2661,Stock,2020-10-31,4450390.41,GBP,5.46,0.14,0.62,7.51,Moderate,Audit details 9,23,2020-10-31,Compliant,21.47,0.52,38.52,8.84,14.24,Positive
+11,Issuer_11,Energy,A,2153,Stock,2020-11-30,11237017.16,JPY,7.06,0.75,1.48,8.0,Severe,Audit details 10,28,2020-11-30,Non-Compliant,22.31,1.19,34.16,7.43,25.33,Positive
+12,Issuer_12,Healthcare,A,2076,Bond,2020-12-31,33886032.32,JPY,9.69,6.92,1.33,8.25,None,Audit details 11,32,2020-12-31,Non-Compliant,26.23,2.27,22.3,8.22,24.17,Neutral
+13,Issuer_13,Consumer Goods,AAA,2707,Stock,2021-01-31,18573692.28,EUR,6.88,5.34,6.87,1.86,Minor,Audit details 12,7,2021-01-31,Compliant,11.24,2.09,13.68,4.06,17.56,Positive
+14,Issuer_14,Finance,A,3777,Stock,2021-02-28,13454018.8,GBP,8.37,7.5,8.44,2.36,Moderate,Audit details 13,29,2021-02-28,Compliant,17.24,0.46,49.86,8.33,26.05,Positive
+15,Issuer_15,Energy,BB,2695,Bond,2021-03-31,15469238.83,JPY,8.67,9.13,7.5,6.34,Minor,Audit details 14,8,2021-03-31,Compliant,10.53,2.45,21.31,1.72,6.18,Neutral
+16,Issuer_16,Finance,B,2733,Bond,2021-04-30,16804987.45,USD,8.38,5.85,0.3,9.08,Minor,Audit details 15,1,2021-04-30,Non-Compliant,29.69,0.67,22.57,9.05,3.36,Positive
+17,Issuer_17,Energy,A,2439,Bond,2021-05-31,42584819.95,USD,4.26,7.26,8.67,3.16,Moderate,Audit details 16,3,2021-05-31,Non-Compliant,28.6,0.67,8.18,5.93,8.09,Negative
+18,Issuer_18,Consumer Goods,AAA,3294,Bond,2021-06-30,7694445.24,CNY,2.23,7.57,3.54,5.88,Minor,Audit details 17,24,2021-06-30,Under Review,5.99,1.61,39.74,8.36,1.71,Negative
+19,Issuer_19,Technology,BB,1835,Stock,2021-07-31,35736638.85,GBP,3.97,3.78,3.97,6.83,Moderate,Audit details 18,23,2021-07-31,Compliant,22.64,1.78,34.68,5.07,15.94,Negative
+20,Issuer_20,Energy,AA,4510,Stock,2021-08-31,28088178.87,GBP,8.92,2.41,1.05,4.52,Minor,Audit details 19,8,2021-08-31,Non-Compliant,28.13,1.74,11.04,6.79,28.1,Negative
+21,Issuer_21,Finance,B,1202,Stock,2021-09-30,15528997.04,CNY,1.47,2.05,7.37,7.14,Moderate,Audit details 20,47,2021-09-30,Non-Compliant,9.51,0.27,4.12,5.74,1.18,Neutral
+22,Issuer_22,Consumer Goods,A,4255,Stock,2021-10-31,21569261.97,JPY,5.13,2.51,1.82,9.0,None,Audit details 21,37,2021-10-31,Compliant,19.2,2.63,34.02,7.58,3.66,Neutral
+23,Issuer_23,Energy,AAA,1122,Stock,2021-11-30,13554140.24,GBP,2.33,2.75,5.64,6.24,Severe,Audit details 22,3,2021-11-30,Under Review,27.89,0.8,32.73,1.73,13.57,Neutral
+24,Issuer_24,Technology,AA,1400,Stock,2021-12-31,30964171.83,USD,5.81,2.07,8.41,5.4,Moderate,Audit details 23,33,2021-12-31,Compliant,5.85,0.39,13.66,1.54,28.02,Negative
+25,Issuer_25,Technology,AA,1766,Bond,2022-01-31,4998114.84,USD,8.63,8.78,0.89,4.39,Moderate,Audit details 24,28,2022-01-31,Under Review,22.44,2.67,47.54,3.22,9.48,Negative
+26,Issuer_26,Healthcare,BBB,1293,Stock,2022-02-28,1254058.28,EUR,8.8,7.57,5.35,5.77,Severe,Audit details 25,47,2022-02-28,Non-Compliant,12.43,2.87,7.55,2.44,15.22,Positive
+27,Issuer_27,Healthcare,BB,3327,Bond,2022-03-31,31766826.33,GBP,2.37,0.47,2.33,3.55,Moderate,Audit details 26,8,2022-03-31,Under Review,28.11,2.59,21.62,8.85,1.25,Positive
+28,Issuer_28,Finance,A,4908,Bond,2022-04-30,10519423.72,JPY,9.08,2.69,3.43,3.91,Moderate,Audit details 27,34,2022-04-30,Non-Compliant,29.28,2.43,47.18,2.97,4.45,Negative
+29,Issuer_29,Energy,AAA,3931,Stock,2022-05-31,4476104.93,CNY,5.92,0.22,4.74,5.32,Minor,Audit details 28,35,2022-05-31,Compliant,28.61,1.97,20.99,9.78,29.6,Negative
+30,Issuer_30,Energy,BBB,4681,Bond,2022-06-30,20442407.53,CNY,3.5,4.98,3.55,0.67,Severe,Audit details 29,32,2022-06-30,Compliant,16.86,1.65,31.93,4.03,28.95,Negative
+31,Issuer_31,Healthcare,BB,1197,Stock,2022-07-31,3487658.02,JPY,7.08,4.76,6.49,2.29,None,Audit details 30,24,2022-07-31,Compliant,26.55,0.26,19.88,2.64,0.15,Negative
+32,Issuer_32,Energy,BBB,4029,Bond,2022-08-31,44444240.3,EUR,4.82,8.31,4.8,5.43,Moderate,Audit details 31,14,2022-08-31,Under Review,26.11,1.23,13.71,8.11,28.55,Positive
+33,Issuer_33,Energy,B,2930,Stock,2022-09-30,2353221.82,CNY,3.78,3.08,5.84,4.32,Severe,Audit details 32,32,2022-09-30,Non-Compliant,12.98,1.12,49.2,6.93,19.17,Negative
+34,Issuer_34,Technology,BB,4582,Bond,2022-10-31,29364379.88,GBP,7.05,8.16,7.37,3.33,Minor,Audit details 33,46,2022-10-31,Compliant,25.72,0.78,20.47,5.48,26.04,Positive
+35,Issuer_35,Healthcare,BB,3799,Stock,2022-11-30,22485232.03,EUR,2.49,9.68,5.58,7.31,None,Audit details 34,43,2022-11-30,Compliant,5.93,2.17,44.7,6.0,13.64,Negative
+36,Issuer_36,Consumer Goods,A,3191,Stock,2022-12-31,33929280.63,GBP,3.3,0.88,5.87,6.94,Severe,Audit details 35,16,2022-12-31,Non-Compliant,19.91,1.49,11.5,7.47,15.47,Negative
+37,Issuer_37,Healthcare,BB,1608,Stock,2023-01-31,17079480.71,USD,4.34,7.92,5.64,1.67,None,Audit details 36,4,2023-01-31,Compliant,10.75,0.24,10.66,3.06,14.67,Negative
+38,Issuer_38,Consumer Goods,BBB,4272,Stock,2023-02-28,8597039.22,EUR,2.54,5.9,3.79,8.79,None,Audit details 37,37,2023-02-28,Non-Compliant,8.01,0.66,1.56,9.97,20.01,Positive
+39,Issuer_39,Technology,BB,2147,Stock,2023-03-31,49110203.53,CNY,4.05,4.8,3.37,4.95,None,Audit details 38,21,2023-03-31,Non-Compliant,6.92,2.05,32.58,9.77,4.19,Positive
+40,Issuer_40,Finance,A,1186,Bond,2023-04-30,42107741.6,EUR,5.71,4.21,9.0,7.41,Moderate,Audit details 39,14,2023-04-30,Non-Compliant,22.41,0.23,18.43,6.85,0.9,Neutral
+41,Issuer_41,Energy,A,4397,Bond,2023-05-31,43159826.3,EUR,7.41,7.85,6.08,5.73,Moderate,Audit details 40,31,2023-05-31,Non-Compliant,13.5,2.55,43.22,2.8,9.24,Negative
+42,Issuer_42,Technology,B,3511,Bond,2023-06-30,13262316.67,EUR,7.67,6.39,2.44,9.98,Minor,Audit details 41,48,2023-06-30,Non-Compliant,23.12,1.49,23.66,7.12,21.14,Neutral
+43,Issuer_43,Energy,BBB,4420,Stock,2023-07-31,2902901.99,EUR,8.23,8.05,4.98,7.52,Minor,Audit details 42,18,2023-07-31,Under Review,6.63,1.44,48.41,1.65,6.06,Neutral
+44,Issuer_44,Finance,AA,2794,Bond,2023-08-31,15860010.22,GBP,7.44,9.03,3.3,7.07,Severe,Audit details 43,7,2023-08-31,Compliant,12.88,1.78,9.28,1.28,20.2,Positive
+45,Issuer_45,Finance,AA,1659,Stock,2023-09-30,27317038.93,USD,6.81,6.17,9.34,7.79,Minor,Audit details 44,10,2023-09-30,Under Review,18.49,2.47,43.43,3.32,29.1,Positive
+46,Issuer_46,Technology,BB,3811,Stock,2023-10-31,17005910.85,JPY,2.38,9.8,0.08,1.43,None,Audit details 45,7,2023-10-31,Compliant,24.77,1.04,38.83,5.16,2.82,Neutral
+47,Issuer_47,Finance,B,4002,Bond,2023-11-30,41565581.19,EUR,4.0,6.08,2.25,2.05,None,Audit details 46,33,2023-11-30,Under Review,12.97,2.03,38.55,8.81,20.18,Negative
+48,Issuer_48,Consumer Goods,AAA,2955,Bond,2023-12-31,14305602.88,CNY,4.78,6.37,3.65,7.14,Moderate,Audit details 47,23,2023-12-31,Non-Compliant,20.65,1.7,42.24,7.54,13.31,Positive
+49,Issuer_49,Finance,BB,3450,Stock,2024-01-31,48297339.69,EUR,0.83,5.55,4.88,4.94,None,Audit details 48,21,2024-01-31,Compliant,27.15,0.8,38.05,7.68,26.04,Negative
+50,Issuer_50,Energy,B,2369,Bond,2024-02-29,23405992.92,CNY,5.28,0.91,8.51,7.55,Severe,Audit details 49,19,2024-02-29,Compliant,20.4,2.64,31.31,4.83,5.31,Negative
+51,Issuer_51,Energy,BBB,2986,Stock,2024-03-31,42259130.68,GBP,4.36,7.26,0.88,1.03,None,Audit details 50,48,2024-03-31,Under Review,10.82,2.39,6.56,4.11,20.78,Neutral
+52,Issuer_52,Energy,BBB,2534,Stock,2024-04-30,10524621.67,CNY,8.02,5.47,8.06,5.36,None,Audit details 51,19,2024-04-30,Under Review,5.61,1.98,1.63,4.34,25.14,Neutral
+53,Issuer_53,Energy,BBB,1146,Stock,2024-05-31,21156341.35,JPY,9.78,4.51,0.56,3.79,Severe,Audit details 52,36,2024-05-31,Compliant,26.75,2.55,46.04,9.89,28.34,Neutral
+54,Issuer_54,Consumer Goods,BBB,4219,Stock,2024-06-30,35276098.33,USD,5.56,9.1,8.42,4.57,Minor,Audit details 53,29,2024-06-30,Under Review,5.53,2.6,30.83,1.36,20.5,Neutral
+55,Issuer_55,Healthcare,BBB,3911,Stock,2024-07-31,7779301.53,CNY,3.23,2.98,0.52,6.04,Minor,Audit details 54,18,2024-07-31,Under Review,26.87,2.13,39.83,8.8,14.92,Positive
+56,Issuer_56,Technology,B,2734,Bond,2024-08-31,7504525.69,CNY,0.43,5.24,0.18,5.02,Severe,Audit details 55,2,2024-08-31,Under Review,18.22,2.51,24.08,6.21,18.54,Positive
+57,Issuer_57,Energy,B,2843,Bond,2024-09-30,48507306.49,USD,9.25,6.98,6.97,5.4,Moderate,Audit details 56,1,2024-09-30,Non-Compliant,28.48,2.09,5.87,4.95,26.07,Neutral
+58,Issuer_58,Finance,A,1488,Stock,2024-10-31,36015160.1,JPY,9.19,7.96,9.97,4.86,None,Audit details 57,47,2024-10-31,Non-Compliant,24.97,2.04,6.26,7.53,17.12,Positive
+59,Issuer_59,Energy,AA,3976,Stock,2024-11-30,3012308.32,EUR,2.53,4.59,8.97,4.09,Severe,Audit details 58,5,2024-11-30,Under Review,29.95,1.86,34.28,5.38,0.91,Neutral
+60,Issuer_60,Finance,BBB,2959,Bond,2024-12-31,20542224.17,CNY,6.95,8.42,5.76,7.72,None,Audit details 59,20,2024-12-31,Under Review,13.77,2.26,21.52,8.86,27.93,Negative
+61,Issuer_61,Finance,AAA,2663,Bond,2025-01-31,22242516.14,USD,0.75,7.69,9.17,0.12,Moderate,Audit details 60,11,2025-01-31,Non-Compliant,24.18,0.48,10.03,9.11,20.69,Negative
+62,Issuer_62,Energy,B,3598,Stock,2025-02-28,37458089.51,GBP,1.66,0.66,0.05,5.98,None,Audit details 61,42,2025-02-28,Non-Compliant,15.05,2.64,24.58,4.8,20.3,Negative
+63,Issuer_63,Consumer Goods,AAA,3385,Bond,2025-03-31,13292165.84,USD,2.17,0.46,9.75,5.66,Severe,Audit details 62,2,2025-03-31,Compliant,17.0,2.62,3.21,3.49,6.47,Neutral
+64,Issuer_64,Finance,AAA,3919,Stock,2025-04-30,10032350.04,GBP,2.94,6.21,4.91,7.16,None,Audit details 63,3,2025-04-30,Compliant,20.69,0.09,29.1,6.33,19.77,Negative
+65,Issuer_65,Finance,AAA,1640,Bond,2025-05-31,4962775.36,JPY,9.96,3.47,7.23,5.99,Minor,Audit details 64,23,2025-05-31,Non-Compliant,26.84,2.48,13.45,9.21,11.82,Positive
+66,Issuer_66,Energy,A,2802,Stock,2025-06-30,21987409.27,EUR,6.97,2.09,8.21,8.27,Moderate,Audit details 65,12,2025-06-30,Under Review,29.6,0.39,39.88,2.9,19.54,Negative
+67,Issuer_67,Finance,B,3520,Bond,2025-07-31,34736495.14,USD,3.84,5.8,7.18,9.59,Moderate,Audit details 66,20,2025-07-31,Under Review,24.21,1.01,15.52,6.61,3.2,Negative
+68,Issuer_68,Finance,AAA,2969,Stock,2025-08-31,3851486.18,CNY,7.37,3.42,5.35,3.43,Moderate,Audit details 67,5,2025-08-31,Under Review,15.44,2.23,22.76,6.68,19.74,Negative
+69,Issuer_69,Energy,BBB,3198,Bond,2025-09-30,45845472.65,JPY,9.15,5.37,4.77,2.27,Severe,Audit details 68,37,2025-09-30,Under Review,15.53,0.48,0.58,7.6,29.98,Positive
+70,Issuer_70,Energy,BB,2438,Bond,2025-10-31,22675259.26,USD,9.59,4.6,8.39,4.24,Moderate,Audit details 69,38,2025-10-31,Compliant,23.44,2.45,3.62,2.18,1.45,Neutral
+71,Issuer_71,Technology,AAA,4369,Stock,2025-11-30,12749580.6,CNY,0.58,5.85,2.05,2.88,Minor,Audit details 70,30,2025-11-30,Non-Compliant,10.97,2.5,19.62,7.44,29.32,Positive
+72,Issuer_72,Consumer Goods,A,2634,Bond,2025-12-31,5599791.21,USD,3.95,4.0,9.68,6.15,Severe,Audit details 71,9,2025-12-31,Under Review,7.76,1.52,24.0,9.18,12.21,Neutral
+73,Issuer_73,Consumer Goods,B,1262,Stock,2026-01-31,9960433.86,GBP,1.07,6.98,7.11,9.12,Minor,Audit details 72,34,2026-01-31,Compliant,13.87,0.02,30.0,2.62,26.12,Neutral
+74,Issuer_74,Finance,A,2787,Bond,2026-02-28,46796085.87,USD,3.36,1.8,2.0,1.39,None,Audit details 73,44,2026-02-28,Under Review,12.18,0.86,14.58,3.14,23.47,Negative
+75,Issuer_75,Consumer Goods,AAA,3191,Stock,2026-03-31,32275259.1,USD,1.7,6.97,7.36,1.01,None,Audit details 74,35,2026-03-31,Non-Compliant,12.41,1.85,34.75,9.74,17.01,Neutral
+76,Issuer_76,Finance,B,3393,Bond,2026-04-30,26318116.61,USD,6.47,4.12,5.3,2.56,None,Audit details 75,22,2026-04-30,Compliant,10.84,2.94,43.01,2.63,22.15,Positive
+77,Issuer_77,Technology,BB,1623,Stock,2026-05-31,33198455.1,JPY,3.88,8.74,7.07,7.26,None,Audit details 76,44,2026-05-31,Non-Compliant,6.05,1.9,38.99,8.69,26.36,Positive
+78,Issuer_78,Energy,AAA,2016,Bond,2026-06-30,22347972.04,USD,2.29,5.15,7.68,5.93,Minor,Audit details 77,24,2026-06-30,Non-Compliant,5.45,0.78,1.98,5.43,12.12,Neutral
+79,Issuer_79,Energy,A,4643,Stock,2026-07-31,36771926.51,CNY,2.66,9.73,0.87,1.02,Severe,Audit details 78,17,2026-07-31,Compliant,29.69,1.9,24.03,3.23,9.81,Negative
+80,Issuer_80,Energy,AA,1880,Bond,2026-08-31,3338090.26,GBP,3.6,6.02,5.06,9.19,Severe,Audit details 79,10,2026-08-31,Compliant,15.69,1.62,5.25,8.84,20.03,Negative
+81,Issuer_81,Consumer Goods,BBB,3049,Stock,2026-09-30,28735823.31,GBP,2.6,2.24,9.32,7.9,Moderate,Audit details 80,30,2026-09-30,Compliant,14.61,2.34,12.1,5.01,24.24,Positive
+82,Issuer_82,Technology,A,3944,Stock,2026-10-31,8773675.93,USD,4.53,8.22,3.21,0.23,Minor,Audit details 81,46,2026-10-31,Compliant,21.99,0.32,49.33,5.63,22.87,Negative
+83,Issuer_83,Consumer Goods,B,2327,Stock,2026-11-30,6888067.74,JPY,0.32,3.45,5.94,6.51,None,Audit details 82,23,2026-11-30,Compliant,10.46,2.28,7.12,4.23,23.93,Neutral
+84,Issuer_84,Consumer Goods,AAA,3301,Bond,2026-12-31,17752103.67,JPY,2.8,3.48,3.69,7.71,Minor,Audit details 83,32,2026-12-31,Compliant,28.75,1.62,24.94,6.34,13.07,Neutral
+85,Issuer_85,Technology,BBB,4723,Stock,2027-01-31,5498154.22,CNY,4.11,0.32,4.54,3.74,Moderate,Audit details 84,17,2027-01-31,Compliant,24.66,2.89,30.91,2.47,24.54,Positive
+86,Issuer_86,Technology,AAA,1452,Bond,2027-02-28,5613692.43,USD,6.03,5.49,5.49,0.69,Moderate,Audit details 85,17,2027-02-28,Under Review,7.24,1.03,35.12,4.52,3.61,Neutral
+87,Issuer_87,Technology,B,4108,Stock,2027-03-31,16259252.16,GBP,2.71,5.34,5.49,0.77,Minor,Audit details 86,14,2027-03-31,Non-Compliant,15.44,1.9,27.98,9.72,16.33,Positive
+88,Issuer_88,Technology,AAA,2183,Bond,2027-04-30,48996015.9,JPY,1.33,3.56,2.02,1.04,Minor,Audit details 87,9,2027-04-30,Compliant,26.98,2.8,0.49,3.32,0.17,Neutral
+89,Issuer_89,Energy,AA,4062,Stock,2027-05-31,9591183.22,USD,0.76,8.94,6.85,8.4,Minor,Audit details 88,40,2027-05-31,Under Review,28.62,0.31,16.32,6.91,9.74,Positive
+90,Issuer_90,Healthcare,BBB,3056,Bond,2027-06-30,1840893.99,JPY,9.41,1.29,0.88,9.11,Severe,Audit details 89,2,2027-06-30,Under Review,16.69,2.81,25.89,3.93,10.99,Negative
+91,Issuer_91,Healthcare,BBB,4304,Bond,2027-07-31,38404856.73,JPY,4.17,3.3,1.39,1.23,None,Audit details 90,45,2027-07-31,Under Review,20.34,2.06,4.39,7.96,11.89,Neutral
+92,Issuer_92,Technology,B,4170,Stock,2027-08-31,40538735.88,GBP,5.81,3.22,0.03,2.36,Minor,Audit details 91,25,2027-08-31,Non-Compliant,9.18,0.2,17.53,2.18,20.86,Neutral
+93,Issuer_93,Healthcare,AA,2682,Bond,2027-09-30,17968911.73,EUR,9.19,0.92,1.17,1.66,Minor,Audit details 92,39,2027-09-30,Compliant,29.78,0.9,1.66,9.73,11.66,Positive
+94,Issuer_94,Healthcare,A,3863,Bond,2027-10-31,23769016.83,CNY,0.83,4.81,4.73,1.86,Minor,Audit details 93,9,2027-10-31,Under Review,10.79,2.12,3.93,5.08,13.46,Positive
+95,Issuer_95,Technology,AAA,3255,Stock,2027-11-30,32838910.45,CNY,8.77,6.88,6.06,8.37,Moderate,Audit details 94,22,2027-11-30,Non-Compliant,28.57,0.2,19.85,3.12,7.13,Neutral
+96,Issuer_96,Healthcare,BB,2154,Bond,2027-12-31,3354887.29,GBP,5.52,5.12,7.94,3.32,Moderate,Audit details 95,43,2027-12-31,Non-Compliant,21.24,1.75,6.64,1.66,11.2,Positive
+97,Issuer_97,Consumer Goods,AAA,1403,Bond,2028-01-31,47508140.85,JPY,1.65,1.57,1.07,3.11,Severe,Audit details 96,46,2028-01-31,Non-Compliant,20.19,1.04,28.38,2.53,6.82,Neutral
+98,Issuer_98,Finance,AAA,3199,Bond,2028-02-29,44447338.98,USD,4.11,3.77,8.51,2.27,None,Audit details 97,4,2028-02-29,Under Review,17.82,1.86,34.47,5.68,2.2,Negative
+99,Issuer_99,Finance,A,3101,Stock,2028-03-31,13783787.54,JPY,7.78,0.03,7.46,6.08,Severe,Audit details 98,26,2028-03-31,Compliant,10.77,0.14,40.03,4.03,18.1,Positive
+100,Issuer_100,Technology,AAA,4191,Bond,2028-04-30,1749922.47,GBP,4.8,8.68,4.09,3.79,None,Audit details 99,29,2028-04-30,Under Review,9.41,2.61,10.01,8.46,20.05,Neutral
